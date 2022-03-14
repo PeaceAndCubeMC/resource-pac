@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "pac_textures:pac_model/buildbattle/series_films/cameraxe1"},
+    {"predicate": {"custom_model_data": 2}, "model": "pac_textures:pac_model/buildbattle/series_films/cameraxe2"},
+    {"predicate": {"custom_model_data": 3}, "model": "pac_textures:pac_model/buildbattle/series_films/cameraxe3"},
+    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/chop"},
+    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/chop"}
+  ]
+}

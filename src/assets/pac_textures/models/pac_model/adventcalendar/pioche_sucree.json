@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "pac_textures:pac_model/adventcalendar/pioche_sucree"
+    }
+}

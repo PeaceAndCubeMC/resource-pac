@@ -1,0 +1,6 @@
+{
+    "parent": "item/pufferfish",
+    "textures": {
+        "layer0": "pac_textures:pac_model/event/peche_hivernale/poisson/fugu_gele"
+    }
+}

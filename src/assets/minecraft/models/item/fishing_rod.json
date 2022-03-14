@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        },
+        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/pull"},
+        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/pull"},
+        {"predicate": {"custom_model_data": 21000}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl1_1"},
+        {"predicate": {"custom_model_data": 21001}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl2_1"},
+        {"predicate": {"custom_model_data": 21002}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl3_1"},
+        {"predicate": {"custom_model_data": 21003}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl4_1"},
+        {"predicate": {"custom_model_data": 21004}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl5_1"},
+        {"predicate": {"custom_model_data": 21005}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_skin_1"},
+	{"predicate": {"cast": 1, "custom_model_data": 21000}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl1_0"},
+        {"predicate": {"cast": 1, "custom_model_data": 21001}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl2_0"},
+        {"predicate": {"cast": 1, "custom_model_data": 21002}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl3_0"},
+        {"predicate": {"cast": 1, "custom_model_data": 21003}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl4_0"},
+        {"predicate": {"cast": 1, "custom_model_data": 21004}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl5_0"},
+        {"predicate": {"cast": 1, "custom_model_data": 21005}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_skin_0"}
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl1_1"
+    }
+}

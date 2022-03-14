@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "./fleau_abime"
+  },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [40, 90, 0],
+			"translation": [0, 11, 1],
+			"scale": [1.8, 1.8, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, -90, 0],
+			"translation": [0, 11, 1],
+			"scale": [1.8, 1.8, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, 100, 0],
+			"translation": [1.5, 7, 3],
+			"scale": [1.6, 1.6, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, -80, 0],
+			"translation": [1.5, 7, 3],
+			"scale": [1.6, 1.6, 1]
+		},
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 7, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [1, 1, 1]
+		},
+		"head": {
+			"rotation": [0, 0, -40],
+			"translation": [13, -4, -7],
+			"scale": [1.8, 1.8, 1]
+		},
+		"fixed": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [1, 1, 1]
+		}
+	}
+}
