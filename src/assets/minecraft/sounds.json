@@ -1,4 +1,16 @@
 {
+  "spartan1023.sauvage": {
+    "sounds": [
+      "peaceandcube:spartan1023/sauvage"
+    ],
+    "category": "music"
+  },
+  "prout": {
+    "sounds": [
+      "peaceandcube:vicow/prout"
+    ],
+    "category": "player"
+  },
   "magic.bonk": {
     "sounds": [
       "magic:spells/bonk1",
