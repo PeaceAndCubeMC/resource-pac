@@ -1,6 +1,14 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "§4§lP§6§lA§2§lC §f- §3Requiert Optifine"
+    "description": ["",
+      {"text": "P", "color": "red", "bold":true},
+      {"text": "A", "color": "gold", "bold":true},
+      {"text": "C", "color": "green", "bold":true},
+      {"text": " - ", "color": "white"},
+      {"text": "Requiert Optifine", "color": "dark_aqua"},
+      {"text": "\nVersion : "},
+      {"text": "8 avril 2022", "color": "gray"}
+    ]
   }
 }
