@@ -5,6 +5,8 @@
   },
 
   "overrides": [
+    {"predicate": { "custom_model_data": 3011}, "model": "peaceandcube:profile/homes/notes"},
+    {"predicate": { "custom_model_data": 3023}, "model": "peaceandcube:profile/claims/name"},
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"}
   ]
 }

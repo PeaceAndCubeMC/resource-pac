@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/template_bed",
+  "textures": {
+    "particle": "minecraft:block/red_wool"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 3004}, "model": "peaceandcube:profile/main/homes"},
+    {"predicate": { "custom_model_data": 3010}, "model": "peaceandcube:profile/homes/beds/red"}
+  ]
+}

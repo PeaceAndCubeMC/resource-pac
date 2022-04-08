@@ -5,6 +5,7 @@
   },
 
   "overrides": [
+    {"predicate": { "custom_model_data": 3001}, "model": "peaceandcube:profile/main/deco3"},
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/generic/yes"}
   ]
 }

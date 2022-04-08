@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/knowledge_book"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 3004}, "model": "peaceandcube:profile/main/rules"},
+    {"predicate": { "custom_model_data": 3022}, "model": "peaceandcube:profile/claims/permissions"}
+  ]
+}

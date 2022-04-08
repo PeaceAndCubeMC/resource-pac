@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_shovel"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 3004}, "model": "peaceandcube:profile/main/claims"},
+    {"predicate": { "custom_model_data": 3020}, "model": "peaceandcube:profile/claims/claim_world"},
+    {"predicate": { "custom_model_data": 3021}, "model": "peaceandcube:profile/claims/claim_nether"}
+  ]
+}
