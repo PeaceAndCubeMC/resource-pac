@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_shovel"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_base"},
+    {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_orange"},
+    {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_magenta"},
+    {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_light_blue"},
+    {"predicate": {"custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_lime"},
+    {"predicate": {"custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_pink"},
+    {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_red"},
+    {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_yellow"},
+    {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_purple"},
+    {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/shovel/shovel_rainbow"}
+  ]
+}

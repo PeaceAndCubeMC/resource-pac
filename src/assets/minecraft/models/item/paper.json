@@ -5,8 +5,34 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 3011}, "model": "peaceandcube:profile/homes/notes"},
-    {"predicate": { "custom_model_data": 3023}, "model": "peaceandcube:profile/claims/name"},
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"}
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"},
+
+    {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_orange"},
+    {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_magenta"},
+    {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_light_blue"},
+    {"predicate": {"custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_lime"},
+    {"predicate": {"custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_pink"},
+    {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_red"},
+    {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_yellow"},
+    {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_purple"},
+
+    {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/armor"},
+    {"predicate": {"custom_model_data": 511}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/attackkb"},
+    {"predicate": {"custom_model_data": 512}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/attackspeed"},
+    {"predicate": {"custom_model_data": 513}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/damage"},
+    {"predicate": {"custom_model_data": 514}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/health"},
+    {"predicate": {"custom_model_data": 515}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/kresistance"},
+    {"predicate": {"custom_model_data": 516}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/luck"},
+    {"predicate": {"custom_model_data": 517}, "model": "pac_textures:pac_model/donjon/donjon_devlose/boost/speed"},
+
+    {"predicate": {"custom_model_data": 518}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_orange"},
+    {"predicate": {"custom_model_data": 519}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_magenta"},
+    {"predicate": {"custom_model_data": 520}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_light_blue"},
+    {"predicate": {"custom_model_data": 521}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_lime"},
+    {"predicate": {"custom_model_data": 522}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_pink"},
+    {"predicate": {"custom_model_data": 523}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_red"},
+    {"predicate": {"custom_model_data": 524}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_yellow"},
+    {"predicate": {"custom_model_data": 525}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_purple"},
+    {"predicate": {"custom_model_data": 526}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_rainbow"}
   ]
 }
