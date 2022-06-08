@@ -5,10 +5,9 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/upgrades"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/upgrades"},
-
-{"predicate": {"custom_model_data": 224}, "model": "pac_textures:pac_model/donjon/harry_covert/patte_tofu"}
+  {"predicate": {"custom_model_data": 224}, "model": "pac_textures:pac_model/donjon/harry_covert/patte_tofu"},
+  {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/upgrades"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/upgrades"}
 
   ]
 }
