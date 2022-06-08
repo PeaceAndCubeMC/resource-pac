@@ -5,7 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"},
 
     {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_orange"},
     {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/cartes/carte_magenta"},
@@ -33,6 +32,11 @@
     {"predicate": {"custom_model_data": 523}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_red"},
     {"predicate": {"custom_model_data": 524}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_yellow"},
     {"predicate": {"custom_model_data": 525}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_purple"},
-    {"predicate": {"custom_model_data": 526}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_rainbow"}
+    {"predicate": {"custom_model_data": 526}, "model": "pac_textures:pac_model/donjon/donjon_devlose/chroma/chroma_rainbow"},
+
+    {"predicate": { "custom_model_data": 3011}, "model": "peaceandcube:profile/homes/notes"},
+    {"predicate": { "custom_model_data": 3023}, "model": "peaceandcube:profile/claims/name"},
+    
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"}
   ]
 }
