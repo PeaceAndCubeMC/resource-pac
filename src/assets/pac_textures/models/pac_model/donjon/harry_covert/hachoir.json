@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_axe",
+    "textures": {
+      "layer0": "pac_textures:pac_model/donjon/harry_covert/hachoir"
+    }
+  }

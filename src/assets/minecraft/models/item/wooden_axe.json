@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 222}, "model": "pac_textures:pac_model/donjon/harry_covert/hache_troll"}
+  ]
+}

@@ -1,69 +1,120 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "minecraft:item/bow"
-  },
-  "display": {
-      "thirdperson_righthand": {
-          "rotation": [ -80, 260, -40 ],
-          "translation": [ -1, -2, 2.5 ],
-          "scale": [ 0.9, 0.9, 0.9 ]
-      },
-      "thirdperson_lefthand": {
-          "rotation": [ -80, -280, 40 ],
-          "translation": [ -1, -2, 2.5 ],
-          "scale": [ 0.9, 0.9, 0.9 ]
-      },
-      "firstperson_righthand": {
-          "rotation": [ 0, -90, 25 ],
-          "translation": [ 1.13, 3.2, 1.13],
-          "scale": [ 0.68, 0.68, 0.68 ]
-      },
-      "firstperson_lefthand": {
-          "rotation": [ 0, 90, -25 ],
-          "translation": [ 1.13, 3.2, 1.13],
-          "scale": [ 0.68, 0.68, 0.68 ]
-      }
-  },
-  "overrides": [
-    {
-        "predicate": {
-            "pulling": 1
-        },
-        "model": "item/bow_pulling_0"
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "minecraft:item/bow"
     },
-    {
-        "predicate": {
-            "pulling": 1,
-            "pull": 0.65
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
         },
-        "model": "item/bow_pulling_1"
-    },
-    {
-        "predicate": {
-            "pulling": 1,
-            "pull": 0.9
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
         },
-        "model": "item/bow_pulling_2"
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
     },
-
-    {"predicate": {"custom_model_data": 18001}, "model": "magic:bows/egypt/egypt"},
-    {"predicate": {"custom_model_data": 18002}, "model": "magic:bows/skinny/bow"},
-    {"predicate": {"custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_standby"},
-
-    {"predicate": {"pulling": 1, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_0"},
-    {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_1"},
-    {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_2"},
-
-    {"predicate": {"pulling": 1, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_0"},
-    {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_1"},
-    {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_2"},
-
-    {"predicate": {"pulling": 1, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_0"},
-    {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_1"},
-    {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_2"},
-
-    {"predicate": {"custom_model_data": 18010}, "model": "magic:icons/spells/bow"},
-    {"predicate": {"custom_model_data": 18011}, "model": "magic:icons_disabled/spells/bow"}
-  ]
-}
+    "overrides": [
+      {
+          "predicate": {
+              "pulling": 1
+          },
+          "model": "item/bow_pulling_0"
+      },
+      {
+          "predicate": {
+              "pulling": 1,
+              "pull": 0.65
+          },
+          "model": "item/bow_pulling_1"
+      },
+      {
+          "predicate": {
+              "pulling": 1,
+              "pull": 0.9
+          },
+          "model": "item/bow_pulling_2"
+      },
+  
+      {"predicate": {"custom_model_data": 18001}, "model": "magic:bows/egypt/egypt"},
+      {"predicate": {"custom_model_data": 18002}, "model": "magic:bows/skinny/bow"},
+      {"predicate": {"custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_standby"},
+  
+      {"predicate": {"pulling": 1, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_2"},
+  
+      {"predicate": {"pulling": 1, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_2"},
+  
+      {"predicate": {"pulling": 1, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 18010}, "model": "magic:icons/spells/bow"},
+      {"predicate": {"custom_model_data": 18011}, "model": "magic:icons_disabled/spells/bow"},
+  
+      {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_base"},
+      {"predicate": {"pulling": 1, "custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_base_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_base_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_base_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_orange"},
+      {"predicate": {"pulling": 1, "custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_orange_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_orange_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_orange_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_magenta"},
+      {"predicate": {"pulling": 1, "custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_magenta_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_magenta_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_magenta_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_light_blue"},
+      {"predicate": {"pulling": 1, "custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_light_blue_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_light_blue_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_light_blue_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_lime"},
+      {"predicate": {"pulling": 1, "custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_lime_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_lime_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_lime_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_pink"},
+      {"predicate": {"pulling": 1, "custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_pink_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_pink_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_pink_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_red"},
+      {"predicate": {"pulling": 1, "custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_red_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_red_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_red_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_yellow"},
+      {"predicate": {"pulling": 1, "custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_yellow_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_yellow_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_yellow_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_purple"},
+      {"predicate": {"pulling": 1, "custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_purple_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_purple_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_purple_pulling_2"},
+  
+      {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow"},
+      {"predicate": {"pulling": 1, "custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow_pulling_2"}
+    ]
+  }
+  

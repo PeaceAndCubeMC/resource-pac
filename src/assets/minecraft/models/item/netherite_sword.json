@@ -18,6 +18,17 @@
         {"predicate": {"custom_model_data": 18012}, "model": "magic:wands/felmglow"},
         {"predicate": {"custom_model_data": 18013}, "model": "magic:wands/rivenglow"},
         {"predicate": {"custom_model_data": 18014}, "model": "magic:wands/silver"},
-        {"predicate": {"custom_model_data": 18015}, "model": "magic:wands/lavad"}
+        {"predicate": {"custom_model_data": 18015}, "model": "magic:wands/lavad"},
+
+        {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_base"},
+      {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_orange"},
+      {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_magenta"},
+      {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_light_blue"},
+      {"predicate": {"custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_lime"},
+      {"predicate": {"custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_pink"},
+      {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_red"},
+      {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_yellow"},
+      {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_purple"},
+      {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_rainbow"}
     ]
 }

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 223}, "model": "pac_textures:pac_model/donjon/harry_covert/croc_tofu"},
+    {"predicate": {"custom_model_data": 225}, "model": "pac_textures:pac_model/donjon/harry_covert/epee_magique"}
+  ]
+}
