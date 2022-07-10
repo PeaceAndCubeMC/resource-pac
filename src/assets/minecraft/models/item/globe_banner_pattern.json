@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/globe_banner_pattern"
+  },
+  "overrides": [
+      { "predicate": {"custom_model_data":4315}, "model": "pac_textures:pac_model/worldtour/wt15/drapeauwt15" }
+  ]
+}
