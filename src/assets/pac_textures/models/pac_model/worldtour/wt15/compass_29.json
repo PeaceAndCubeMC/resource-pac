@@ -2,5 +2,11 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "pac_textures:pac_model/worldtour/wt15/compass_29"
-  }
+  },
+	"display": {
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -6.5]
+		}
+	}
 }
