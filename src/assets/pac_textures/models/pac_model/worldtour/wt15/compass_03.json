@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pac_textures:pac_model/worldtour/wt15/compass_03"
+  }
+}
