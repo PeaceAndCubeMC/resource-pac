@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/flower_banner_pattern"
   },
   "overrides": [
+        {"predicate": { "custom_model_data": 822}, "model": "pac_textures:pac_model/event/loterie_ete_2022/pagaie_texture"},
         {"predicate": { "custom_model_data": 21005}, "model": "pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_skin"}
+
     ]
 }
