@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "pac_textures:pac_model/event/loterie_ete_2022/pagaie_texture"
+    }
+}

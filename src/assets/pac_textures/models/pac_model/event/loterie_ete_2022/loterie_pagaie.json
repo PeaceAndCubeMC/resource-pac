@@ -1,0 +1,125 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "pac_textures:pac_model/event/loterie_ete_2022/loterie_pagaie"
+	},
+	"elements": [
+		{
+			"name": "manche",
+			"from": [7.5, 8, 7.5],
+			"to": [8.5, 27, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0.5, 0.5, 10.5], "texture": "#1"},
+				"east": {"uv": [0.5, 0.5, 1, 10.5], "texture": "#1"},
+				"south": {"uv": [1, 0.5, 1.5, 10.5], "texture": "#1"},
+				"west": {"uv": [1.5, 0.5, 2, 10.5], "texture": "#1"},
+				"up": {"uv": [1, 0, 1.5, 0.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "manche2",
+			"from": [7.4, 0, 7.4],
+			"to": [8.6, 8, 8.6],
+			"faces": {
+				"north": {"uv": [0, 10, 0.5, 14], "texture": "#1"},
+				"east": {"uv": [0.5, 10, 1, 14], "texture": "#1"},
+				"south": {"uv": [1, 10, 1.5, 14], "texture": "#1"},
+				"west": {"uv": [1.5, 10, 2, 14], "texture": "#1"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#1"},
+				"down": {"uv": [1, 0, 1.5, 0.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "corps2",
+			"from": [4.5, 22, 7.75],
+			"to": [11.5, 31, 8.25],
+			"faces": {
+				"north": {"uv": [2.5, 1, 6, 5.5], "texture": "#1"},
+				"east": {"uv": [2, 1, 2.5, 5.5], "texture": "#1"},
+				"south": {"uv": [2.5, 1, 6, 5.5], "texture": "#1"},
+				"west": {"uv": [6, 1, 6.5, 5.5], "texture": "#1"},
+				"up": {"uv": [2.5, 0.5, 6, 1], "texture": "#1"},
+				"down": {"uv": [2.5, 6, 6, 5.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "corps3",
+			"from": [5.5, 31, 7.75],
+			"to": [10.5, 32, 8.25],
+			"faces": {
+				"north": {"uv": [3, 0.5, 5.5, 1], "texture": "#1"},
+				"east": {"uv": [3, 0.5, 2.5, 1], "texture": "#1"},
+				"south": {"uv": [3, 0.5, 5.5, 1], "texture": "#1"},
+				"west": {"uv": [5.5, 0.5, 6, 1], "texture": "#1"},
+				"up": {"uv": [3, 0, 5.5, 0.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 5.5, 0.5], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "corps3",
+			"from": [5.5, 20, 7.75],
+			"to": [10.5, 22, 8.25],
+			"faces": {
+				"north": {"uv": [3, 5.5, 5.5, 6.5], "texture": "#1"},
+				"east": {"uv": [2.5, 5.5, 3, 6.5], "texture": "#1"},
+				"south": {"uv": [3, 5.5, 5.5, 6.5], "texture": "#1"},
+				"west": {"uv": [5.5, 5.5, 6, 6.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 5.5, 0.5], "texture": "#missing"},
+				"down": {"uv": [3, 6.5, 5.5, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "corps3",
+			"from": [6.5, 18, 7.75],
+			"to": [9.5, 20, 8.25],
+			"faces": {
+				"north": {"uv": [3.5, 6.5, 5, 7.5], "texture": "#1"},
+				"east": {"uv": [3, 6.5, 3.5, 7.5], "texture": "#1"},
+				"south": {"uv": [3.5, 6.5, 5, 7.5], "texture": "#1"},
+				"west": {"uv": [5, 6.5, 5.5, 7.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 5.5, 0.5], "texture": "#missing"},
+				"down": {"uv": [3.5, 7.5, 5, 8], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 2, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 2, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-50, 90, 0],
+			"translation": [1, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-50, 90, 0],
+			"translation": [1, 2, 1]
+		},
+		"ground": {
+			"rotation": [140, 0, 0],
+			"translation": [0, 10, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-4.25, -4, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 7.25, 16],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, -4.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}
