@@ -13,6 +13,7 @@
       {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/pickaxe_red"},
       {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/pickaxe_yellow"},
       {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/pickaxe_purple"},
-      {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/pickaxe_rainbow"}
+      {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/pickaxe_rainbow"},
+      {"predicate": { "custom_model_data": 2022101}, "model": "pac_textures:pac_model/event/halloween2022/pioche_chauve_souris"}
   ]
 }

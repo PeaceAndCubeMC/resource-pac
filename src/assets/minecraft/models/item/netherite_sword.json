@@ -31,6 +31,8 @@
       {"predicate": {"custom_model_data": 18012}, "model": "magic:wands/felmglow"},
       {"predicate": {"custom_model_data": 18013}, "model": "magic:wands/rivenglow"},
       {"predicate": {"custom_model_data": 18014}, "model": "magic:wands/silver"},
-      {"predicate": {"custom_model_data": 18015}, "model": "magic:wands/lavad"}
+      {"predicate": {"custom_model_data": 18015}, "model": "magic:wands/lavad"},
+
+      {"predicate": { "custom_model_data": 2022103}, "model": "pac_textures:pac_model/event/halloween2022/epee_glace"}
     ]
 }
