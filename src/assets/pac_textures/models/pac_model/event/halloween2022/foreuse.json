@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pac_textures:pac_model/event/halloween_2022/foreuse/texture",
-		"1": "pac_textures:pac_model/event/halloween_2022/foreuse/texture2",
-		"2": "pac_textures:pac_model/event/halloween_2022/foreuse/texture3",
-		"particle": "pac_textures:pac_model/event/halloween_2022/foreuse/texture"
+		"0": "pac_textures:pac_model/event/halloween2022/foreuse/texture",
+		"1": "pac_textures:pac_model/event/halloween2022/foreuse/texture2",
+		"2": "pac_textures:pac_model/event/halloween2022/foreuse/texture3",
+		"particle": "pac_textures:pac_model/event/halloween2022/foreuse/texture"
 	},
 	"elements": [
 		{

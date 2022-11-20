@@ -9,6 +9,37 @@
 	{"predicate": { "custom_model_data": 2022101}, "model": "pac_textures:pac_model/event/halloween2022/pioche_chauve_souris_texture"},
 	{"predicate": { "custom_model_data": 2022102}, "model": "pac_textures:pac_model/event/halloween2022/hachampignon_texture"},
 	{"predicate": { "custom_model_data": 2022103}, "model": "pac_textures:pac_model/event/halloween2022/epee_glace_texture"},
-	{"predicate": { "custom_model_data": 2022104}, "model": "pac_textures:pac_model/event/halloween2022/faux_texture"}
+	{"predicate": { "custom_model_data": 2022104}, "model": "pac_textures:pac_model/event/halloween2022/faux_texture"},
+
+	{"predicate": { "custom_model_data": 2022110}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B1"},
+	{"predicate": { "custom_model_data": 2022111}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B2"},
+	{"predicate": { "custom_model_data": 2022112}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B3"},
+	{"predicate": { "custom_model_data": 2022113}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B4"},
+	{"predicate": { "custom_model_data": 2022114}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B5"},
+	{"predicate": { "custom_model_data": 2022115}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B6"},
+	{"predicate": { "custom_model_data": 2022116}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B7"},
+	{"predicate": { "custom_model_data": 2022117}, "model": "pac_textures:pac_model/event/halloween2022/adr/T1B8"},
+	{"predicate": { "custom_model_data": 2022118}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B1_1"},
+	{"predicate": { "custom_model_data": 2022119}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B1_2"},
+	{"predicate": { "custom_model_data": 2022120}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B1"},
+	{"predicate": { "custom_model_data": 2022121}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B2_1"},
+	{"predicate": { "custom_model_data": 2022122}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B2_2"},
+	{"predicate": { "custom_model_data": 2022123}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B2"},
+	{"predicate": { "custom_model_data": 2022124}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B3_1"},
+	{"predicate": { "custom_model_data": 2022125}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B3_2"},
+	{"predicate": { "custom_model_data": 2022126}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B3"},
+	{"predicate": { "custom_model_data": 2022127}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B4_1"},
+	{"predicate": { "custom_model_data": 2022128}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B4_2"},
+	{"predicate": { "custom_model_data": 2022129}, "model": "pac_textures:pac_model/event/halloween2022/adr/T2B4"},
+	{"predicate": { "custom_model_data": 2022130}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B1_1"},
+	{"predicate": { "custom_model_data": 2022131}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B1_2"},
+	{"predicate": { "custom_model_data": 2022132}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B1"},
+	{"predicate": { "custom_model_data": 2022133}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B2_1"},
+	{"predicate": { "custom_model_data": 2022134}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B2_2"},
+	{"predicate": { "custom_model_data": 2022135}, "model": "pac_textures:pac_model/event/halloween2022/adr/T3B2"},
+	{"predicate": { "custom_model_data": 2022136}, "model": "pac_textures:pac_model/event/halloween2022/adr/T4B1_1"},
+	{"predicate": { "custom_model_data": 2022137}, "model": "pac_textures:pac_model/event/halloween2022/adr/T4B1_2"},
+	{"predicate": { "custom_model_data": 2022138}, "model": "pac_textures:pac_model/event/halloween2022/adr/T4B1"}
+
     ]
 }
