@@ -1,0 +1,30 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ZIP_FILE_NAME: Resource-PaC_${{ github.ref_name }}.zip
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Create a ZIP archive
+      - name: Create ZIP archive
+        run: |
+          cd src
+          zip -r ${{ env.ZIP_FILE_NAME }} .
+
+      # Create a release
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: src/${{ env.ZIP_FILE_NAME }}
+          generate_release_notes: true
