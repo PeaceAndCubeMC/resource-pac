@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 2105}, "model": "pac_textures:pac_model/event/peche_hivernale/poisson/compagnon_hiver"}
+    {"predicate": { "custom_model_data": 2105}, "model": "peaceandcube:event/peche_hivernale/compagnon_hiver"}
   ]
 }

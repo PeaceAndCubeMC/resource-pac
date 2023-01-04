@@ -14,6 +14,6 @@
   "overrides": [
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/cat"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/cat"},
-    {"predicate": { "custom_model_data": 2101}, "model": "pac_textures:pac_model/event/peche_hivernale/poisson/morue_glace"}
+    {"predicate": { "custom_model_data": 2101}, "model": "peaceandcube:event/peche_hivernale/morue_glace"}
   ]
 }

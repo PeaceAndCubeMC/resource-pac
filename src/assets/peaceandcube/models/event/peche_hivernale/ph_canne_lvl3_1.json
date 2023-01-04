@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "peaceandcube:event/peche_hivernale/ph_canne_lvl3_1"
+    }
+}

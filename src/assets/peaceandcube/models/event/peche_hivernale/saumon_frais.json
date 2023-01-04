@@ -1,0 +1,6 @@
+{
+    "parent": "item/pufferfish",
+    "textures": {
+        "layer0": "peaceandcube:event/peche_hivernale/saumon_frais"
+    }
+}

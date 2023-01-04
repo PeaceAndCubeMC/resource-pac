@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "peaceandcube:worldtour/wt15/compass_29"
+  },
+	"display": {
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -6.5]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "peaceandcube:event/peche_hivernale/ph_canne_skin"
+    }
+}

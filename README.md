@@ -7,11 +7,10 @@
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
-| 1               | heart_of_the_sea          | pac_textures:pac_model/buildbattle/series_films/clap                      |
-| 1               | iron_axe                  | pac_textures:pac_model/buildbattle/series_films/cameraxe1                 |
-| 1               | spyglass                  | pac_textures:pac_model/buildbattle/series_films/spyglass_camera           |
-| 2               | iron_axe                  | pac_textures:pac_model/buildbattle/series_films/cameraxe2                 |
-| 3               | iron_axe                  | pac_textures:pac_model/buildbattle/series_films/cameraxe3                 |
+| 1               | heart_of_the_sea          | peaceandcube:buildbattle/series_films/clap                                |
+| 1               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe1                           |
+| 2               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe2                           |
+| 3               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe3                           |
 
 </details>
 
@@ -20,8 +19,8 @@
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
-| 4315            | compass                   | pac_textures:pac_model/worldtour/wt15/compass_00                          |
-| 4315            | globe_banner_pattern      | pac_textures:pac_model/worldtour/wt15/drapeauwt15                         |
+| 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00                                    |
+| 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15                                   |
 
 </details>
 
@@ -187,19 +186,19 @@
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
-| 2021            | iron_pickaxe              | pac_textures:pac_model/adventcalendar/pioche_sucree                       |
-| 2101            | cod                       | pac_textures:pac_model/event/peche_hivernale/poisson/morue_glace          |
-| 2102            | pufferfish                | pac_textures:pac_model/event/peche_hivernale/poisson/fugu_gele            |
-| 2103            | tropical_fish             | pac_textures:pac_model/event/peche_hivernale/poisson/nemo_perdu           |
-| 2104            | salmon                    | pac_textures:pac_model/event/peche_hivernale/poisson/saumon_frais         |
-| 2105            | axolotl_bucket            | pac_textures:pac_model/event/peche_hivernale/poisson/compagnon_hiver      |
-| 21000           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl1_1  |
-| 21001           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl2_1  |
-| 21002           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl3_1  |
-| 21003           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl4_1  |
-| 21004           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_lvl5_1  |
-| 21005           | fishing_rod               | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_skin_1  |
-| 21005           | flower_banner_pattern     | pac_textures:pac_model/event/peche_hivernale/fishing_rod/ph_canne_skin    |
+| 2021            | iron_pickaxe              | peaceandcube:adventcalendar/pioche_sucree                                 |
+| 2101            | cod                       | peaceandcube:event/peche_hivernale/morue_glace                            |
+| 2102            | pufferfish                | peaceandcube:event/peche_hivernale/fugu_gele                              |
+| 2103            | tropical_fish             | peaceandcube:event/peche_hivernale/nemo_perdu                             |
+| 2104            | salmon                    | peaceandcube:event/peche_hivernale/saumon_frais                           |
+| 2105            | axolotl_bucket            | peaceandcube:event/peche_hivernale/compagnon_hiver                        |
+| 21000           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl1_1                        |
+| 21001           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl2_1                        |
+| 21002           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl3_1                        |
+| 21003           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl4_1                        |
+| 21004           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl5_1                        |
+| 21005           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_skin_1                        |
+| 21005           | flower_banner_pattern     | peaceandcube:event/peche_hivernale/ph_canne_skin                          |
 
 </details>
 

@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/iron_pickaxe"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 2021}, "model": "pac_textures:pac_model/adventcalendar/pioche_sucree"},
+    {"predicate": {"custom_model_data": 2021}, "model": "peaceandcube:adventcalendar/pioche_sucree"},
     {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/mine"},
     {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/mine"}
   ]

@@ -7,6 +7,6 @@
   "overrides": [
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/tame"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/tame"},
-    {"predicate": { "custom_model_data": 2104}, "model": "pac_textures:pac_model/event/peche_hivernale/poisson/saumon_frais"}
+    {"predicate": { "custom_model_data": 2104}, "model": "peaceandcube:event/peche_hivernale/saumon_frais"}
   ]
 }

@@ -7,6 +7,6 @@
   "overrides": [
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/ghast"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/ghast"},
-    {"predicate": { "custom_model_data": 2102}, "model": "pac_textures:pac_model/event/peche_hivernale/poisson/fugu_gele"}
+    {"predicate": { "custom_model_data": 2102}, "model": "peaceandcube:event/peche_hivernale/fugu_gele"}
   ]
 }
