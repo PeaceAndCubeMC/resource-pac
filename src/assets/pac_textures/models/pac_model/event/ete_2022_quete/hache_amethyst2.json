@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/netherite_axe",
-    "textures": {
-        "layer0": "pac_textures:pac_model/event/ete_2022_quete/hache_amethyst2"
-    }
-}

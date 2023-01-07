@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/netherite_axe"
   },
   "overrides": [
-      {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_base"},
+    {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_base"},
     {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_orange"},
     {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_magenta"},
     {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_light_blue"},
@@ -14,7 +14,7 @@
     {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_yellow"},
     {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_purple"},
     {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/axe/axe_rainbow"},
-    {"predicate": { "custom_model_data": 822}, "model": "pac_textures:pac_model/event/ete_2022_quete/hache_amethyst2"},
+    {"predicate": { "custom_model_data": 822}, "model": "peaceandcube:event/ete_2022_quete/hache_amethyst2"},
     {"predicate": { "custom_model_data": 2022102}, "model": "pac_textures:pac_model/event/halloween2022/hachampignon"}
   ]
 }

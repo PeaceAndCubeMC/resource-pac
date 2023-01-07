@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/diamond_sword"
   },
     "overrides": [
-        {"predicate": {"custom_model_data": 822}, "model": "pac_textures:pac_model/event/loterie_ete_2022/loterie_pagaie"},
+        {"predicate": {"custom_model_data": 822}, "model": "peaceandcube:event/loterie_ete_2022/loterie_pagaie"},
         {"predicate": {"custom_model_data": 18001}, "model": "magic:weapons/emerald_sword"},
         {"predicate": {"custom_model_data": 18002}, "model": "magic:other/sword_master"},
         {"predicate": {"custom_model_data": 18003}, "model": "magic:sabers/lightsaber_green"},

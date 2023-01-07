@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/flower_banner_pattern"
   },
   "overrides": [
-        {"predicate": { "custom_model_data": 822}, "model": "pac_textures:pac_model/event/loterie_ete_2022/pagaie_texture"},
-        {"predicate": { "custom_model_data": 21005}, "model": "peaceandcube:event/peche_hivernale/ph_canne_skin"},
+    {"predicate": { "custom_model_data": 822}, "model": "peaceandcube:event/loterie_ete_2022/pagaie_texture"},
+    {"predicate": { "custom_model_data": 21005}, "model": "peaceandcube:event/peche_hivernale/ph_canne_skin"},
 	{"predicate": { "custom_model_data": 2022101}, "model": "pac_textures:pac_model/event/halloween2022/pioche_chauve_souris_texture"},
 	{"predicate": { "custom_model_data": 2022102}, "model": "pac_textures:pac_model/event/halloween2022/hachampignon_texture"},
 	{"predicate": { "custom_model_data": 2022103}, "model": "pac_textures:pac_model/event/halloween2022/epee_glace_texture"},

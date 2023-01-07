@@ -207,11 +207,11 @@
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
-| 822             | diamond_axe               | pac_textures:pac_model/event/ete_2022_quete/hache_amethyst1               |
-| 822             | diamond_sword             | pac_textures:pac_model/event/loterie_ete_2022/loterie_pagaie              |
-| 822             | flower_banner_pattern     | pac_textures:pac_model/event/loterie_ete_2022/pagaie_texture              |
-| 822             | netherite_axe             | pac_textures:pac_model/event/ete_2022_quete/hache_amethyst2               |
-| 822             | netherite_sword           | pac_textures:pac_model/event/loterie_ete_2022/loterie_pagaie              |
+| 822             | diamond_axe               | peaceandcube:event/ete_2022_quete/hache_amethyst1                         |
+| 822             | diamond_sword             | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
+| 822             | netherite_axe             | peaceandcube:event/ete_2022_quete/hache_amethyst2                         |
+| 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
 
 </details>
 

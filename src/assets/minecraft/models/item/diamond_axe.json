@@ -287,6 +287,6 @@
     {"predicate": {"damaged": 0, "damage": 0.179257362355954}, "model": "magic:icons/races/halfling"},
 
     {"predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_axe"},
-    {"predicate": { "custom_model_data": 822}, "model": "pac_textures:pac_model/event/ete_2022_quete/hache_amethyst1"}
+    {"predicate": { "custom_model_data": 822}, "model": "peaceandcube:event/ete_2022_quete/hache_amethyst1"}
   ]
 }
