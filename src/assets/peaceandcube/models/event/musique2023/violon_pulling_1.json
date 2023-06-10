@@ -1,0 +1,6 @@
+{
+    "parent": "peaceandcube:event/musique2023/violon",
+    "textures": {
+        "layer0": "peaceandcube:event/musique2023/violon_pulling_1"
+    }
+}

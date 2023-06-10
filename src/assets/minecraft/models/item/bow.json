@@ -97,7 +97,12 @@
       {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow_pulling_1"},
       {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_rainbow_pulling_2"},
 
-        
+      
+      {"predicate": {"custom_model_data": 623}, "model": "peaceandcube:event/musique2023/violon"},
+      {"predicate": {"pulling": 1, "custom_model_data": 623}, "model": "peaceandcube:event/musique2023/violon_pulling_0"},
+      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 623}, "model": "peaceandcube:event/musique2023/violon_pulling_1"},
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 623}, "model": "peaceandcube:event/musique2023/violon_pulling_2"},
+  
       {"predicate": {"custom_model_data": 18001}, "model": "magic:bows/egypt/egypt"},
       {"predicate": {"custom_model_data": 18002}, "model": "magic:bows/skinny/bow"},
       {"predicate": {"custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_standby"},
