@@ -1,5 +1,19 @@
 # resource-pac
 
+## Special credits
+
+```
+Voxel Revolution - Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+```
+
+```
+Boogie Party - Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+```
+
 ## List of CustomModelData
 
 <details>
@@ -258,6 +272,19 @@
 | 2022136         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1_1                     |
 | 2022137         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1_2                     |
 | 2022138         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1                       |
+
+</details>
+
+<details>
+<summary>Fête de la musique 2023</summary>
+
+| CustomModelData | Item                      | Model path                                                                |
+|-----------------|---------------------------|---------------------------------------------------------------------------|
+| 623             | bow                       | peaceandcube:event/musique2023/violon                                     |
+| 623             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_pause                           |
+| 624             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_play                            |
+| 625             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_pause                           |
+| 626             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_play                            |
 
 </details>
 
