@@ -1,0 +1,6 @@
+{
+    "parent": "item/knowledge_book",
+    "textures": {
+        "layer0": "peaceandcube:event/musique2023/radio_vert_play"
+    }
+}

@@ -11,6 +11,29 @@
     ],
     "category": "player"
   },
+  "m23_violon": {
+    "sounds": [
+      "peaceandcube:event/musique2023/violon1",
+      "peaceandcube:event/musique2023/violon2",
+      "peaceandcube:event/musique2023/violon3",
+      "peaceandcube:event/musique2023/violon4",
+      "peaceandcube:event/musique2023/violon5",
+      "peaceandcube:event/musique2023/violon6"
+    ],
+    "category": "player"
+  },
+  "voxel_revolution": {
+    "sounds": [
+      "peaceandcube:event/musique2023/voxel_revolution"
+    ],
+    "category": "player"
+  },
+  "boogie_party": {
+    "sounds": [
+      "peaceandcube:event/musique2023/boogie_party"
+    ],
+    "category": "player"
+  },
   "magic.bonk": {
     "sounds": [
       "magic:spells/bonk1",
