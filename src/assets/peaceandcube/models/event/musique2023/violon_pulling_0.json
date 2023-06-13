@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	        "layer0": "peaceandcube:event/musique2023/violon_pulling_1"
+	        "layer0": "peaceandcube:event/musique2023/violon_pulling_0"
 	},
 	"display": {
 		"thirdperson_righthand": {
