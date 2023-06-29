@@ -79,6 +79,7 @@
         {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_red"},
         {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_yellow"},
         {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_purple"},
-        {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_rainbow"}
+        {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_rainbow"},
+        {"predicate": {"custom_model_data": 3050}, "model": "peaceandcube:profile/settings/ptime"}
     ]
 }
