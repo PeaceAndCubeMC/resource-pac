@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "peaceandcube:event/festin_estival/huile_tournesol",
+        "layer1": "peaceandcube:event/festin_estival/huile_tournesol"
+    }
+}
