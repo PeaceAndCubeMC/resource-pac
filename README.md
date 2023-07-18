@@ -289,6 +289,39 @@ http://creativecommons.org/licenses/by/3.0/
 </details>
 
 <details>
+<summary>Été 2023 - Festin Estival</summary>
+
+| CustomModelData | Item          | Model path                                         |
+|-----------------|-------------- |----------------------------------------------------|
+| 7230            | pumpkin_seeds | peaceandcube:event/festin_estival/riz              |
+| 7230            | sugar         | peaceandcube:event/festin_estival/sel              |
+| 7231            | sugar         | peaceandcube:event/festin_estival/farine           |
+| 7230            | tropical_fish | peaceandcube:event/festin_estival/moule            |
+| 7230            | wheat         | peaceandcube:event/festin_estival/houblon          |
+| 7231            | wheat         | peaceandcube:event/festin_estival/mais             |
+| 7230            | salmon        | peaceandcube:event/festin_estival/thon             |
+| 7230            | potion        | peaceandcube:event/festin_estival/huile_tournesol  |
+| 7231            | potion        | peaceandcube:event/festin_estival/jus_pomme        |
+| 7232            | potion        | peaceandcube:event/festin_estival/sirop_coquelicot |
+| 7233            | potion        | peaceandcube:event/festin_estival/chocolat_chaud   |
+| 7234            | potion        | peaceandcube:event/festin_estival/biere            |
+| 7230            | carrot        | peaceandcube:event/festin_estival/carottes_rapees  |
+| 7230            | cooked_salmon | peaceandcube:event/festin_estival/sushi_saumon     |
+| 7231            | cooked_salmon | peaceandcube:event/festin_estival/sushi_thon       |
+| 7232            | cooked_salmon | peaceandcube:event/festin_estival/moules_frites    |
+| 7230            | baked_potato  | peaceandcube:event/festin_estival/frites           |
+| 7230            | pumpkin_pie   | peaceandcube:event/festin_estival/tarte_pommes     |
+| 7231            | pumpkin_pie   | peaceandcube:event/festin_estival/gateau_chocolat  |
+| 7232            | pumpkin_pie   | peaceandcube:event/festin_estival/omelette         |
+| 7230            | potato        | peaceandcube:event/festin_estival/popcorn_sucre    |
+| 7231            | potato        | peaceandcube:event/festin_estival/popcorn_sale     |
+| 7230            | cookie        | peaceandcube:event/festin_estival/chocolat_noir    |
+| 7231            | cookie        | peaceandcube:event/festin_estival/chocolat_lait    |
+| 7232            | cookie        | peaceandcube:event/festin_estival/chocolat_blanc   |
+
+</details>
+
+<details>
 <summary>Profile</summary>
 
 | CustomModelData | Item                      | Model path                                                                |
@@ -345,5 +378,7 @@ http://creativecommons.org/licenses/by/3.0/
 | 3021            | golden_shovel             | peaceandcube:profile/claims/claim_nether                                  |
 | 3022            | knowledge_book            | peaceandcube:profile/claims/permissions                                   |
 | 3023            | paper                     | peaceandcube:profile/claims/name                                          |
+| 3050            | clock                     | peaceandcube:profile/settings/ptime                                       |
+| 3050            | sunflower                 | peaceandcube:profile/settings/pweather                                    |
 
 </details>
