@@ -318,6 +318,7 @@ http://creativecommons.org/licenses/by/3.0/
 | 7230            | cookie        | peaceandcube:event/festin_estival/chocolat_noir    |
 | 7231            | cookie        | peaceandcube:event/festin_estival/chocolat_lait    |
 | 7232            | cookie        | peaceandcube:event/festin_estival/chocolat_blanc   |
+| 7230            | iron_sword    | peaceandcube:event/festin_estival/couteau          |
 
 </details>
 
