@@ -5,6 +5,9 @@
   },
 
   "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/houblon"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/mais"},
+
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/push"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/push"},
     {"predicate": { "custom_model_data": 18003}, "model": "magic:icons/spells/smash"},

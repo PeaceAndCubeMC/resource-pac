@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_salmon"
+  },
+  
+  "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/sushi_saumon"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/sushi_thon"},
+    {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/moules_frites"}
+  ]
+}
