@@ -29,12 +29,13 @@ http://creativecommons.org/licenses/by/3.0/
 </details>
 
 <details>
-<summary>WorldTour 15</summary>
+<summary>WorldTour</summary>
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
 | 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00                                    |
 | 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15                                   |
+| 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16                                   |
 
 </details>
 
