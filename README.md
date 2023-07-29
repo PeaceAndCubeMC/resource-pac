@@ -223,10 +223,20 @@ http://creativecommons.org/licenses/by/3.0/
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
 | 822             | diamond_axe               | peaceandcube:event/ete_2022_quete/hache_amethyst1                         |
-| 822             | diamond_sword             | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
-| 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
 | 822             | netherite_axe             | peaceandcube:event/ete_2022_quete/hache_amethyst2                         |
 | 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+
+<details>
+
+<details>
+<summary>Loterie du Hippie</summary>
+
+| CustomModelData | Item                      | Model path                                                                |
+|-----------------|---------------------------|---------------------------------------------------------------------------|
+| 822             | diamond_sword+            | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
+| 823             | diamond_hoe+              | peaceandcube:event/loterie_ete_2023/rateau                                |
+| 823             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2023/rateau_texture                        |
 
 </details>
 
@@ -306,6 +316,7 @@ http://creativecommons.org/licenses/by/3.0/
 | 7232            | potion        | peaceandcube:event/festin_estival/sirop_coquelicot |
 | 7233            | potion        | peaceandcube:event/festin_estival/chocolat_chaud   |
 | 7234            | potion        | peaceandcube:event/festin_estival/biere            |
+| 7235            | potion        | peaceandcube:event/festin_estival/lait             |
 | 7230            | carrot        | peaceandcube:event/festin_estival/carottes_rapees  |
 | 7230            | cooked_salmon | peaceandcube:event/festin_estival/sushi_saumon     |
 | 7231            | cooked_salmon | peaceandcube:event/festin_estival/sushi_thon       |

@@ -10,6 +10,7 @@
         {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/sirop_coquelicot"},
         {"predicate": { "custom_model_data": 7233}, "model": "peaceandcube:event/festin_estival/chocolat_chaud"},
         {"predicate": { "custom_model_data": 7234}, "model": "peaceandcube:event/festin_estival/biere"},
+        {"predicate": { "custom_model_data": 7235}, "model": "peaceandcube:event/festin_estival/lait"},
 
         {"predicate": {"custom_model_data": 18001}, "model": "magic:food/coffee"},
         {"predicate": {"custom_model_data": 18002}, "model": "magic:food/tea"}

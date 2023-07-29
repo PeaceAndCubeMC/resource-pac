@@ -5,6 +5,7 @@
     "layer0": "minecraft:item/diamond_hoe"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 823}, "model": "peaceandcube:event/loterie_ete_2023/rateau"},
     {"predicate": {"damaged": 0, "damage": 0.000640204865557}, "model": "magic:icons/brushes/erase"},
     {"predicate": {"damaged": 0, "damage": 0.00128040973111}, "model": "magic:icons/brushes/copy"},
     {"predicate": {"damaged": 0, "damage": 0.00192061459667}, "model": "magic:icons/brushes/clone"},

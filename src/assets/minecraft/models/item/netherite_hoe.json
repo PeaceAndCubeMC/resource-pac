@@ -16,6 +16,7 @@
     {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/hoe/hoe_yellow"},
     {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/hoe/hoe_purple"},
     {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/hoe/hoe_rainbow"},
+    {"predicate": {"custom_model_data": 823}, "model": "peaceandcube:event/loterie_ete_2023/rateau"},
     {"predicate": { "custom_model_data": 2022104}, "model": "pac_textures:pac_model/event/halloween2022/faux"}
   ]
 }
