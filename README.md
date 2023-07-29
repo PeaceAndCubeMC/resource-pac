@@ -224,18 +224,18 @@ http://creativecommons.org/licenses/by/3.0/
 |-----------------|---------------------------|---------------------------------------------------------------------------|
 | 822             | diamond_axe               | peaceandcube:event/ete_2022_quete/hache_amethyst1                         |
 | 822             | netherite_axe             | peaceandcube:event/ete_2022_quete/hache_amethyst2                         |
-| 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
 
-<details>
+</details>
 
 <details>
 <summary>Loterie du Hippie</summary>
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
-| 822             | diamond_sword+            | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | diamond_sword             | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
 | 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
-| 823             | diamond_hoe+              | peaceandcube:event/loterie_ete_2023/rateau                                |
+| 823             | diamond_hoe               | peaceandcube:event/loterie_ete_2023/rateau                                |
 | 823             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2023/rateau_texture                        |
 
 </details>
