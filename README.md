@@ -236,6 +236,7 @@ http://creativecommons.org/licenses/by/3.0/
 | 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
 | 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
 | 823             | diamond_hoe               | peaceandcube:event/loterie_ete_2023/rateau                                |
+| 823             | netherite_hoe             | peaceandcube:event/loterie_ete_2023/rateau                                |
 | 823             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2023/rateau_texture                        |
 
 </details>
