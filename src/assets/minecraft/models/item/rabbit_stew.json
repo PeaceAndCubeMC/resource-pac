@@ -5,6 +5,10 @@
   },
 
   "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/salade_estivale"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/salade_fruits"},
+    {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/ratatouille"},
+
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/pickpocket"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/pickpocket"}
   ]

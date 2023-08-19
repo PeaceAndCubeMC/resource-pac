@@ -7,6 +7,7 @@
     {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/chocolat_noir"},
     {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/chocolat_lait"},
     {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/chocolat_blanc"},
+    {"predicate": { "custom_model_data": 7233}, "model": "peaceandcube:event/festin_estival/biscuit_chinois"},
 
     {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/grow"},
     {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/grow"}

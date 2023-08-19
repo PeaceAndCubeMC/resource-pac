@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/vanille"},
+
     {"predicate": {"custom_model_data": 18001}, "model": "magic:wands/old_survival_wand1"},
     {"predicate": {"custom_model_data": 18002}, "model": "magic:wands/old_survival_wand2"},
     {"predicate": {"custom_model_data": 18003}, "model": "magic:wands/survival_wand1"},

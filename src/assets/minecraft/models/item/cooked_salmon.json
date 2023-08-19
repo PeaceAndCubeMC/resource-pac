@@ -7,6 +7,8 @@
   "overrides": [
     {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/sushi_saumon"},
     {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/sushi_thon"},
-    {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/moules_frites"}
+    {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/moules_frites"},
+    {"predicate": { "custom_model_data": 7233}, "model": "peaceandcube:event/festin_estival/maki_saumon"},
+    {"predicate": { "custom_model_data": 7234}, "model": "peaceandcube:event/festin_estival/maki_thon"}
   ]
 }

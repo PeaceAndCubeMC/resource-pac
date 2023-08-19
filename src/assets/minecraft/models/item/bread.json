@@ -4,6 +4,9 @@
     "layer0": "minecraft:item/bread"
   },
   "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/pain_raisins"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/pain_chocolat"},
+
     {"predicate": {"custom_model_data": 18001}, "model": "magic:food/sandwich"},
     {"predicate": {"custom_model_data": 18002}, "model": "magic:food/toasted_sandwich"},
     {"predicate": {"custom_model_data": 18003}, "model": "magic:food/bread_slice"},
