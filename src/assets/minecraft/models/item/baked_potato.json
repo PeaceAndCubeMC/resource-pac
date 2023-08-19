@@ -6,6 +6,7 @@
 
   "overrides": [
     {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/frites"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/fromage"},
 
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/sticky"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/sticky"}

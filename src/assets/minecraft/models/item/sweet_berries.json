@@ -5,6 +5,9 @@
   },
 
   "overrides": [
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/raisin"},
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/fraise"},
+
     {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/chainlightning"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/chainlightning"}
   ]
