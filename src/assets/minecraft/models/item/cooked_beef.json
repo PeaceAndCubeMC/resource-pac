@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/tomate_farcie"},
-    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/hamburger"}
+    {"predicate": { "custom_model_data": 7231}, "model": "peaceandcube:event/festin_estival/hamburger"},
+    {"predicate": { "custom_model_data": 7232}, "model": "peaceandcube:event/festin_estival/pizza"}
   ]
 }
