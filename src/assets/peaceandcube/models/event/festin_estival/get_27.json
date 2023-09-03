@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "peaceandcube:event/festin_estival/get_27",
+        "layer1": "peaceandcube:event/festin_estival/get_27"
+    }
+}
