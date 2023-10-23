@@ -77,6 +77,11 @@
     },
     {
       "type": "directory",
+      "source": "donjon",
+      "prefix": "donjon/"
+    },
+    {
+      "type": "directory",
       "source": "event",
       "prefix": "event/"
     },

@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"0": "peaceandcube:donjon/demeure_castlewoods/hachoir"
+		"layer0": "peaceandcube:donjon/demeure_castlewoods/hachoir"
 	},
 	"display": {
 		"thirdperson_righthand": {
