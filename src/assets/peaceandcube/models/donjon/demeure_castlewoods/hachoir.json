@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "peaceandcube:donjon/demeure_castlewoods/hachoir"

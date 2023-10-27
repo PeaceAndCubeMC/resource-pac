@@ -1,8 +1,8 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"0": "peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice",
-		"particle": "peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice"
+		"layer0": "peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice"
 	},
 	"display": {
 		"thirdperson_righthand": {
