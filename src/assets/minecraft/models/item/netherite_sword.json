@@ -4,6 +4,8 @@
         "layer0": "minecraft:item/netherite_sword"
     },
     "overrides": [
+      {"predicate": {"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice"},
+      {"predicate": {"custom_model_data": 402}, "model": "peaceandcube:donjon/demeure_castlewoods/claymore"},
       {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_base"},
       {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_orange"},
       {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/sword/sword_magenta"},
