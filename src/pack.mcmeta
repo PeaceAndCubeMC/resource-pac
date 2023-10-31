@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 20
+    },
     "description": ["",
       {"text": "P", "color": "red", "bold":true},
       {"text": "A", "color": "gold", "bold":true},
@@ -8,7 +12,7 @@
       {"text": " - ", "color": "white"},
       {"text": "Requiert Optifine", "color": "dark_aqua"},
       {"text": "\nVersion : "},
-      {"text": "4 septembre 2023", "color": "gray"}
+      {"text": "31 octobre 2023", "color": "gray"}
     ]
   }
 }

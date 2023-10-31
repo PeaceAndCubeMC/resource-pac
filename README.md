@@ -443,13 +443,13 @@ http://creativecommons.org/licenses/by/3.0/
 </details>
 
 <details>
-<summary>Demeure Castlewood</summary>
+<summary>Donjon Demeure CastleWoods</summary>
 
 | CustomModelData | Item            | Model path                                                |
 |-----------------|-----------------|-----------------------------------------------------------|
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebus          |
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebus1         |
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebus2         |
+| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse          |
+| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse1         |
+| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse2         |
 | 401             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice |
 | 402             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/claymore          |
 | 401             | iron_axe        | peaceandcube:donjon/demeure_castlewoods/hachoir           |
