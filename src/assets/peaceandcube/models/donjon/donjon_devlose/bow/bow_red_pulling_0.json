@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "peaceandcube:donjon/donjon_devlose/bow/bow_red_pulling_0"
+    }
+}

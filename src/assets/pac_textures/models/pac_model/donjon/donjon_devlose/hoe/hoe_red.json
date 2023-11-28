@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_hoe",
-    "textures": {
-      "layer0": "pac_textures:pac_model/donjon/donjon_devlose/hoe/netherite_hoe_red"
-    }
-  }
-
-  

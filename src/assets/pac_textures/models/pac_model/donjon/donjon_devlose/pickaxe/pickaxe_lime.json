@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_pickaxe",
-    "textures": {
-      "layer0": "pac_textures:pac_model/donjon/donjon_devlose/pickaxe/netherite_pickaxe_lime"
-    }
-  }
-
-  

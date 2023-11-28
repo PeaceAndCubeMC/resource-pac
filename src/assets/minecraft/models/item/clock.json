@@ -70,16 +70,16 @@
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
 
-        {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model"},
-        {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_orange"},
-        {"predicate": {"custom_model_data": 503}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_magenta"},
-        {"predicate": {"custom_model_data": 504}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_light_blue"},
-        {"predicate": {"custom_model_data": 505}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_lime"},
-        {"predicate": {"custom_model_data": 506}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_pink"},
-        {"predicate": {"custom_model_data": 507}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_red"},
-        {"predicate": {"custom_model_data": 508}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_yellow"},
-        {"predicate": {"custom_model_data": 509}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_purple"},
-        {"predicate": {"custom_model_data": 510}, "model": "pac_textures:pac_model/donjon/donjon_devlose/clock/clock_model_rainbow"},
+        {"predicate": {"custom_model_data": 501}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model"},
+        {"predicate": {"custom_model_data": 502}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_orange"},
+        {"predicate": {"custom_model_data": 503}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_magenta"},
+        {"predicate": {"custom_model_data": 504}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_light_blue"},
+        {"predicate": {"custom_model_data": 505}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_lime"},
+        {"predicate": {"custom_model_data": 506}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_pink"},
+        {"predicate": {"custom_model_data": 507}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_red"},
+        {"predicate": {"custom_model_data": 508}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_yellow"},
+        {"predicate": {"custom_model_data": 509}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_purple"},
+        {"predicate": {"custom_model_data": 510}, "model": "peaceandcube:donjon/donjon_devlose/clock/clock_model_rainbow"},
         {"predicate": {"custom_model_data": 3050}, "model": "peaceandcube:profile/settings/ptime"}
     ]
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/paper",
+    "textures": {
+      "layer0": "peaceandcube:donjon/donjon_devlose/cartes/carte_purple"
+    }
+  }
+
+  

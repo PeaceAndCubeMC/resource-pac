@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_shovel",
-    "textures": {
-      "layer0": "pac_textures:pac_model/donjon/donjon_devlose/shovel/netherite_shovel_purple"
-    }
-  }
-
-  

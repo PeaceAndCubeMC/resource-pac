@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_sword",
-    "textures": {
-      "layer0": "pac_textures:pac_model/donjon/donjon_devlose/sword/netherite_sword_red"
-    }
-  }
-
-  

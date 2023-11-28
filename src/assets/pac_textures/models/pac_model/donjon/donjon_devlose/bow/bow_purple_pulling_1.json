@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "pac_textures:pac_model/donjon/donjon_devlose/bow/bow_purple_pulling_1"
-    }
-}
