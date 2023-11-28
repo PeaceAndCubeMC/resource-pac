@@ -244,46 +244,46 @@ http://creativecommons.org/licenses/by/3.0/
 <details>
 <summary>Halloween 2022</summary>
 
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 202210          | netherite_pickaxe         | pac_textures:pac_model/event/halloween2022/foreuse                        |
-| 2022101         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/pioche_chauve_souris_texture   |
-| 2022101         | netherite_pickaxe         | pac_textures:pac_model/event/halloween2022/pioche_chauve_souris           |
-| 2022102         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/hachampignon_texture           |
-| 2022102         | netherite_axe             | pac_textures:pac_model/event/halloween2022/hachampignon                   |
-| 2022103         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/epee_glace_texture             |
-| 2022103         | netherite_sword           | pac_textures:pac_model/event/halloween2022/epee_glace                     |
-| 2022104         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/faux_texture                   |
-| 2022104         | netherite_hoe             | pac_textures:pac_model/event/halloween2022/faux                           |
-| 2022110         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b1                       |
-| 2022111         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b2                       |
-| 2022112         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b3                       |
-| 2022113         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b4                       |
-| 2022114         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b5                       |
-| 2022115         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b6                       |
-| 2022116         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b7                       |
-| 2022117         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t1b8                       |
-| 2022118         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b1_1                     |
-| 2022119         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b1_2                     |
-| 2022120         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b1                       |
-| 2022121         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b2_1                     |
-| 2022122         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b2_2                     |
-| 2022123         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b2                       |
-| 2022124         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b3_1                     |
-| 2022125         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b3_2                     |
-| 2022126         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b3                       |
-| 2022127         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b4_1                     |
-| 2022128         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b4_2                     |
-| 2022129         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t2b4                       |
-| 2022130         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b1_1                     |
-| 2022131         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b1_2                     |
-| 2022132         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b1                       |
-| 2022133         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b2_1                     |
-| 2022134         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b2_2                     |
-| 2022135         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t3b2                       |
-| 2022136         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1_1                     |
-| 2022137         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1_2                     |
-| 2022138         | flower_banner_pattern     | pac_textures:pac_model/event/halloween2022/adr/t4b1                       |
+| CustomModelData | Item                      | Model path                                                      |
+|-----------------|---------------------------|-----------------------------------------------------------------|
+| 202210          | netherite_pickaxe         | peaceandcube:event/halloween2022/foreuse                        |
+| 2022101         | flower_banner_pattern     | peaceandcube:event/halloween2022/pioche_chauve_souris_texture   |
+| 2022101         | netherite_pickaxe         | peaceandcube:event/halloween2022/pioche_chauve_souris           |
+| 2022102         | flower_banner_pattern     | peaceandcube:event/halloween2022/hachampignon_texture           |
+| 2022102         | netherite_axe             | peaceandcube:event/halloween2022/hachampignon                   |
+| 2022103         | flower_banner_pattern     | peaceandcube:event/halloween2022/epee_glace_texture             |
+| 2022103         | netherite_sword           | peaceandcube:event/halloween2022/epee_glace                     |
+| 2022104         | flower_banner_pattern     | peaceandcube:event/halloween2022/faux_texture                   |
+| 2022104         | netherite_hoe             | peaceandcube:event/halloween2022/faux                           |
+| 2022110         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b1                       |
+| 2022111         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b2                       |
+| 2022112         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b3                       |
+| 2022113         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b4                       |
+| 2022114         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b5                       |
+| 2022115         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b6                       |
+| 2022116         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b7                       |
+| 2022117         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b8                       |
+| 2022118         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_1                     |
+| 2022119         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_2                     |
+| 2022120         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1                       |
+| 2022121         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_1                     |
+| 2022122         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_2                     |
+| 2022123         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2                       |
+| 2022124         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_1                     |
+| 2022125         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_2                     |
+| 2022126         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3                       |
+| 2022127         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_1                     |
+| 2022128         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_2                     |
+| 2022129         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4                       |
+| 2022130         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_1                     |
+| 2022131         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_2                     |
+| 2022132         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1                       |
+| 2022133         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_1                     |
+| 2022134         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_2                     |
+| 2022135         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2                       |
+| 2022136         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_1                     |
+| 2022137         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_2                     |
+| 2022138         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1                       |
 
 </details>
 

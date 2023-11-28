@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "peaceandcube:event/halloween2022/faux_texture"
+    }
+}

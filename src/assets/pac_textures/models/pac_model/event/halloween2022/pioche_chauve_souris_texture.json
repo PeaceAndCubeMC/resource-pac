@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "pac_textures:pac_model/event/halloween2022/pioche_chauve_souris_texture"
-    }
-}
