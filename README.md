@@ -1,5 +1,14 @@
 # resource-pac
 
+## Contributors
+
+- AstralCube
+- Devlose
+- Scari
+- ShadoMaso
+- Vico08lv
+- YanisBft
+
 ## Special credits
 
 ```
@@ -29,6 +38,20 @@ http://creativecommons.org/licenses/by/3.0/
 </details>
 
 <details>
+<summary>Loterie du Hippie</summary>
+
+| CustomModelData | Item                      | Model path                                                                |
+|-----------------|---------------------------|---------------------------------------------------------------------------|
+| 822             | diamond_sword             | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
+| 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
+| 823             | diamond_hoe               | peaceandcube:event/loterie_ete_2023/rateau                                |
+| 823             | netherite_hoe             | peaceandcube:event/loterie_ete_2023/rateau                                |
+| 823             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2023/rateau_texture                        |
+
+</details>
+
+<details>
 <summary>WorldTour</summary>
 
 | CustomModelData | Item                      | Model path                                                                |
@@ -38,6 +61,180 @@ http://creativecommons.org/licenses/by/3.0/
 | 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16                                   |
 
 </details>
+
+### Events saisonniers
+
+<details>
+<summary>Noël 2021 - Pêche hivernale</summary>
+
+| CustomModelData | Item                      | Model path                                         |
+|-----------------|---------------------------|----------------------------------------------------|
+| 2021            | iron_pickaxe              | peaceandcube:adventcalendar/pioche_sucree          |
+| 2101            | cod                       | peaceandcube:event/peche_hivernale/morue_glace     |
+| 2102            | pufferfish                | peaceandcube:event/peche_hivernale/fugu_gele       |
+| 2103            | tropical_fish             | peaceandcube:event/peche_hivernale/nemo_perdu      |
+| 2104            | salmon                    | peaceandcube:event/peche_hivernale/saumon_frais    |
+| 2105            | axolotl_bucket            | peaceandcube:event/peche_hivernale/compagnon_hiver |
+| 21000           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl1_1 |
+| 21001           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl2_1 |
+| 21002           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl3_1 |
+| 21003           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl4_1 |
+| 21004           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl5_1 |
+| 21005           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_skin_1 |
+| 21005           | flower_banner_pattern     | peaceandcube:event/peche_hivernale/ph_canne_skin   |
+
+</details>
+
+<details>
+<summary>Été 2022</summary>
+
+| CustomModelData | Item                      | Model path                                        |
+|-----------------|---------------------------|---------------------------------------------------|
+| 822             | diamond_axe               | peaceandcube:event/ete_2022_quete/hache_amethyst1 |
+| 822             | netherite_axe             | peaceandcube:event/ete_2022_quete/hache_amethyst2 |
+
+</details>
+
+<details>
+<summary>Halloween 2022</summary>
+
+| CustomModelData | Item                      | Model path                                                      |
+|-----------------|---------------------------|-----------------------------------------------------------------|
+| 202210          | netherite_pickaxe         | peaceandcube:event/halloween2022/foreuse                        |
+| 2022101         | flower_banner_pattern     | peaceandcube:event/halloween2022/pioche_chauve_souris_texture   |
+| 2022101         | netherite_pickaxe         | peaceandcube:event/halloween2022/pioche_chauve_souris           |
+| 2022102         | flower_banner_pattern     | peaceandcube:event/halloween2022/hachampignon_texture           |
+| 2022102         | netherite_axe             | peaceandcube:event/halloween2022/hachampignon                   |
+| 2022103         | flower_banner_pattern     | peaceandcube:event/halloween2022/epee_glace_texture             |
+| 2022103         | netherite_sword           | peaceandcube:event/halloween2022/epee_glace                     |
+| 2022104         | flower_banner_pattern     | peaceandcube:event/halloween2022/faux_texture                   |
+| 2022104         | netherite_hoe             | peaceandcube:event/halloween2022/faux                           |
+| 2022110         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b1                       |
+| 2022111         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b2                       |
+| 2022112         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b3                       |
+| 2022113         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b4                       |
+| 2022114         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b5                       |
+| 2022115         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b6                       |
+| 2022116         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b7                       |
+| 2022117         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b8                       |
+| 2022118         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_1                     |
+| 2022119         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_2                     |
+| 2022120         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1                       |
+| 2022121         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_1                     |
+| 2022122         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_2                     |
+| 2022123         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2                       |
+| 2022124         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_1                     |
+| 2022125         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_2                     |
+| 2022126         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3                       |
+| 2022127         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_1                     |
+| 2022128         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_2                     |
+| 2022129         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4                       |
+| 2022130         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_1                     |
+| 2022131         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_2                     |
+| 2022132         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1                       |
+| 2022133         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_1                     |
+| 2022134         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_2                     |
+| 2022135         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2                       |
+| 2022136         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_1                     |
+| 2022137         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_2                     |
+| 2022138         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1                       |
+
+</details>
+
+<details>
+<summary>Fête de la musique 2023</summary>
+
+| CustomModelData | Item                      | Model path                                      |
+|-----------------|---------------------------|-------------------------------------------------|
+| 623             | bow                       | peaceandcube:event/musique2023/violon           |
+| 623             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_pause |
+| 624             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_play  |
+| 625             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_pause |
+| 626             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_play  |
+
+</details>
+
+<details>
+<summary>Été 2023 - Festin Estival</summary>
+
+| CustomModelData | Item            | Model path                                              |
+|-----------------|-----------------|---------------------------------------------------------|
+| 7230            | pumpkin_seeds   | peaceandcube:event/festin_estival/riz                   |
+| 7230            | sugar           | peaceandcube:event/festin_estival/sel                   |
+| 7231            | sugar           | peaceandcube:event/festin_estival/farine                |
+| 7230            | tropical_fish   | peaceandcube:event/festin_estival/moule                 |
+| 7230            | wheat           | peaceandcube:event/festin_estival/houblon               |
+| 7231            | wheat           | peaceandcube:event/festin_estival/mais                  |
+| 7230            | salmon          | peaceandcube:event/festin_estival/thon                  |
+| 7230            | potion          | peaceandcube:event/festin_estival/huile_tournesol       |
+| 7231            | potion          | peaceandcube:event/festin_estival/jus_pomme             |
+| 7232            | potion          | peaceandcube:event/festin_estival/sirop_coquelicot      |
+| 7233            | potion          | peaceandcube:event/festin_estival/chocolat_chaud        |
+| 7234            | potion          | peaceandcube:event/festin_estival/biere                 |
+| 7235            | potion          | peaceandcube:event/festin_estival/lait                  |
+| 7236            | potion          | peaceandcube:event/festin_estival/jus_raisin            |
+| 7237            | potion          | peaceandcube:event/festin_estival/vin_rouge             |
+| 7238            | potion          | peaceandcube:event/festin_estival/rhum                  |
+| 7239            | potion          | peaceandcube:event/festin_estival/cidre                 |
+| 7240            | potion          | peaceandcube:event/festin_estival/get_27                |
+| 7230            | carrot          | peaceandcube:event/festin_estival/carottes_rapees       |
+| 7230            | cooked_salmon   | peaceandcube:event/festin_estival/sushi_saumon          |
+| 7231            | cooked_salmon   | peaceandcube:event/festin_estival/sushi_thon            |
+| 7232            | cooked_salmon   | peaceandcube:event/festin_estival/moules_frites         |
+| 7233            | cooked_salmon   | peaceandcube:event/festin_estival/maki_saumon           |
+| 7234            | cooked_salmon   | peaceandcube:event/festin_estival/maki_thon             |
+| 7230            | baked_potato    | peaceandcube:event/festin_estival/frites                |
+| 7231            | baked_potato    | peaceandcube:event/festin_estival/fromage               |
+| 7232            | baked_potato    | peaceandcube:event/festin_estival/beignet_oignon        |
+| 7230            | pumpkin_pie     | peaceandcube:event/festin_estival/tarte_pommes          |
+| 7231            | pumpkin_pie     | peaceandcube:event/festin_estival/gateau_chocolat       |
+| 7232            | pumpkin_pie     | peaceandcube:event/festin_estival/omelette              |
+| 7230            | potato          | peaceandcube:event/festin_estival/popcorn_sucre         |
+| 7231            | potato          | peaceandcube:event/festin_estival/popcorn_sale          |
+| 7230            | cookie          | peaceandcube:event/festin_estival/chocolat_noir         |
+| 7231            | cookie          | peaceandcube:event/festin_estival/chocolat_lait         |
+| 7232            | cookie          | peaceandcube:event/festin_estival/chocolat_blanc        |
+| 7233            | cookie          | peaceandcube:event/festin_estival/biscuit_chinois       |
+| 7230            | apple           | peaceandcube:event/festin_estival/salade_verte          |
+| 7231            | apple           | peaceandcube:event/festin_estival/tomate                |
+| 7232            | apple           | peaceandcube:event/festin_estival/avocat                |
+| 7233            | apple           | peaceandcube:event/festin_estival/poire                 |
+| 7230            | sweet_berries   | peaceandcube:event/festin_estival/raisin                |
+| 7231            | sweet_berries   | peaceandcube:event/festin_estival/fraise                |
+| 7230            | beetroot        | peaceandcube:event/festin_estival/oignon                |
+| 7230            | kelp            | peaceandcube:event/festin_estival/menthe                |
+| 7230            | gold_ingot      | peaceandcube:event/festin_estival/beurre                |
+| 7230            | porkchop        | peaceandcube:event/festin_estival/jambon                |
+| 7231            | porkchop        | peaceandcube:event/festin_estival/saucisse              |
+| 7230            | cooked_porkchop | peaceandcube:event/festin_estival/jambon_beurre         |
+| 7230            | cooked_beef     | peaceandcube:event/festin_estival/tomate_farcie         |
+| 7231            | cooked_beef     | peaceandcube:event/festin_estival/hamburger             |
+| 7232            | cooked_beef     | peaceandcube:event/festin_estival/pizza                 |
+| 7233            | cooked_beef     | peaceandcube:event/festin_estival/kebab                 |
+| 7230            | cooked_chicken  | peaceandcube:event/festin_estival/hot_dog               |
+| 7230            | rabbit_stew     | peaceandcube:event/festin_estival/salade_estivale       |
+| 7231            | rabbit_stew     | peaceandcube:event/festin_estival/salade_fruits         |
+| 7232            | rabbit_stew     | peaceandcube:event/festin_estival/ratatouille           |
+| 7230            | bread           | peaceandcube:event/festin_estival/pain_raisins          |
+| 7231            | bread           | peaceandcube:event/festin_estival/pain_chocolat         |
+| 7230            | golden_apple    | peaceandcube:event/festin_estival/glace_chocolat        |
+| 7231            | golden_apple    | peaceandcube:event/festin_estival/glace_pomme           |
+| 7232            | golden_apple    | peaceandcube:event/festin_estival/glace_poire           |
+| 7233            | golden_apple    | peaceandcube:event/festin_estival/glace_fraise          |
+| 7234            | golden_apple    | peaceandcube:event/festin_estival/glace_rhum_raisins    |
+| 7235            | golden_apple    | peaceandcube:event/festin_estival/glace_vanille         |
+| 7236            | golden_apple    | peaceandcube:event/festin_estival/glace_menthe_chocolat |
+| 7230            | mushroom_stew   | peaceandcube:event/festin_estival/mousse_chocolat       |
+| 7230            | glow_berries    | peaceandcube:event/festin_estival/bonbon_miel           |
+| 7231            | glow_berries    | peaceandcube:event/festin_estival/bonbon_pomme          |
+| 7232            | glow_berries    | peaceandcube:event/festin_estival/bonbon_fraise         |
+| 7230            | stick           | peaceandcube:event/festin_estival/vanille               |
+| 7230            | iron_sword      | peaceandcube:event/festin_estival/couteau               |
+| 7230            | written_book    | peaceandcube:event/festin_estival/guide_recettes        |
+
+</details>
+
+### Donjons
 
 <details>
 <summary>Donjon Harry Covert</summary>
@@ -71,6 +268,21 @@ http://creativecommons.org/licenses/by/3.0/
 | 225             | iron_sword                | pac_textures:pac_model/donjon/harry_covert/epee_magique                   |
 | 226             | golden_sword              | pac_textures:pac_model/donjon/harry_covert/couteau_aiguise                |
 | 227             | stone_axe                 | pac_textures:pac_model/donjon/harry_covert/hachoir                        |
+
+</details>
+
+<details>
+<summary>Donjon Demeure CastleWoods</summary>
+
+| CustomModelData | Item            | Model path                                                |
+|-----------------|-----------------|-----------------------------------------------------------|
+| 401             | crossbow        | peaceandcube:donjon/demeure_castlewoods/arquebuse         |
+| 401             | crossbow        | peaceandcube:donjon/demeure_castlewoods/arquebuse1        |
+| 401             | crossbow        | peaceandcube:donjon/demeure_castlewoods/arquebuse2        |
+| 401             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice |
+| 402             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/claymore          |
+| 401             | iron_axe        | peaceandcube:donjon/demeure_castlewoods/hachoir           |
+
 
 </details>
 
@@ -196,189 +408,7 @@ http://creativecommons.org/licenses/by/3.0/
 
 </details>
 
-<details>
-<summary>Noël 2021</summary>
-
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 2021            | iron_pickaxe              | peaceandcube:adventcalendar/pioche_sucree                                 |
-| 2101            | cod                       | peaceandcube:event/peche_hivernale/morue_glace                            |
-| 2102            | pufferfish                | peaceandcube:event/peche_hivernale/fugu_gele                              |
-| 2103            | tropical_fish             | peaceandcube:event/peche_hivernale/nemo_perdu                             |
-| 2104            | salmon                    | peaceandcube:event/peche_hivernale/saumon_frais                           |
-| 2105            | axolotl_bucket            | peaceandcube:event/peche_hivernale/compagnon_hiver                        |
-| 21000           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl1_1                        |
-| 21001           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl2_1                        |
-| 21002           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl3_1                        |
-| 21003           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl4_1                        |
-| 21004           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_lvl5_1                        |
-| 21005           | fishing_rod               | peaceandcube:event/peche_hivernale/ph_canne_skin_1                        |
-| 21005           | flower_banner_pattern     | peaceandcube:event/peche_hivernale/ph_canne_skin                          |
-
-</details>
-
-<details>
-<summary>Été 2022</summary>
-
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 822             | diamond_axe               | peaceandcube:event/ete_2022_quete/hache_amethyst1                         |
-| 822             | netherite_axe             | peaceandcube:event/ete_2022_quete/hache_amethyst2                         |
-
-</details>
-
-<details>
-<summary>Loterie du Hippie</summary>
-
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 822             | diamond_sword             | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
-| 822             | netherite_sword           | peaceandcube:event/loterie_ete_2022/loterie_pagaie                        |
-| 822             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2022/pagaie_texture                        |
-| 823             | diamond_hoe               | peaceandcube:event/loterie_ete_2023/rateau                                |
-| 823             | netherite_hoe             | peaceandcube:event/loterie_ete_2023/rateau                                |
-| 823             | flower_banner_pattern     | peaceandcube:event/loterie_ete_2023/rateau_texture                        |
-
-</details>
-
-<details>
-<summary>Halloween 2022</summary>
-
-| CustomModelData | Item                      | Model path                                                      |
-|-----------------|---------------------------|-----------------------------------------------------------------|
-| 202210          | netherite_pickaxe         | peaceandcube:event/halloween2022/foreuse                        |
-| 2022101         | flower_banner_pattern     | peaceandcube:event/halloween2022/pioche_chauve_souris_texture   |
-| 2022101         | netherite_pickaxe         | peaceandcube:event/halloween2022/pioche_chauve_souris           |
-| 2022102         | flower_banner_pattern     | peaceandcube:event/halloween2022/hachampignon_texture           |
-| 2022102         | netherite_axe             | peaceandcube:event/halloween2022/hachampignon                   |
-| 2022103         | flower_banner_pattern     | peaceandcube:event/halloween2022/epee_glace_texture             |
-| 2022103         | netherite_sword           | peaceandcube:event/halloween2022/epee_glace                     |
-| 2022104         | flower_banner_pattern     | peaceandcube:event/halloween2022/faux_texture                   |
-| 2022104         | netherite_hoe             | peaceandcube:event/halloween2022/faux                           |
-| 2022110         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b1                       |
-| 2022111         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b2                       |
-| 2022112         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b3                       |
-| 2022113         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b4                       |
-| 2022114         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b5                       |
-| 2022115         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b6                       |
-| 2022116         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b7                       |
-| 2022117         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t1b8                       |
-| 2022118         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_1                     |
-| 2022119         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1_2                     |
-| 2022120         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b1                       |
-| 2022121         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_1                     |
-| 2022122         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2_2                     |
-| 2022123         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b2                       |
-| 2022124         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_1                     |
-| 2022125         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3_2                     |
-| 2022126         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b3                       |
-| 2022127         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_1                     |
-| 2022128         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4_2                     |
-| 2022129         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t2b4                       |
-| 2022130         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_1                     |
-| 2022131         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1_2                     |
-| 2022132         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b1                       |
-| 2022133         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_1                     |
-| 2022134         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2_2                     |
-| 2022135         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t3b2                       |
-| 2022136         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_1                     |
-| 2022137         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1_2                     |
-| 2022138         | flower_banner_pattern     | peaceandcube:event/halloween2022/adr/t4b1                       |
-
-</details>
-
-<details>
-<summary>Fête de la musique 2023</summary>
-
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 623             | bow                       | peaceandcube:event/musique2023/violon                                     |
-| 623             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_pause                           |
-| 624             | knowledge_book            | peaceandcube:event/musique2023/radio_vert_play                            |
-| 625             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_pause                           |
-| 626             | knowledge_book            | peaceandcube:event/musique2023/radio_rose_play                            |
-
-</details>
-
-<details>
-<summary>Été 2023 - Festin Estival</summary>
-
-| CustomModelData | Item            | Model path                                              |
-|-----------------|-----------------|---------------------------------------------------------|
-| 7230            | pumpkin_seeds   | peaceandcube:event/festin_estival/riz                   |
-| 7230            | sugar           | peaceandcube:event/festin_estival/sel                   |
-| 7231            | sugar           | peaceandcube:event/festin_estival/farine                |
-| 7230            | tropical_fish   | peaceandcube:event/festin_estival/moule                 |
-| 7230            | wheat           | peaceandcube:event/festin_estival/houblon               |
-| 7231            | wheat           | peaceandcube:event/festin_estival/mais                  |
-| 7230            | salmon          | peaceandcube:event/festin_estival/thon                  |
-| 7230            | potion          | peaceandcube:event/festin_estival/huile_tournesol       |
-| 7231            | potion          | peaceandcube:event/festin_estival/jus_pomme             |
-| 7232            | potion          | peaceandcube:event/festin_estival/sirop_coquelicot      |
-| 7233            | potion          | peaceandcube:event/festin_estival/chocolat_chaud        |
-| 7234            | potion          | peaceandcube:event/festin_estival/biere                 |
-| 7235            | potion          | peaceandcube:event/festin_estival/lait                  |
-| 7236            | potion          | peaceandcube:event/festin_estival/jus_raisin            |
-| 7237            | potion          | peaceandcube:event/festin_estival/vin_rouge             |
-| 7238            | potion          | peaceandcube:event/festin_estival/rhum                  |
-| 7239            | potion          | peaceandcube:event/festin_estival/cidre                 |
-| 7240            | potion          | peaceandcube:event/festin_estival/get_27                |
-| 7230            | carrot          | peaceandcube:event/festin_estival/carottes_rapees       |
-| 7230            | cooked_salmon   | peaceandcube:event/festin_estival/sushi_saumon          |
-| 7231            | cooked_salmon   | peaceandcube:event/festin_estival/sushi_thon            |
-| 7232            | cooked_salmon   | peaceandcube:event/festin_estival/moules_frites         |
-| 7233            | cooked_salmon   | peaceandcube:event/festin_estival/maki_saumon           |
-| 7234            | cooked_salmon   | peaceandcube:event/festin_estival/maki_thon             |
-| 7230            | baked_potato    | peaceandcube:event/festin_estival/frites                |
-| 7231            | baked_potato    | peaceandcube:event/festin_estival/fromage               |
-| 7232            | baked_potato    | peaceandcube:event/festin_estival/beignet_oignon        |
-| 7230            | pumpkin_pie     | peaceandcube:event/festin_estival/tarte_pommes          |
-| 7231            | pumpkin_pie     | peaceandcube:event/festin_estival/gateau_chocolat       |
-| 7232            | pumpkin_pie     | peaceandcube:event/festin_estival/omelette              |
-| 7230            | potato          | peaceandcube:event/festin_estival/popcorn_sucre         |
-| 7231            | potato          | peaceandcube:event/festin_estival/popcorn_sale          |
-| 7230            | cookie          | peaceandcube:event/festin_estival/chocolat_noir         |
-| 7231            | cookie          | peaceandcube:event/festin_estival/chocolat_lait         |
-| 7232            | cookie          | peaceandcube:event/festin_estival/chocolat_blanc        |
-| 7233            | cookie          | peaceandcube:event/festin_estival/biscuit_chinois       |
-| 7230            | apple           | peaceandcube:event/festin_estival/salade_verte          |
-| 7231            | apple           | peaceandcube:event/festin_estival/tomate                |
-| 7232            | apple           | peaceandcube:event/festin_estival/avocat                |
-| 7233            | apple           | peaceandcube:event/festin_estival/poire                 |
-| 7230            | sweet_berries   | peaceandcube:event/festin_estival/raisin                |
-| 7231            | sweet_berries   | peaceandcube:event/festin_estival/fraise                |
-| 7230            | beetroot        | peaceandcube:event/festin_estival/oignon                |
-| 7230            | kelp            | peaceandcube:event/festin_estival/menthe                |
-| 7230            | gold_ingot      | peaceandcube:event/festin_estival/beurre                |
-| 7230            | porkchop        | peaceandcube:event/festin_estival/jambon                |
-| 7231            | porkchop        | peaceandcube:event/festin_estival/saucisse              |
-| 7230            | cooked_porkchop | peaceandcube:event/festin_estival/jambon_beurre         |
-| 7230            | cooked_beef     | peaceandcube:event/festin_estival/tomate_farcie         |
-| 7231            | cooked_beef     | peaceandcube:event/festin_estival/hamburger             |
-| 7232            | cooked_beef     | peaceandcube:event/festin_estival/pizza                 |
-| 7233            | cooked_beef     | peaceandcube:event/festin_estival/kebab                 |
-| 7230            | cooked_chicken  | peaceandcube:event/festin_estival/hot_dog               |
-| 7230            | rabbit_stew     | peaceandcube:event/festin_estival/salade_estivale       |
-| 7231            | rabbit_stew     | peaceandcube:event/festin_estival/salade_fruits         |
-| 7232            | rabbit_stew     | peaceandcube:event/festin_estival/ratatouille           |
-| 7230            | bread           | peaceandcube:event/festin_estival/pain_raisins          |
-| 7231            | bread           | peaceandcube:event/festin_estival/pain_chocolat         |
-| 7230            | golden_apple    | peaceandcube:event/festin_estival/glace_chocolat        |
-| 7231            | golden_apple    | peaceandcube:event/festin_estival/glace_pomme           |
-| 7232            | golden_apple    | peaceandcube:event/festin_estival/glace_poire           |
-| 7233            | golden_apple    | peaceandcube:event/festin_estival/glace_fraise          |
-| 7234            | golden_apple    | peaceandcube:event/festin_estival/glace_rhum_raisins    |
-| 7235            | golden_apple    | peaceandcube:event/festin_estival/glace_vanille         |
-| 7236            | golden_apple    | peaceandcube:event/festin_estival/glace_menthe_chocolat |
-| 7230            | mushroom_stew   | peaceandcube:event/festin_estival/mousse_chocolat       |
-| 7230            | glow_berries    | peaceandcube:event/festin_estival/bonbon_miel           |
-| 7231            | glow_berries    | peaceandcube:event/festin_estival/bonbon_pomme          |
-| 7232            | glow_berries    | peaceandcube:event/festin_estival/bonbon_fraise         |
-| 7230            | stick           | peaceandcube:event/festin_estival/vanille               |
-| 7230            | iron_sword      | peaceandcube:event/festin_estival/couteau               |
-| 7230            | written_book    | peaceandcube:event/festin_estival/guide_recettes        |
-
-</details>
+### Plugins
 
 <details>
 <summary>Profile</summary>
@@ -439,20 +469,5 @@ http://creativecommons.org/licenses/by/3.0/
 | 3023            | paper                     | peaceandcube:profile/claims/name                                          |
 | 3050            | clock                     | peaceandcube:profile/settings/ptime                                       |
 | 3050            | sunflower                 | peaceandcube:profile/settings/pweather                                    |
-
-</details>
-
-<details>
-<summary>Donjon Demeure CastleWoods</summary>
-
-| CustomModelData | Item            | Model path                                                |
-|-----------------|-----------------|-----------------------------------------------------------|
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse          |
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse1         |
-| 401             | crossbow	    | peaceandcube:donjon/demeure_castlewoods/arquebuse2         |
-| 401             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/couteau_sacrifice |
-| 402             | netherite_sword | peaceandcube:donjon/demeure_castlewoods/claymore          |
-| 401             | iron_axe        | peaceandcube:donjon/demeure_castlewoods/hachoir           |
-
 
 </details>
