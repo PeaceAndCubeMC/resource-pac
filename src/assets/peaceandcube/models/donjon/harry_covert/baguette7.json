@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "pac_textures:pac_model/donjon/harry_covert/baguette4"
+		"layer0": "peaceandcube:donjon/harry_covert/baguette7"
 	},
 	"display": {
 		"thirdperson_righthand": {

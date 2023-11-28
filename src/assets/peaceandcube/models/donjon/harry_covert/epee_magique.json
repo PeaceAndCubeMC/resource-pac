@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_sword",
+    "textures": {
+      "layer0": "peaceandcube:donjon/harry_covert/epee_magique"
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/wooden_axe",
+    "textures": {
+      "layer0": "peaceandcube:donjon/harry_covert/hache_troll"
+    }
+  }

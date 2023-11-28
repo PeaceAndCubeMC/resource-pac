@@ -239,35 +239,35 @@ http://creativecommons.org/licenses/by/3.0/
 <details>
 <summary>Donjon Harry Covert</summary>
 
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 201             | firework_rocket           | pac_textures:pac_model/donjon/harry_covert/sort1                          |
-| 202             | firework_rocket           | pac_textures:pac_model/donjon/harry_covert/sort2                          |
-| 203             | firework_rocket           | pac_textures:pac_model/donjon/harry_covert/sort3                          |
-| 204             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette1                      |
-| 205             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette2                      |
-| 206             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette3                      |
-| 207             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette4                      |
-| 208             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette5                      |
-| 209             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette6                      |
-| 210             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette7                      |
-| 211             | crossbow                  | pac_textures:pac_model/donjon/harry_covert/baguette8                      |
-| 212             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 213             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 214             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 215             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 216             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 217             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 218             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 219             | tipped_arrow              | pac_textures:pac_model/donjon/harry_covert/sort_parchemin                 |
-| 220             | gold_nugget               | pac_textures:pac_model/donjon/harry_covert/coins                          |
-| 221             | netherite_hoe             | pac_textures:pac_model/donjon/harry_covert/canne_kir                      |
-| 222             | wooden_axe                | pac_textures:pac_model/donjon/harry_covert/hache_troll                    |
-| 223             | iron_sword                | pac_textures:pac_model/donjon/harry_covert/croc_tofu                      |
-| 224             | rabbit_foot               | pac_textures:pac_model/donjon/harry_covert/patte_tofu                     |
-| 225             | iron_sword                | pac_textures:pac_model/donjon/harry_covert/epee_magique                   |
-| 226             | golden_sword              | pac_textures:pac_model/donjon/harry_covert/couteau_aiguise                |
-| 227             | stone_axe                 | pac_textures:pac_model/donjon/harry_covert/hachoir                        |
+| CustomModelData | Item                      | Model path                                       |
+|-----------------|---------------------------|--------------------------------------------------|
+| 201             | firework_rocket           | peaceandcube:donjon/harry_covert/sort1           |
+| 202             | firework_rocket           | peaceandcube:donjon/harry_covert/sort2           |
+| 203             | firework_rocket           | peaceandcube:donjon/harry_covert/sort3           |
+| 204             | crossbow                  | peaceandcube:donjon/harry_covert/baguette1       |
+| 205             | crossbow                  | peaceandcube:donjon/harry_covert/baguette2       |
+| 206             | crossbow                  | peaceandcube:donjon/harry_covert/baguette3       |
+| 207             | crossbow                  | peaceandcube:donjon/harry_covert/baguette4       |
+| 208             | crossbow                  | peaceandcube:donjon/harry_covert/baguette5       |
+| 209             | crossbow                  | peaceandcube:donjon/harry_covert/baguette6       |
+| 210             | crossbow                  | peaceandcube:donjon/harry_covert/baguette7       |
+| 211             | crossbow                  | peaceandcube:donjon/harry_covert/baguette8       |
+| 212             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 213             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 214             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 215             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 216             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 217             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 218             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 219             | tipped_arrow              | peaceandcube:donjon/harry_covert/sort_parchemin  |
+| 220             | gold_nugget               | peaceandcube:donjon/harry_covert/coins           |
+| 221             | netherite_hoe             | peaceandcube:donjon/harry_covert/canne_kir       |
+| 222             | wooden_axe                | peaceandcube:donjon/harry_covert/hache_troll     |
+| 223             | iron_sword                | peaceandcube:donjon/harry_covert/croc_tofu       |
+| 224             | rabbit_foot               | peaceandcube:donjon/harry_covert/patte_tofu      |
+| 225             | iron_sword                | peaceandcube:donjon/harry_covert/epee_magique    |
+| 226             | golden_sword              | peaceandcube:donjon/harry_covert/couteau_aiguise |
+| 227             | stone_axe                 | peaceandcube:donjon/harry_covert/hachoir         |
 
 </details>
 

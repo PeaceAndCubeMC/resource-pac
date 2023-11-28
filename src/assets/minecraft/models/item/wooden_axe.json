@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 222}, "model": "pac_textures:pac_model/donjon/harry_covert/hache_troll"}
+    {"predicate": {"custom_model_data": 222}, "model": "peaceandcube:donjon/harry_covert/hache_troll"}
   ]
 }

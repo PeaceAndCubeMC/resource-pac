@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/rabbit_foot",
     "textures": {
-      "layer0": "pac_textures:pac_model/donjon/harry_covert/patte_tofu"
+      "layer0": "peaceandcube:donjon/harry_covert/patte_tofu"
     }
   }

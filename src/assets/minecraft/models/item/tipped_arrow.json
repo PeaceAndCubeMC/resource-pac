@@ -6,14 +6,14 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 212}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 213}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 214}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 215}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 216}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 217}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 218}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
-    {"predicate": {"custom_model_data": 219}, "model": "pac_textures:pac_model/donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 212}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 213}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 214}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 215}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 216}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 217}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 218}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
+    {"predicate": {"custom_model_data": 219}, "model": "peaceandcube:donjon/harry_covert/sort_parchemin"},
 
     {"predicate": { "custom_model_data": 18001}, "model": "magic:arrows/normal"},
     {"predicate": { "custom_model_data": 18002}, "model": "magic:arrows/blink"},

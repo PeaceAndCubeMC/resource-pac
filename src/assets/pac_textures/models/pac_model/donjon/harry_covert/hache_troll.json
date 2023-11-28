@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/wooden_axe",
-    "textures": {
-      "layer0": "pac_textures:pac_model/donjon/harry_covert/hache_troll"
-    }
-  }

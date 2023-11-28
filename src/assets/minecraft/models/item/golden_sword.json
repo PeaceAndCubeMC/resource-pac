@@ -22,7 +22,7 @@
   
           {"predicate": {"damaged": 1, "damage": 0}, "model": "item/golden_sword"},
   
-          {"predicate": {"custom_model_data": 226}, "model": "pac_textures:pac_model/donjon/harry_covert/couteau_aiguise"},
+          {"predicate": {"custom_model_data": 226}, "model": "peaceandcube:donjon/harry_covert/couteau_aiguise"},
 
           {"predicate": {"custom_model_data": 18001}, "model": "magic:weapons/emerald_sword"},
           {"predicate": {"custom_model_data": 18002}, "model": "magic:other/sword_master"},

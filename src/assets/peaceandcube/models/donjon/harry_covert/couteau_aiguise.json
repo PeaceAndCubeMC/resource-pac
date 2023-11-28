@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/golden_sword",
+    "textures": {
+      "layer0": "peaceandcube:donjon/harry_covert/couteau_aiguise"
+    }
+  }

@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/netherite_hoe"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 221}, "model": "pac_textures:pac_model/donjon/harry_covert/canne_kir"},
+    {"predicate": {"custom_model_data": 221}, "model": "peaceandcube:donjon/harry_covert/canne_kir"},
 
     {"predicate": {"custom_model_data": 501}, "model": "pac_textures:pac_model/donjon/donjon_devlose/hoe/hoe_base"},
     {"predicate": {"custom_model_data": 502}, "model": "pac_textures:pac_model/donjon/donjon_devlose/hoe/hoe_orange"},

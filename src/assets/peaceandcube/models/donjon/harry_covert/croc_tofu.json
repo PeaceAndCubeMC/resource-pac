@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/iron_sword",
     "textures": {
-      "layer0": "pac_textures:pac_model/donjon/harry_covert/croc_tofu"
+      "layer0": "peaceandcube:donjon/harry_covert/croc_tofu"
     }
   }

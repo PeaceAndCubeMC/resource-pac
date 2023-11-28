@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/gold_nugget",
     "textures": {
-      "layer0": "pac_textures:pac_model/donjon/harry_covert/coins"
+      "layer0": "peaceandcube:donjon/harry_covert/coins"
     }
   }
