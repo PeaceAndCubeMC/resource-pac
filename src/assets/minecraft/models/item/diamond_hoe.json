@@ -288,6 +288,12 @@
     {"predicate": {"damaged": 0, "damage": 0.178617157490397}, "model": "magic:icons_disabled/races/dwarf"},
     {"predicate": {"damaged": 0, "damage": 0.179257362355954}, "model": "magic:icons_disabled/races/halfling"},
 
-    {"predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_hoe"}
+    {"predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_hoe"},
+	
+	{"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/hoe_c"},
+	{"predicate": {"custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/hoe_s"},
+	{"predicate": {"custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/hoe_r"},
+	{"predicate": {"custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/hoe_k"},
+	{"predicate": {"custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/hoe_j"}
   ]
 }

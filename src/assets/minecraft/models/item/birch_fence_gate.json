@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/birch_fence_gate",
+  "overrides": [
+    {"predicate": {"custom_model_data": 501}, "model": "peaceandcube:donjon/le_casse/lunettes"}
+  ]
+}

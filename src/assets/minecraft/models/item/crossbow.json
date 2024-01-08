@@ -114,6 +114,12 @@
         {"predicate": {"pulling": 1,"pull": 0.50,"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse1"},
         {"predicate": {"pulling": 1,"pull": 1.0,"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"},
         {"predicate": {"charged":1,"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"},
-        {"predicate": {"charged":1,"firework":1,"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"}
+        {"predicate": {"charged":1,"firework":1,"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"},
+		
+		{"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/scifi_gun"},
+        {"predicate": {"pulling": 1,"pull": 0.58,"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/scifi_gun"},
+        {"predicate": {"pulling": 1,"pull": 1.0,"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/scifi_gun"},
+        {"predicate": {"charged":1,"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/scifi_gun"},
+        {"predicate": {"charged":1,"firework":1,"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/scifi_gun"}
     ]
 }

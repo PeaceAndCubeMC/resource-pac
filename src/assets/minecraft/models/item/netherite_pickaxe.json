@@ -15,6 +15,8 @@
       {"predicate": {"custom_model_data": 509}, "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_purple"},
       {"predicate": {"custom_model_data": 510}, "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_rainbow"},
       {"predicate": {"custom_model_data": 202210}, "model": "peaceandcube:event/halloween2022/foreuse"},
-      {"predicate": { "custom_model_data": 2022101}, "model": "peaceandcube:event/halloween2022/pioche_chauve_souris"}
+      {"predicate": { "custom_model_data": 2022101}, "model": "peaceandcube:event/halloween2022/pioche_chauve_souris"},
+	  
+	  {"predicate": {"custom_model_data": 601},"model": "peaceandcube:donjon/le_casse/wrench"}
   ]
 }
