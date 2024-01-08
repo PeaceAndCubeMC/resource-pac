@@ -7,6 +7,8 @@
   "overrides": [
     {"predicate": {"custom_model_data": 223}, "model": "peaceandcube:donjon/harry_covert/croc_tofu"},
     {"predicate": {"custom_model_data": 225}, "model": "peaceandcube:donjon/harry_covert/epee_magique"},
-    {"predicate": {"custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/couteau"}
+    {"predicate": {"custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/couteau"},
+	
+	{"predicate": {"custom_model_data": 601},"model": "peaceandcube:donjon/le_casse/medieval_sword"}
   ]
 }

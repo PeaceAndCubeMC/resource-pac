@@ -25,6 +25,12 @@
         {"predicate": { "custom_model_data": 18103}, "model": "magic:icons_disabled/spells/wound"},
         {"predicate": { "custom_model_data": 18104}, "model": "magic:icons/spells/sharpen_sword"},
         {"predicate": { "custom_model_data": 18105}, "model": "magic:icons_disabled/spells/sharpen_sword"},
-        {"predicate": { "custom_model_data": 18106}, "model": "magic:icons/upgrades/mode_sword"}
+        {"predicate": { "custom_model_data": 18106}, "model": "magic:icons/upgrades/mode_sword"},
+		
+		{"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/sword_c"},
+		{"predicate": {"custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/sword_s"},
+		{"predicate": {"custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/sword_r"},
+		{"predicate": {"custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/sword_k"},
+		{"predicate": {"custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/sword_j"}
     ]
 }

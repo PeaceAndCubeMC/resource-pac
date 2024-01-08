@@ -23,6 +23,10 @@
         {"predicate": {"cast": 1, "custom_model_data": 21002}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl3_0"},
         {"predicate": {"cast": 1, "custom_model_data": 21003}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl4_0"},
         {"predicate": {"cast": 1, "custom_model_data": 21004}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl5_0"},
-        {"predicate": {"cast": 1, "custom_model_data": 21005}, "model": "peaceandcube:event/peche_hivernale/ph_canne_skin_0"}
+        {"predicate": {"cast": 1, "custom_model_data": 21005}, "model": "peaceandcube:event/peche_hivernale/ph_canne_skin_0"},
+		
+		{"predicate": { "custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/grappin1"},
+		{"predicate": {"cast": 1, "custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/grappin2"}
+        
     ]
 }

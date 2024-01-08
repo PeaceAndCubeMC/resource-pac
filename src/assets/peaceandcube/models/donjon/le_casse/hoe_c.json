@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "peaceandcube:donjon/le_casse/hoe_c"
+    }
+}
