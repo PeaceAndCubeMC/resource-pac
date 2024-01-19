@@ -5,14 +5,14 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/wand"},
-    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/wand"},
-    {"predicate": {"custom_model_data": 18003}, "model": "magic:wands/crystalball"},
-	
 	{"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/saphir"},
     {"predicate": { "custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/jade"},
 	{"predicate": { "custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/kunzite"},
     {"predicate": { "custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/ruby"},
-	{"predicate": { "custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/citrine"}
+	{"predicate": { "custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/citrine"},
+
+    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/wand"},
+    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/wand"},
+    {"predicate": {"custom_model_data": 18003}, "model": "magic:wands/crystalball"}
   ]
 }
