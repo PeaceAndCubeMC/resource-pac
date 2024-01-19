@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 18,
+    "pack_format": 22,
     "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 20
+      "min_inclusive": 16,
+      "max_inclusive": 24
     },
     "description": ["",
       {"text": "P", "color": "red", "bold":true},
