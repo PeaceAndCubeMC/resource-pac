@@ -408,6 +408,61 @@ http://creativecommons.org/licenses/by/3.0/
 
 </details>
 
+<details>
+<summary>Donjon Le Casse du Siècle</summary>
+
+| CustomModelData | Item              | Model path                                   |
+|-----------------|-------------------|----------------------------------------------|
+| 601             | birch_fence_gate  | peaceandcube:donjon/le_casse/lunettes        |
+| 601             | crossbow          | peaceandcube:donjon/le_casse/scifi_gun       |
+| 601             | diamond           | peaceandcube:donjon/le_casse/saphir          |
+| 602             | diamond           | peaceandcube:donjon/le_casse/jade            |
+| 603             | diamond           | peaceandcube:donjon/le_casse/kunzite         |
+| 604             | diamond           | peaceandcube:donjon/le_casse/ruby            |
+| 605             | diamond           | peaceandcube:donjon/le_casse/citrine         |
+| 601             | diamond_axe       | peaceandcube:donjon/le_casse/axe_c           |
+| 602             | diamond_axe       | peaceandcube:donjon/le_casse/axe_s           |
+| 603             | diamond_axe       | peaceandcube:donjon/le_casse/axe_r           |
+| 604             | diamond_axe       | peaceandcube:donjon/le_casse/axe_k           |
+| 605             | diamond_axe       | peaceandcube:donjon/le_casse/axe_j           |
+| 601             | diamond_hoe       | peaceandcube:donjon/le_casse/hoe_c           |
+| 602             | diamond_hoe       | peaceandcube:donjon/le_casse/hoe_s           |
+| 603             | diamond_hoe       | peaceandcube:donjon/le_casse/hoe_r           |
+| 604             | diamond_hoe       | peaceandcube:donjon/le_casse/hoe_k           |
+| 605             | diamond_hoe       | peaceandcube:donjon/le_casse/hoe_j           |
+| 601             | diamond_pickaxe   | peaceandcube:donjon/le_casse/pickaxe_c       |
+| 602             | diamond_pickaxe   | peaceandcube:donjon/le_casse/pickaxe_s       |
+| 603             | diamond_pickaxe   | peaceandcube:donjon/le_casse/pickaxe_r       |
+| 604             | diamond_pickaxe   | peaceandcube:donjon/le_casse/pickaxe_k       |
+| 605             | diamond_pickaxe   | peaceandcube:donjon/le_casse/pickaxe_j       |
+| 601             | diamond_shovel    | peaceandcube:donjon/le_casse/shovel_c        |
+| 602             | diamond_shovel    | peaceandcube:donjon/le_casse/shovel_s        |
+| 603             | diamond_shovel    | peaceandcube:donjon/le_casse/shovel_r        |
+| 604             | diamond_shovel    | peaceandcube:donjon/le_casse/shovel_k        |
+| 605             | diamond_shovel    | peaceandcube:donjon/le_casse/shovel_j        |
+| 601             | diamond_sword     | peaceandcube:donjon/le_casse/sword_c         |
+| 602             | diamond_sword     | peaceandcube:donjon/le_casse/sword_s         |
+| 603             | diamond_sword     | peaceandcube:donjon/le_casse/sword_r         |
+| 604             | diamond_sword     | peaceandcube:donjon/le_casse/sword_k         |
+| 605             | diamond_sword     | peaceandcube:donjon/le_casse/sword_j         |
+| 601             | fishing_rod       | peaceandcube:donjon/le_casse/grappin1        |
+| 601             | fishing_rod       | peaceandcube:donjon/le_casse/grappin2        |
+| 601             | iron_sword        | peaceandcube:donjon/le_casse/medieval_sword  |
+| 601             | netherite_axe     | peaceandcube:donjon/le_casse/hammer          |
+| 601             | netherite_pickaxe | peaceandcube:donjon/le_casse/wrench          |
+| 601             | red_shulker_box   | peaceandcube:donjon/le_casse/toolbox         |
+| 601             | shears            | peaceandcube:donjon/le_casse/butterfly_knife |
+| 601             | totem_of_undying  | peaceandcube:donjon/le_casse/garde1          |
+| 602             | totem_of_undying  | peaceandcube:donjon/le_casse/garde2          |
+| 603             | totem_of_undying  | peaceandcube:donjon/le_casse/garde3          |
+| 604             | totem_of_undying  | peaceandcube:donjon/le_casse/garde4          |
+| 605             | totem_of_undying  | peaceandcube:donjon/le_casse/garde5          |
+| 606             | totem_of_undying  | peaceandcube:donjon/le_casse/grimpeur        |
+| 607             | totem_of_undying  | peaceandcube:donjon/le_casse/secretaire      |
+| 601             | wooden_sword      | peaceandcube:donjon/le_casse/tonfa           |
+
+</details>
+
 ### Plugins
 
 <details>
