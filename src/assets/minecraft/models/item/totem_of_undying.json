@@ -19,15 +19,15 @@
         {"predicate": {"custom_model_data": 510}, "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_yellow"},
         {"predicate": {"custom_model_data": 511}, "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_purple"},
 
-        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/testdummy"},
-        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/testdummy"},
-		
 		{"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/garde1"},
 		{"predicate": { "custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/garde2"},
 		{"predicate": { "custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/garde3"},
 		{"predicate": { "custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/garde4"},
 		{"predicate": { "custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/garde5"},
 		{"predicate": { "custom_model_data": 606}, "model": "peaceandcube:donjon/le_casse/grimpeur"},
-		{"predicate": { "custom_model_data": 607}, "model": "peaceandcube:donjon/le_casse/secretaire"}
+		{"predicate": { "custom_model_data": 607}, "model": "peaceandcube:donjon/le_casse/secretaire"},
+
+        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/testdummy"},
+        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/testdummy"}
   ]
 }
