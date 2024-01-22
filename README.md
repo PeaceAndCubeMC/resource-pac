@@ -415,11 +415,11 @@ http://creativecommons.org/licenses/by/3.0/
 |-----------------|-------------------|----------------------------------------------|
 | 601             | birch_fence_gate  | peaceandcube:donjon/le_casse/lunettes        |
 | 601             | crossbow          | peaceandcube:donjon/le_casse/scifi_gun       |
-| 601             | diamond           | peaceandcube:donjon/le_casse/saphir          |
-| 602             | diamond           | peaceandcube:donjon/le_casse/jade            |
-| 603             | diamond           | peaceandcube:donjon/le_casse/kunzite         |
-| 604             | diamond           | peaceandcube:donjon/le_casse/ruby            |
-| 605             | diamond           | peaceandcube:donjon/le_casse/citrine         |
+| 601             | diamond           | peaceandcube:donjon/le_casse/citrine         |
+| 602             | diamond           | peaceandcube:donjon/le_casse/saphir          |
+| 603             | diamond           | peaceandcube:donjon/le_casse/ruby            |
+| 604             | diamond           | peaceandcube:donjon/le_casse/kunzite         |
+| 605             | diamond           | peaceandcube:donjon/le_casse/jade            |
 | 601             | diamond_axe       | peaceandcube:donjon/le_casse/axe_c           |
 | 602             | diamond_axe       | peaceandcube:donjon/le_casse/axe_s           |
 | 603             | diamond_axe       | peaceandcube:donjon/le_casse/axe_r           |
