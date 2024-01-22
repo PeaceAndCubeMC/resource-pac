@@ -16,6 +16,11 @@
     {"predicate": {"custom_model_data": 508}, "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_yellow"},
     {"predicate": {"custom_model_data": 509}, "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_purple"},
     {"predicate": {"custom_model_data": 510}, "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_rainbow"},
+    {"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/hoe_c"},
+    {"predicate": {"custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/hoe_s"},
+    {"predicate": {"custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/hoe_r"},
+    {"predicate": {"custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/hoe_k"},
+    {"predicate": {"custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/hoe_j"},
     {"predicate": {"custom_model_data": 823}, "model": "peaceandcube:event/loterie_ete_2023/rateau"},
     {"predicate": { "custom_model_data": 2022104}, "model": "peaceandcube:event/halloween2022/faux"}
   ]

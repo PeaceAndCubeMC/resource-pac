@@ -14,7 +14,12 @@
     {"predicate": {"custom_model_data": 508}, "model": "peaceandcube:donjon/donjon_devlose/axe/axe_yellow"},
     {"predicate": {"custom_model_data": 509}, "model": "peaceandcube:donjon/donjon_devlose/axe/axe_purple"},
     {"predicate": {"custom_model_data": 510}, "model": "peaceandcube:donjon/donjon_devlose/axe/axe_rainbow"},
-    {"predicate": {"custom_model_data": 601},"model": "peaceandcube:donjon/le_casse/hammer"},
+    {"predicate": {"custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/axe_c"},
+    {"predicate": {"custom_model_data": 602}, "model": "peaceandcube:donjon/le_casse/axe_s"},
+    {"predicate": {"custom_model_data": 603}, "model": "peaceandcube:donjon/le_casse/axe_r"},
+    {"predicate": {"custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/axe_k"},
+    {"predicate": {"custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/axe_j"},
+    {"predicate": {"custom_model_data": 606},"model": "peaceandcube:donjon/le_casse/hammer"},
     {"predicate": { "custom_model_data": 822}, "model": "peaceandcube:event/ete_2022_quete/hache_amethyst2"},
     {"predicate": { "custom_model_data": 2022102}, "model": "peaceandcube:event/halloween2022/hachampignon"}
   ]
