@@ -234,6 +234,15 @@ http://creativecommons.org/licenses/by/3.0/
 
 </details>
 
+<details>
+<summary>Saint-Valentin 2024</summary>
+
+| CustomModelData | Item                      | Model path                               |
+|-----------------|---------------------------|------------------------------------------|
+| 2402            | bow                       | peaceandcube:event/sv2024/arc_passionnel |
+
+</details>
+
 ### Donjons
 
 <details>

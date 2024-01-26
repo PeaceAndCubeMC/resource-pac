@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "peaceandcube:event/sv2024/arc_passionnel"
+    }
+}
