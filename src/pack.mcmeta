@@ -1,18 +1,16 @@
 {
   "pack": {
-    "pack_format": 22,
+    "pack_format": 42,
     "supported_formats": {
-      "min_inclusive": 16,
-      "max_inclusive": 24
+      "min_inclusive": 34,
+      "max_inclusive": 43
     },
     "description": ["",
-      {"text": "P", "color": "red", "bold":true},
-      {"text": "A", "color": "gold", "bold":true},
-      {"text": "C", "color": "green", "bold":true},
-      {"text": " - ", "color": "white"},
-      {"text": "Requiert Optifine", "color": "dark_aqua"},
+      {"text": "Peace", "color": "red", "bold":true},
+      {"text": "And", "color": "gold", "bold":true},
+      {"text": "Cube", "color": "green", "bold":true},
       {"text": "\nVersion : "},
-      {"text": "26 janvier 2024", "color": "gray"}
+      {"text": "21 décembre 2024", "color": "gray"}
     ]
   }
 }
