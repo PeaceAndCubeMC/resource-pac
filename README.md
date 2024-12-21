@@ -243,6 +243,15 @@ http://creativecommons.org/licenses/by/3.0/
 
 </details>
 
+<details>
+<summary>Calendrier de l'avent 2024</summary>
+
+| CustomModelData | Item | Model path                                  |
+|-----------------|------|---------------------------------------------|
+| 202412          | mace | peaceandcube:adventcalendar/maillet_de_noel |
+
+</details>
+
 ### Donjons
 
 <details>
