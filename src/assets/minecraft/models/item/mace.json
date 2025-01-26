@@ -5,6 +5,7 @@
   },
 	
   "overrides": [
-    {"predicate": { "custom_model_data": 202412 }, "model": "peaceandcube:adventcalendar/maillet_de_noel"}
+    {"predicate": { "custom_model_data": 202412 }, "model": "peaceandcube:adventcalendar/maillet_de_noel"},
+    {"predicate": { "custom_model_data": 2502010 }, "model": "peaceandcube:event/chandeleur2025/poele_a_crepe"}
   ]
 }
