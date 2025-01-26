@@ -253,20 +253,20 @@ http://creativecommons.org/licenses/by/3.0/
 </details>
 
 <details>
-<summary>Chandeleur 2024</summary>
+<summary>Chandeleur 2025</summary>
 
-| CustomModelData | Item 	| Model path                                  |
-|-----------------|---------|---------------------------------------------|
-| 2502001         | cookie 	| peaceandcube:chandeleur2025/crepe_nature    |
-| 2502002         | cookie 	| peaceandcube:chandeleur2025/crepe_confiture |
-| 2502003         | cookie 	| peaceandcube:chandeleur2025/crepe_chocolat  |
-| 2502004         | cookie	| peaceandcube:chandeleur2025/crepe_sucre     |
-| 2502005         | cookie	| peaceandcube:chandeleur2025/crepe_jambon    |
-| 2502006         | cookie 	| peaceandcube:chandeleur2025/crepe_saumon    |
-| 2502007         | cookie 	| peaceandcube:chandeleur2025/crepe_oeuf      |
-| 2502008         | cookie 	| peaceandcube:chandeleur2025/crepe_zombie    |
-| 2502009         | book 	| peaceandcube:chandeleur2025/livre_crepe     |
-| 2502010         | mace 	| peaceandcube:chandeleur2025/poele_a_crepe   |
+| CustomModelData | Item 	  | Model path                                        |
+|-----------------|---------|---------------------------------------------------|
+| 2502001         | cookie 	| peaceandcube:event/chandeleur2025/crepe_nature    |
+| 2502002         | cookie 	| peaceandcube:event/chandeleur2025/crepe_confiture |
+| 2502003         | cookie 	| peaceandcube:event/chandeleur2025/crepe_chocolat  |
+| 2502004         | cookie	| peaceandcube:event/chandeleur2025/crepe_sucre     |
+| 2502005         | cookie	| peaceandcube:event/chandeleur2025/crepe_jambon    |
+| 2502006         | cookie 	| peaceandcube:event/chandeleur2025/crepe_saumon    |
+| 2502007         | cookie 	| peaceandcube:event/chandeleur2025/crepe_oeuf      |
+| 2502008         | cookie 	| peaceandcube:event/chandeleur2025/crepe_zombie    |
+| 2502009         | book 	  | peaceandcube:event/chandeleur2025/livre_crepe     |
+| 2502010         | mace 	  | peaceandcube:event/chandeleur2025/poele_a_crepe   |
 
 </details>
 
