@@ -10,6 +10,19 @@
     {"predicate": { "custom_model_data": 7233}, "model": "peaceandcube:event/festin_estival/biscuit_chinois"},
 
     {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/grow"},
-    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/grow"}
+    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/grow"},
+
+    {"predicate": { "custom_model_data": 2502001}, "model": "peaceandcube:event/chandeleur2025/crepe_nature"},
+    {"predicate": { "custom_model_data": 2502002}, "model": "peaceandcube:event/chandeleur2025/crepe_confiture"},
+    {"predicate": { "custom_model_data": 2502003}, "model": "peaceandcube:event/chandeleur2025/crepe_chocolat"},
+    {"predicate": { "custom_model_data": 2502004}, "model": "peaceandcube:event/chandeleur2025/crepe_sucre"},
+    {"predicate": { "custom_model_data": 2502005}, "model": "peaceandcube:event/chandeleur2025/crepe_jambon"},
+    {"predicate": { "custom_model_data": 2502006}, "model": "peaceandcube:event/chandeleur2025/crepe_saumon"},
+    {"predicate": { "custom_model_data": 2502007}, "model": "peaceandcube:event/chandeleur2025/crepe_oeuf"},
+    {"predicate": { "custom_model_data": 2502008}, "model": "peaceandcube:event/chandeleur2025/crepe_zombie"},
+    {"predicate": { "custom_model_data": 2502009}, "model": "peaceandcube:event/chandeleur2025/livre_crepe"},
+    {"predicate": { "custom_model_data": 2502010}, "model": "peaceandcube:event/chandeleur2025/poele_a_crepe"}
+
+
   ]
 }

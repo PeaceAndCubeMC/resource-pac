@@ -5,6 +5,7 @@
   },
   
   "overrides": [
-    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/guide_recettes"}
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/guide_recettes"},
+    {"predicate": { "custom_model_data": 2502009}, "model": "peaceandcube:event/chandeleur2025/livre_crepe"}
   ]
 }
