@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 42,
+    "pack_format": 46,
     "supported_formats": {
-      "min_inclusive": 34,
-      "max_inclusive": 43
+      "min_inclusive": 46,
+      "max_inclusive": 50
     },
     "description": ["",
       {"text": "Peace", "color": "red", "bold":true},
