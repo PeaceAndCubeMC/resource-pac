@@ -255,7 +255,7 @@ http://creativecommons.org/licenses/by/3.0/
 <details>
 <summary>Chandeleur 2025</summary>
 
-| CustomModelData | Item 	  | Model path                                        |
+| CustomModelData | Item 	| Model path                                        |
 |-----------------|---------|---------------------------------------------------|
 | 2502001         | cookie 	| peaceandcube:event/chandeleur2025/crepe_nature    |
 | 2502002         | cookie 	| peaceandcube:event/chandeleur2025/crepe_confiture |
@@ -265,8 +265,8 @@ http://creativecommons.org/licenses/by/3.0/
 | 2502006         | cookie 	| peaceandcube:event/chandeleur2025/crepe_saumon    |
 | 2502007         | cookie 	| peaceandcube:event/chandeleur2025/crepe_oeuf      |
 | 2502008         | cookie 	| peaceandcube:event/chandeleur2025/crepe_zombie    |
-| 2502009         | book 	  | peaceandcube:event/chandeleur2025/livre_crepe     |
-| 2502010         | mace 	  | peaceandcube:event/chandeleur2025/poele_a_crepe   |
+| 2502009         | book 	| peaceandcube:event/chandeleur2025/livre_crepe     |
+| 2502010         | mace 	| peaceandcube:event/chandeleur2025/poele_a_crepe   |
 
 </details>
 
