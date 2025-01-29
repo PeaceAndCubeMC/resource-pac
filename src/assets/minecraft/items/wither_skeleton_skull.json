@@ -1,0 +1,30 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+            "base": "minecraft:item/template_skull",
+            "model": {
+                "type": "minecraft:head",
+                "kind": "wither_skeleton"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/wither"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wither"
+                }
+            }
+        ]
+    }
+}

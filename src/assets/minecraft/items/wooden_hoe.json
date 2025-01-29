@@ -1,0 +1,327 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "damage",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/wooden_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 0.0,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/wooden_hoe"
+                }
+            },
+            {
+                "threshold": 0.01666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/old_survival_wand1"
+                }
+            },
+            {
+                "threshold": 0.03333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/old_survival_wand2"
+                }
+            },
+            {
+                "threshold": 0.05,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/survival_wand1"
+                }
+            },
+            {
+                "threshold": 0.06666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/survival_wand2"
+                }
+            },
+            {
+                "threshold": 0.08333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/staff_survival1"
+                }
+            },
+            {
+                "threshold": 0.1,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/staff_gandalf"
+                }
+            },
+            {
+                "threshold": 0.11666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/staff_wolf"
+                }
+            },
+            {
+                "threshold": 0.13333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/wolf_wand"
+                }
+            },
+            {
+                "threshold": 0.15,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/staff_magicka"
+                }
+            },
+            {
+                "threshold": 0.16666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/moon_wand"
+                }
+            },
+            {
+                "threshold": 0.18333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:broomsticks/broomstick"
+                }
+            },
+            {
+                "threshold": 0.2,
+                "model": {
+                    "type": "model",
+                    "model": "magic:weapons/blaster"
+                }
+            },
+            {
+                "threshold": 0.21666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_hilt"
+                }
+            },
+            {
+                "threshold": 0.23333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_hilt"
+                }
+            },
+            {
+                "threshold": 0.25,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/hat_cloak"
+                }
+            },
+            {
+                "threshold": 0.26666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/hat_eye"
+                }
+            },
+            {
+                "threshold": 0.28333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/magic_hat"
+                }
+            },
+            {
+                "threshold": 0.3,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/ocarina"
+                }
+            },
+            {
+                "threshold": 0.31666666666666665,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/airbending"
+                }
+            },
+            {
+                "threshold": 0.3333333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/waterbending"
+                }
+            },
+            {
+                "threshold": 0.35,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/earthbending"
+                }
+            },
+            {
+                "threshold": 0.36666666666666664,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/firebending"
+                }
+            },
+            {
+                "threshold": 0.3833333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/avatar"
+                }
+            },
+            {
+                "threshold": 0.4,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/flat/skinny"
+                }
+            },
+            {
+                "threshold": 0.4166666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/flat/black"
+                }
+            },
+            {
+                "threshold": 0.43333333333333335,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/flat/brown"
+                }
+            },
+            {
+                "threshold": 0.45,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/flat/elder"
+                }
+            },
+            {
+                "threshold": 0.4666666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/flat/wolf"
+                }
+            },
+            {
+                "threshold": 0.48333333333333334,
+                "model": {
+                    "type": "model",
+                    "model": "magic:broomsticks/broomstick2"
+                }
+            },
+            {
+                "threshold": 0.5,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/crystalball"
+                }
+            },
+            {
+                "threshold": 0.5166666666666666,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/enchantedbook"
+                }
+            },
+            {
+                "threshold": 0.533333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/extinguisher"
+                }
+            },
+            {
+                "threshold": 0.55,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/air_glider"
+                }
+            },
+            {
+                "threshold": 0.566666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:bending/air_staff"
+                }
+            },
+            {
+                "threshold": 0.583333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/riverglow"
+                }
+            },
+            {
+                "threshold": 0.6,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/lixwglow"
+                }
+            },
+            {
+                "threshold": 0.616666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/wandb"
+                }
+            },
+            {
+                "threshold": 0.633333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/sortinghat"
+                }
+            },
+            {
+                "threshold": 0.65,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/staff_survival2"
+                }
+            },
+            {
+                "threshold": 0.666666666666667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/totem"
+                }
+            },
+            {
+                "threshold": 0.683333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/green_wand"
+                }
+            },
+            {
+                "threshold": 0.7,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/nothing"
+                }
+            },
+            {
+                "threshold": 0.716,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/gauntlet"
+                }
+            },
+            {
+                "threshold": 0.733,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/magmawand"
+                }
+            }
+        ]
+    }
+}

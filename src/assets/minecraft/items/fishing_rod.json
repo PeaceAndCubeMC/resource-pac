@@ -1,0 +1,125 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:fishing_rod/cast",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/le_casse/grappin1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/le_casse/grappin2"
+                    }
+                }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl1_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl1_0"
+                    }
+                }
+            },
+            {
+                "threshold": 21001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl2_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl2_0"
+                    }
+                }
+            },
+            {
+                "threshold": 21002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl3_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl3_0"
+                    }
+                }
+            },
+            {
+                "threshold": 21003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl4_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl4_0"
+                    }
+                }
+            },
+            {
+                "threshold": 21004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl5_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl5_0"
+                    }
+                }
+            },
+            {
+                "threshold": 21005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_skin_1"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/peche_hivernale/ph_canne_skin_0"
+                    }
+                }
+            }
+        ]
+    }
+}

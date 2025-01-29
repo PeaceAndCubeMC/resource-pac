@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/axolotl_bucket"
+        },
+        "entries": [
+            {
+                "threshold": 2105,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/peche_hivernale/compagnon_hiver"
+                }
+            }
+        ]
+    }
+}

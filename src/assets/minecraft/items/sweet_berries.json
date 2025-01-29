@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/sweet_berries"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/raisin"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/fraise"
+                }
+            },
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/chainlightning"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/chainlightning"
+                }
+            }
+        ]
+    }
+}

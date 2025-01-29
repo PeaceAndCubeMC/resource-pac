@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+						"base": "minecraft:item/red_shulker_box",
+						"model": {
+							"type": "minecraft:shulker_box",
+							"texture": "minecraft:shulker_red"
+						}
+        },
+        "entries": [
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/toolbox"
+                }
+            }
+        ]
+    }
+}

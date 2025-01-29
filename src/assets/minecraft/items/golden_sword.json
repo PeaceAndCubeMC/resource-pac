@@ -1,0 +1,117 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "damage",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_sword"
+        },
+        "entries": [
+            {
+                "threshold": 0.0,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_sword"
+                }
+            },
+            {
+                "threshold": 0.03030303030303,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/sword_master"
+                }
+            },
+            {
+                "threshold": 0.06060606060606,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_green"
+                }
+            },
+            {
+                "threshold": 0.09090909090909,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_blue"
+                }
+            },
+            {
+                "threshold": 0.12121212121212,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_red"
+                }
+            },
+            {
+                "threshold": 0.15151515151515152,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_orange"
+                }
+            },
+            {
+                "threshold": 0.18181818181818182,
+                "model": {
+                    "type": "model",
+                    "model": "magic:sabers/lightsaber_purple"
+                }
+            },
+            {
+                "threshold": 0.21212121212121213,
+                "model": {
+                    "type": "model",
+                    "model": "magic:weapons/emerald_sword"
+                }
+            },
+            {
+                "threshold": 0.242424242424242,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/valkglow"
+                }
+            },
+            {
+                "threshold": 0.272727272727273,
+                "model": {
+                    "type": "model",
+                    "model": "magic:other/whitedagger"
+                }
+            },
+            {
+                "threshold": 0.303030303030303,
+                "model": {
+                    "type": "model",
+                    "model": "magic:weapons/demon_sword"
+                }
+            },
+            {
+                "threshold": 0.333333333333333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/felmglow"
+                }
+            },
+            {
+                "threshold": 0.363636363636364,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/rivenglow"
+                }
+            },
+            {
+                "threshold": 0.393939393939394,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/silver"
+                }
+            },
+            {
+                "threshold": 0.424242424242424,
+                "model": {
+                    "type": "model",
+                    "model": "magic:wands/lavad"
+                }
+            }
+        ]
+    }
+}

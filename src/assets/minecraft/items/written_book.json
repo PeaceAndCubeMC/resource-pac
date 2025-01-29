@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/written_book"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/guide_recettes"
+                }
+            },
+            {
+                "threshold": 2502009,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/livre_crepe"
+                }
+            }
+        ]
+    }
+}

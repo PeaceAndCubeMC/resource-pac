@@ -1,0 +1,1986 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "damage",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 0.0,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond_hoe"
+                }
+            },
+            {
+                "threshold": 0.000640204865557,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/erase"
+                }
+            },
+            {
+                "threshold": 0.00128040973111,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/copy"
+                }
+            },
+            {
+                "threshold": 0.00192061459667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/clone"
+                }
+            },
+            {
+                "threshold": 0.00256081946223,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/replicate"
+                }
+            },
+            {
+                "threshold": 0.00320102432778,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/map"
+                }
+            },
+            {
+                "threshold": 0.00384122919334,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/schematic"
+                }
+            },
+            {
+                "threshold": 0.0044814340589,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/default"
+                }
+            },
+            {
+                "threshold": 0.00512163892446,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/silence"
+                }
+            },
+            {
+                "threshold": 0.00576184379001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/curse"
+                }
+            },
+            {
+                "threshold": 0.00640204865557,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blessing"
+                }
+            },
+            {
+                "threshold": 0.00704225352113,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/boon"
+                }
+            },
+            {
+                "threshold": 0.00768245838668,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/simulate"
+                }
+            },
+            {
+                "threshold": 0.00832266325224,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/simulate3"
+                }
+            },
+            {
+                "threshold": 0.0089628681178,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/glider"
+                }
+            },
+            {
+                "threshold": 0.00960307298335,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/virus"
+                }
+            },
+            {
+                "threshold": 0.0102432778489,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/worm"
+                }
+            },
+            {
+                "threshold": 0.0108834827145,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/hunter"
+                }
+            },
+            {
+                "threshold": 0.01152368758,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/defender"
+                }
+            },
+            {
+                "threshold": 0.0121638924456,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/animate"
+                }
+            },
+            {
+                "threshold": 0.0128040973111,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/life"
+                }
+            },
+            {
+                "threshold": 0.0134443021767,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/life3"
+                }
+            },
+            {
+                "threshold": 0.0140845070423,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/shell"
+                }
+            },
+            {
+                "threshold": 0.0147247119078,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/reflect"
+                }
+            },
+            {
+                "threshold": 0.0153649167734,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/platform"
+                }
+            },
+            {
+                "threshold": 0.0160051216389,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superdisc"
+                }
+            },
+            {
+                "threshold": 0.0166453265045,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superring"
+                }
+            },
+            {
+                "threshold": 0.01728553137,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supershell"
+                }
+            },
+            {
+                "threshold": 0.0179257362356,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superdome"
+                }
+            },
+            {
+                "threshold": 0.0185659411012,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tag"
+                }
+            },
+            {
+                "threshold": 0.0192061459667,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/toss"
+                }
+            },
+            {
+                "threshold": 0.0198463508323,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/volley"
+                }
+            },
+            {
+                "threshold": 0.0204865556978,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/push"
+                }
+            },
+            {
+                "threshold": 0.0211267605634,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/pull"
+                }
+            },
+            {
+                "threshold": 0.0217669654289,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/grab"
+                }
+            },
+            {
+                "threshold": 0.0224071702945,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/boom"
+                }
+            },
+            {
+                "threshold": 0.0230473751601,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/nuke"
+                }
+            },
+            {
+                "threshold": 0.0236875800256,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/frost"
+                }
+            },
+            {
+                "threshold": 0.0243277848912,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/permafrost"
+                }
+            },
+            {
+                "threshold": 0.0249679897567,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/lightning"
+                }
+            },
+            {
+                "threshold": 0.0256081946223,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/smite"
+                }
+            },
+            {
+                "threshold": 0.0262483994878,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tree"
+                }
+            },
+            {
+                "threshold": 0.0268886043534,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/forest"
+                }
+            },
+            {
+                "threshold": 0.027528809219,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/disarm"
+                }
+            },
+            {
+                "threshold": 0.0281690140845,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/cure"
+                }
+            },
+            {
+                "threshold": 0.0288092189501,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/heal"
+                }
+            },
+            {
+                "threshold": 0.0294494238156,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/healing"
+                }
+            },
+            {
+                "threshold": 0.0300896286812,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/music"
+                }
+            },
+            {
+                "threshold": 0.0307298335467,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/gather"
+                }
+            },
+            {
+                "threshold": 0.0313700384123,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/mount"
+                }
+            },
+            {
+                "threshold": 0.0320102432778,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tame"
+                }
+            },
+            {
+                "threshold": 0.0326504481434,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/icbm"
+                }
+            },
+            {
+                "threshold": 0.033290653009,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/neutron"
+                }
+            },
+            {
+                "threshold": 0.0339308578745,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wither"
+                }
+            },
+            {
+                "threshold": 0.0345710627401,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrowrain"
+                }
+            },
+            {
+                "threshold": 0.0352112676056,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/gatling"
+                }
+            },
+            {
+                "threshold": 0.0358514724712,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/meteor"
+                }
+            },
+            {
+                "threshold": 0.0364916773367,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow"
+                }
+            },
+            {
+                "threshold": 0.0371318822023,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/flashbang"
+                }
+            },
+            {
+                "threshold": 0.0377720870679,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/weather"
+                }
+            },
+            {
+                "threshold": 0.0384122919334,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fling"
+                }
+            },
+            {
+                "threshold": 0.039052496799,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supertorch"
+                }
+            },
+            {
+                "threshold": 0.0396927016645,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/torch"
+                }
+            },
+            {
+                "threshold": 0.0403329065301,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/familiar"
+                }
+            },
+            {
+                "threshold": 0.0409731113956,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/monster"
+                }
+            },
+            {
+                "threshold": 0.0416133162612,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/testdummy"
+                }
+            },
+            {
+                "threshold": 0.0422535211268,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/ghast"
+                }
+            },
+            {
+                "threshold": 0.0428937259923,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/mob"
+                }
+            },
+            {
+                "threshold": 0.0435339308579,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/farm"
+                }
+            },
+            {
+                "threshold": 0.0441741357234,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wolf"
+                }
+            },
+            {
+                "threshold": 0.044814340589,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/cat"
+                }
+            },
+            {
+                "threshold": 0.0454545454545,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/portal"
+                }
+            },
+            {
+                "threshold": 0.0460947503201,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/phase"
+                }
+            },
+            {
+                "threshold": 0.0467349551857,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/phasebackup"
+                }
+            },
+            {
+                "threshold": 0.0473751600512,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/invincible"
+                }
+            },
+            {
+                "threshold": 0.0480153649168,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fire"
+                }
+            },
+            {
+                "threshold": 0.0486555697823,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/bubble"
+                }
+            },
+            {
+                "threshold": 0.0492957746479,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/regenerate"
+                }
+            },
+            {
+                "threshold": 0.0499359795134,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superregenerate"
+                }
+            },
+            {
+                "threshold": 0.050576184379,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/paint"
+                }
+            },
+            {
+                "threshold": 0.0512163892446,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fill"
+                }
+            },
+            {
+                "threshold": 0.0518565941101,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/recurse"
+                }
+            },
+            {
+                "threshold": 0.0524967989757,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/floodfill"
+                }
+            },
+            {
+                "threshold": 0.0531370038412,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/gills"
+                }
+            },
+            {
+                "threshold": 0.0537772087068,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/day"
+                }
+            },
+            {
+                "threshold": 0.0544174135723,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/night"
+                }
+            },
+            {
+                "threshold": 0.0550576184379,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/time"
+                }
+            },
+            {
+                "threshold": 0.0556978233035,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/bridge"
+                }
+            },
+            {
+                "threshold": 0.056338028169,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/pillar"
+                }
+            },
+            {
+                "threshold": 0.0569782330346,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/place"
+                }
+            },
+            {
+                "threshold": 0.0576184379001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/anvil"
+                }
+            },
+            {
+                "threshold": 0.0582586427657,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/grenade"
+                }
+            },
+            {
+                "threshold": 0.0588988476312,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/cluster"
+                }
+            },
+            {
+                "threshold": 0.0595390524968,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/bomb"
+                }
+            },
+            {
+                "threshold": 0.0601792573624,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superblob"
+                }
+            },
+            {
+                "threshold": 0.0608194622279,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superhemisphere"
+                }
+            },
+            {
+                "threshold": 0.0614596670935,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superpyramid"
+                }
+            },
+            {
+                "threshold": 0.062099871959,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supercylinder"
+                }
+            },
+            {
+                "threshold": 0.0627400768246,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/box"
+                }
+            },
+            {
+                "threshold": 0.0633802816901,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superbox"
+                }
+            },
+            {
+                "threshold": 0.0640204865557,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supercube"
+                }
+            },
+            {
+                "threshold": 0.0646606914213,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/backup"
+                }
+            },
+            {
+                "threshold": 0.0653008962868,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superbackup"
+                }
+            },
+            {
+                "threshold": 0.0659411011524,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/repair"
+                }
+            },
+            {
+                "threshold": 0.0665813060179,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superrepair"
+                }
+            },
+            {
+                "threshold": 0.0672215108835,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/workbench"
+                }
+            },
+            {
+                "threshold": 0.067861715749,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/stash"
+                }
+            },
+            {
+                "threshold": 0.0685019206146,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/pickpocket"
+                }
+            },
+            {
+                "threshold": 0.0691421254802,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blast"
+                }
+            },
+            {
+                "threshold": 0.0697823303457,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/earthquake"
+                }
+            },
+            {
+                "threshold": 0.0704225352113,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tunnel"
+                }
+            },
+            {
+                "threshold": 0.0710627400768,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superblast"
+                }
+            },
+            {
+                "threshold": 0.0717029449424,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/convert"
+                }
+            },
+            {
+                "threshold": 0.0723431498079,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superconvert"
+                }
+            },
+            {
+                "threshold": 0.0729833546735,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/collapse"
+                }
+            },
+            {
+                "threshold": 0.0736235595391,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supercollapse"
+                }
+            },
+            {
+                "threshold": 0.0742637644046,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/cloak"
+                }
+            },
+            {
+                "threshold": 0.0749039692702,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/rollback"
+                }
+            },
+            {
+                "threshold": 0.0755441741357,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/commit"
+                }
+            },
+            {
+                "threshold": 0.0761843790013,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/counterspell"
+                }
+            },
+            {
+                "threshold": 0.0768245838668,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/breach"
+                }
+            },
+            {
+                "threshold": 0.0774647887324,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/peek"
+                }
+            },
+            {
+                "threshold": 0.078104993598,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/sandblast"
+                }
+            },
+            {
+                "threshold": 0.0787451984635,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/mine"
+                }
+            },
+            {
+                "threshold": 0.0793854033291,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/chop"
+                }
+            },
+            {
+                "threshold": 0.0800256081946,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/alter"
+                }
+            },
+            {
+                "threshold": 0.0806658130602,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superalter"
+                }
+            },
+            {
+                "threshold": 0.0813060179257,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/sphere"
+                }
+            },
+            {
+                "threshold": 0.0819462227913,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blob"
+                }
+            },
+            {
+                "threshold": 0.0825864276569,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tendril"
+                }
+            },
+            {
+                "threshold": 0.0832266325224,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/walls"
+                }
+            },
+            {
+                "threshold": 0.083866837388,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/emp"
+                }
+            },
+            {
+                "threshold": 0.0845070422535,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superemp"
+                }
+            },
+            {
+                "threshold": 0.0851472471191,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/disintegrate"
+                }
+            },
+            {
+                "threshold": 0.0857874519846,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blink"
+                }
+            },
+            {
+                "threshold": 0.0864276568502,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/absorb"
+                }
+            },
+            {
+                "threshold": 0.0870678617157,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/hat"
+                }
+            },
+            {
+                "threshold": 0.0877080665813,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wear"
+                }
+            },
+            {
+                "threshold": 0.0883482714469,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/magichat"
+                }
+            },
+            {
+                "threshold": 0.0889884763124,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/lava"
+                }
+            },
+            {
+                "threshold": 0.089628681178,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/stream"
+                }
+            },
+            {
+                "threshold": 0.0902688860435,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/earth"
+                }
+            },
+            {
+                "threshold": 0.0909090909091,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/iterate"
+                }
+            },
+            {
+                "threshold": 0.0915492957746,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/column"
+                }
+            },
+            {
+                "threshold": 0.0921895006402,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/flamethrower"
+                }
+            },
+            {
+                "threshold": 0.0928297055058,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/laser"
+                }
+            },
+            {
+                "threshold": 0.0934699103713,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/shrink"
+                }
+            },
+            {
+                "threshold": 0.0941101152369,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/grow"
+                }
+            },
+            {
+                "threshold": 0.0947503201024,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/flare"
+                }
+            },
+            {
+                "threshold": 0.095390524968,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/recall"
+                }
+            },
+            {
+                "threshold": 0.0960307298335,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/levitate"
+                }
+            },
+            {
+                "threshold": 0.0966709346991,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/force"
+                }
+            },
+            {
+                "threshold": 0.0973111395647,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/dragonball"
+                }
+            },
+            {
+                "threshold": 0.0979513444302,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fireball"
+                }
+            },
+            {
+                "threshold": 0.0985915492958,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/map"
+                }
+            },
+            {
+                "threshold": 0.0992317541613,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/camera"
+                }
+            },
+            {
+                "threshold": 0.0998719590269,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tent"
+                }
+            },
+            {
+                "threshold": 0.100512163892,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/cage"
+                }
+            },
+            {
+                "threshold": 0.101152368758,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wolfhouse"
+                }
+            },
+            {
+                "threshold": 0.101792573624,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blaster"
+                }
+            },
+            {
+                "threshold": 0.102432778489,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/missile"
+                }
+            },
+            {
+                "threshold": 0.103072983355,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/railgun"
+                }
+            },
+            {
+                "threshold": 0.10371318822,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fury"
+                }
+            },
+            {
+                "threshold": 0.104353393086,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/homing"
+                }
+            },
+            {
+                "threshold": 0.104993597951,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/chainlightning"
+                }
+            },
+            {
+                "threshold": 0.105633802817,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/sticky"
+                }
+            },
+            {
+                "threshold": 0.106274007682,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/blind"
+                }
+            },
+            {
+                "threshold": 0.106914212548,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/pollinate"
+                }
+            },
+            {
+                "threshold": 0.107554417414,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/broom"
+                }
+            },
+            {
+                "threshold": 0.108194622279,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/paste"
+                }
+            },
+            {
+                "threshold": 0.108834827145,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/kill"
+                }
+            },
+            {
+                "threshold": 0.10947503201,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superkill"
+                }
+            },
+            {
+                "threshold": 0.110115236876,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/torture"
+                }
+            },
+            {
+                "threshold": 0.110755441741,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/rubberize"
+                }
+            },
+            {
+                "threshold": 0.111395646607,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superfly"
+                }
+            },
+            {
+                "threshold": 0.112035851472,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/petrify"
+                }
+            },
+            {
+                "threshold": 0.112676056338,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/polymorph"
+                }
+            },
+            {
+                "threshold": 0.113316261204,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/entangle"
+                }
+            },
+            {
+                "threshold": 0.113956466069,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wound"
+                }
+            },
+            {
+                "threshold": 0.114596670935,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/stun"
+                }
+            },
+            {
+                "threshold": 0.1152368758,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/poison"
+                }
+            },
+            {
+                "threshold": 0.115877080666,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/lift"
+                }
+            },
+            {
+                "threshold": 0.116517285531,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/admission"
+                }
+            },
+            {
+                "threshold": 0.117157490397,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/secure"
+                }
+            },
+            {
+                "threshold": 0.117797695262,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/lockpick"
+                }
+            },
+            {
+                "threshold": 0.118437900128,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/harden"
+                }
+            },
+            {
+                "threshold": 0.119078104994,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/sponge"
+                }
+            },
+            {
+                "threshold": 0.119718309859,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/upgrades"
+                }
+            },
+            {
+                "threshold": 0.120358514725,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/brushselect"
+                }
+            },
+            {
+                "threshold": 0.12099871959,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tracking"
+                }
+            },
+            {
+                "threshold": 0.121638924456,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/singularity"
+                }
+            },
+            {
+                "threshold": 0.122279129321,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/rocket"
+                }
+            },
+            {
+                "threshold": 0.122919334187,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/tornado"
+                }
+            },
+            {
+                "threshold": 0.123559539052,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/rainbow"
+                }
+            },
+            {
+                "threshold": 0.124199743918,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/shuriken"
+                }
+            },
+            {
+                "threshold": 0.124839948784,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wave"
+                }
+            },
+            {
+                "threshold": 0.125480153649,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/boomstown"
+                }
+            },
+            {
+                "threshold": 0.126120358515,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/projectile"
+                }
+            },
+            {
+                "threshold": 0.12676056338,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/whip"
+                }
+            },
+            {
+                "threshold": 0.127400768246,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/fxdemo"
+                }
+            },
+            {
+                "threshold": 0.128040973111,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/supergather"
+                }
+            },
+            {
+                "threshold": 0.128681177977,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/randomtp"
+                }
+            },
+            {
+                "threshold": 0.129321382843,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/glide"
+                }
+            },
+            {
+                "threshold": 0.129961587708,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/webbing"
+                }
+            },
+            {
+                "threshold": 0.13060179257362,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/chestmode"
+                }
+            },
+            {
+                "threshold": 0.131241997439,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/chestmode"
+                }
+            },
+            {
+                "threshold": 0.131882202305,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/quickcast_enable"
+                }
+            },
+            {
+                "threshold": 0.13252240717,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/quickcast_disable"
+                }
+            },
+            {
+                "threshold": 0.133162612036,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/quickcast_manual"
+                }
+            },
+            {
+                "threshold": 0.133802816901,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/quickcast_normal"
+                }
+            },
+            {
+                "threshold": 0.134443021767,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/mode_drop"
+                }
+            },
+            {
+                "threshold": 0.135083226633,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/mode_rightclick"
+                }
+            },
+            {
+                "threshold": 0.135723431498,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/mode_sword"
+                }
+            },
+            {
+                "threshold": 0.136363636364,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/mode_swap"
+                }
+            },
+            {
+                "threshold": 0.137003841229,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/inventorymode"
+                }
+            },
+            {
+                "threshold": 0.137644046095,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/cyclemode"
+                }
+            },
+            {
+                "threshold": 0.13828425096,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/organizer"
+                }
+            },
+            {
+                "threshold": 0.138924455826,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/alphabetizer"
+                }
+            },
+            {
+                "threshold": 0.139564660691,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/loud"
+                }
+            },
+            {
+                "threshold": 0.140204865557,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/quiet"
+                }
+            },
+            {
+                "threshold": 0.140845070423,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/silent"
+                }
+            },
+            {
+                "threshold": 0.141485275288,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/hotbar1"
+                }
+            },
+            {
+                "threshold": 0.142125480154,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/hotbar2"
+                }
+            },
+            {
+                "threshold": 0.142765685019,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/hotbar3"
+                }
+            },
+            {
+                "threshold": 0.143405889885,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/undroppable"
+                }
+            },
+            {
+                "threshold": 0.14404609475,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/upgrades/antihunger"
+                }
+            },
+            {
+                "threshold": 0.144686299615877,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/feather"
+                }
+            },
+            {
+                "threshold": 0.145326504481434,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/purpleblast"
+                }
+            },
+            {
+                "threshold": 0.145966709346991,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/light"
+                }
+            },
+            {
+                "threshold": 0.146606914212548,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/spider"
+                }
+            },
+            {
+                "threshold": 0.147247119078105,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/vanish"
+                }
+            },
+            {
+                "threshold": 0.147887323943662,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/trash"
+                }
+            },
+            {
+                "threshold": 0.148527528809219,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/extinguish"
+                }
+            },
+            {
+                "threshold": 0.149167733674776,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/wand"
+                }
+            },
+            {
+                "threshold": 0.149807938540333,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_all"
+                }
+            },
+            {
+                "threshold": 0.15044814340589,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_explosions"
+                }
+            },
+            {
+                "threshold": 0.151088348271447,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_falling"
+                }
+            },
+            {
+                "threshold": 0.151728553137004,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_fire"
+                }
+            },
+            {
+                "threshold": 0.152368758002561,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_physical"
+                }
+            },
+            {
+                "threshold": 0.153008962868118,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/protection_projectiles"
+                }
+            },
+            {
+                "threshold": 0.153649167733675,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/sharpen_sword"
+                }
+            },
+            {
+                "threshold": 0.154289372599232,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/airscooter"
+                }
+            },
+            {
+                "threshold": 0.15492957746478872,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow2"
+                }
+            },
+            {
+                "threshold": 0.1555697823303457,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow3"
+                }
+            },
+            {
+                "threshold": 0.15620998719590268,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow4"
+                }
+            },
+            {
+                "threshold": 0.15685019206145967,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow5"
+                }
+            },
+            {
+                "threshold": 0.15749039692701663,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow6"
+                }
+            },
+            {
+                "threshold": 0.15813060179257363,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow7"
+                }
+            },
+            {
+                "threshold": 0.1587708066581306,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow8"
+                }
+            },
+            {
+                "threshold": 0.15941101152368758,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow9"
+                }
+            },
+            {
+                "threshold": 0.16005121638924455,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/arrow10"
+                }
+            },
+            {
+                "threshold": 0.160691421254802,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/capture"
+                }
+            },
+            {
+                "threshold": 0.161331626120359,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/generic/up_arrow"
+                }
+            },
+            {
+                "threshold": 0.161971830985915,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/generic/down_arrow"
+                }
+            },
+            {
+                "threshold": 0.162612035851472,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/generic/black"
+                }
+            },
+            {
+                "threshold": 0.163252240717029,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/constitution"
+                }
+            },
+            {
+                "threshold": 0.163892445582586,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/dexterity"
+                }
+            },
+            {
+                "threshold": 0.164532650448143,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/intelligence"
+                }
+            },
+            {
+                "threshold": 0.1651728553137,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/luck"
+                }
+            },
+            {
+                "threshold": 0.165813060179257,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/strength"
+                }
+            },
+            {
+                "threshold": 0.166453265044814,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/wisdom"
+                }
+            },
+            {
+                "threshold": 0.166453265044814,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/attributes/wisdom"
+                }
+            },
+            {
+                "threshold": 0.167093469910371,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/cleric"
+                }
+            },
+            {
+                "threshold": 0.167733674775928,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/fighter"
+                }
+            },
+            {
+                "threshold": 0.168373879641485,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/ranger"
+                }
+            },
+            {
+                "threshold": 0.169014084507042,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/rogue"
+                }
+            },
+            {
+                "threshold": 0.169654289372599,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/wizard"
+                }
+            },
+            {
+                "threshold": 0.170934699103713,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/generic/reset"
+                }
+            },
+            {
+                "threshold": 0.170934699103713,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/barbarian"
+                }
+            },
+            {
+                "threshold": 0.17157490396927,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/bard"
+                }
+            },
+            {
+                "threshold": 0.172215108834827,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/druid"
+                }
+            },
+            {
+                "threshold": 0.172855313700384,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/monk"
+                }
+            },
+            {
+                "threshold": 0.173495518565941,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/paladin"
+                }
+            },
+            {
+                "threshold": 0.174135723431498,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/sorcerer"
+                }
+            },
+            {
+                "threshold": 0.174775928297055,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/warlock"
+                }
+            },
+            {
+                "threshold": 0.175416133162612,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/classes/artificer"
+                }
+            },
+            {
+                "threshold": 0.176056338028169,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/generic/gray"
+                }
+            },
+            {
+                "threshold": 0.176696542893726,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/races/human"
+                }
+            },
+            {
+                "threshold": 0.177336747759283,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/races/elf"
+                }
+            },
+            {
+                "threshold": 0.17797695262484,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/races/gnome"
+                }
+            },
+            {
+                "threshold": 0.178617157490397,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/races/dwarf"
+                }
+            },
+            {
+                "threshold": 0.179257362355954,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/races/halfling"
+                }
+            }
+        ]
+    }
+}

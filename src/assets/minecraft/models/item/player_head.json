@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/template_skull",
-
-  "overrides": [
-    {"predicate": { "custom_model_data": 3004}, "model": "peaceandcube:profile/main/profile"}
-  ]
-}

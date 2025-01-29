@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+						"base": "minecraft:item/template_banner",
+						"model": {
+							"type": "minecraft:banner",
+							"color": "cyan"
+						}
+        },
+        "entries": [
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/brushes/schematic"
+                }
+            }
+        ]
+    }
+}

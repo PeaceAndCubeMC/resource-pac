@@ -1,0 +1,66 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+            "base": "minecraft:item/dragon_head",
+            "model": {
+                "type": "minecraft:head",
+                "kind": "dragon"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/dragonball"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/dragonball"
+                }
+            }
+        ]
+    },
+    "display": {
+        "gui": {
+            "translation": [
+                -2,
+                2,
+                0
+            ],
+            "rotation": [
+                30,
+                45,
+                0
+            ],
+            "scale": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                0,
+                -1,
+                2
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}

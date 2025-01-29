@@ -1,0 +1,798 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bow"
+            },
+            "on_true": {
+                "type": "minecraft:range_dispatch",
+                "property": "minecraft:use_duration",
+                "scale": 0.05,
+                "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/bow_pulling_0"
+                },
+                "entries": [
+                    {
+                        "threshold": 0.65,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bow_pulling_1"
+                        }
+                    },
+                    {
+                        "threshold": 0.9,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bow_pulling_2"
+                        }
+                    }
+                ]
+            }
+        },
+        "entries": [
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_base"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_base"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_base_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_base_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_base_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_orange"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_orange"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_orange_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_orange_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_orange_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_magenta"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_magenta"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_magenta_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_magenta_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_magenta_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_light_blue"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_light_blue"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_light_blue_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_light_blue_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_light_blue_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_lime"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_lime"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_lime_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_lime_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_lime_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_pink"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_pink"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_pink_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_pink_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_pink_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_red"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_red"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_red_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_red_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_red_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_yellow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_yellow"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_yellow_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_yellow_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_yellow_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_purple"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_purple"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_purple_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_purple_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_purple_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:donjon/donjon_devlose/bow/bow_rainbow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/donjon_devlose/bow/bow_rainbow"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_rainbow_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_rainbow_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/donjon_devlose/bow/bow_rainbow_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 623,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/musique2023/violon"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:event/musique2023/violon"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/musique2023/violon_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/musique2023/violon_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/musique2023/violon_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 2402,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:event/sv2024/arc_passionnel"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:event/sv2024/arc_passionnel"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "magic:bows/egypt/egypt"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "magic:bows/egypt/egypt"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/egypt/egypt_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/egypt/egypt_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/egypt/egypt_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "magic:bows/skinny/bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "magic:bows/skinny/bow"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/skinny/bow_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/skinny/bow_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/skinny/bow_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 18003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "magic:bows/longbow/longbow_standby"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "magic:bows/longbow/longbow_standby"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/longbow/longbow_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/longbow/longbow_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "magic:bows/longbow/longbow_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 18010,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bow"
+                        },
+                        "entries": []
+                    }
+                }
+            },
+            {
+                "threshold": 18011,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bow"
+                        },
+                        "entries": []
+                    }
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                -80,
+                260,
+                -40
+            ],
+            "translation": [
+                -1,
+                -2,
+                2.5
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                -80,
+                -280,
+                40
+            ],
+            "translation": [
+                -1,
+                -2,
+                2.5
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                -90,
+                25
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                -25
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        }
+    }
+}

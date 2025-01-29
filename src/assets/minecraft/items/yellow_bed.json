@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+						"base": "minecraft:item/yellow_bed",
+						"model": {
+							"type": "minecraft:bed",
+							"texture": "minecraft:yellow"
+						}
+        },
+        "entries": [
+            {
+                "threshold": 3010,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/homes/beds/yellow"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/bone"
+        },
+        "entries": [
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/superkill"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/superkill"
+                }
+            },
+            {
+                "threshold": 18003,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/kill"
+                }
+            },
+            {
+                "threshold": 18004,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/kill"
+                }
+            }
+        ]
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                0,
+                -45
+            ],
+            "translation": [
+                0,
+                -4.5,
+                -6.5
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    }
+}

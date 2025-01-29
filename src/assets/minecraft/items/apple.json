@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/apple"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/salade_verte"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/tomate"
+                }
+            },
+            {
+                "threshold": 7232,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/avocat"
+                }
+            },
+            {
+                "threshold": 7233,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/poire"
+                }
+            },
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/heal"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/heal"
+                }
+            }
+        ]
+    }
+}

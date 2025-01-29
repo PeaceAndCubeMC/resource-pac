@@ -1,0 +1,75 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_apple"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_chocolat"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_pomme"
+                }
+            },
+            {
+                "threshold": 7232,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_poire"
+                }
+            },
+            {
+                "threshold": 7233,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_fraise"
+                }
+            },
+            {
+                "threshold": 7234,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_rhum_raisins"
+                }
+            },
+            {
+                "threshold": 7235,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_vanille"
+                }
+            },
+            {
+                "threshold": 7236,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/glace_menthe_chocolat"
+                }
+            },
+            {
+                "threshold": 18001,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons/spells/invincible"
+                }
+            },
+            {
+                "threshold": 18002,
+                "model": {
+                    "type": "model",
+                    "model": "magic:icons_disabled/spells/invincible"
+                }
+            }
+        ]
+    }
+}
