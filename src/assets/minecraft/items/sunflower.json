@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/sunflower_front"
+        },
+        "entries": [
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/main/coins"
+                }
+            },
+            {
+                "threshold": 3050,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/settings/pweather"
+                }
+            }
+        ]
+    }
+}

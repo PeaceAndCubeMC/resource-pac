@@ -1,0 +1,27 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:special",
+            "base": "minecraft:item/template_skull",
+            "model": {
+                "type": "minecraft:head",
+                "kind": "player"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "minecraft:special",
+                    "base": "peaceandcube:profile/main/profile",
+                    "model": {
+                        "type": "minecraft:head",
+                        "kind": "player"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/cooked_salmon"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/sushi_saumon"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/sushi_thon"
+                }
+            },
+            {
+                "threshold": 7232,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/moules_frites"
+                }
+            },
+            {
+                "threshold": 7233,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/maki_saumon"
+                }
+            },
+            {
+                "threshold": 7234,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/maki_thon"
+                }
+            }
+        ]
+    }
+}

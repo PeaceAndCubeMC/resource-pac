@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/gray_dye"
+        },
+        "entries": [
+            {
+                "threshold": 3012,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/homes/colors/gray"
+                }
+            }
+        ]
+    }
+}

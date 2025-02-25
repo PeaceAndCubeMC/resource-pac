@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_shovel"
+        },
+        "entries": [
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/shovel_c"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/shovel_s"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/shovel_r"
+                }
+            },
+            {
+                "threshold": 604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/shovel_k"
+                }
+            },
+            {
+                "threshold": 605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/shovel_j"
+                }
+            }
+        ]
+    }
+}

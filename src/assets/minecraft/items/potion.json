@@ -1,0 +1,95 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/potion",
+            "tints": [
+                {
+                    "type": "minecraft:potion",
+                    "default": -13083194
+                }
+            ]
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/huile_tournesol"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/jus_pomme"
+                }
+            },
+            {
+                "threshold": 7232,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/sirop_coquelicot"
+                }
+            },
+            {
+                "threshold": 7233,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/chocolat_chaud"
+                }
+            },
+            {
+                "threshold": 7234,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/biere"
+                }
+            },
+            {
+                "threshold": 7235,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/lait"
+                }
+            },
+            {
+                "threshold": 7236,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/jus_raisin"
+                }
+            },
+            {
+                "threshold": 7237,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/vin_rouge"
+                }
+            },
+            {
+                "threshold": 7238,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/rhum"
+                }
+            },
+            {
+                "threshold": 7239,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/cidre"
+                }
+            },
+            {
+                "threshold": 7240,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/get_27"
+                }
+            }
+        ]
+    }
+}

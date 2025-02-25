@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_base"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_orange"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_magenta"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_light_blue"
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_lime"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_pink"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_red"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_yellow"
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_purple"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_rainbow"
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/pickaxe_c"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/pickaxe_s"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/pickaxe_r"
+                }
+            },
+            {
+                "threshold": 604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/pickaxe_k"
+                }
+            },
+            {
+                "threshold": 605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/pickaxe_j"
+                }
+            },
+            {
+                "threshold": 606,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/wrench"
+                }
+            },
+            {
+                "threshold": 202210,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/foreuse"
+                }
+            },
+            {
+                "threshold": 2022101,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/pioche_chauve_souris"
+                }
+            }
+        ]
+    }
+}

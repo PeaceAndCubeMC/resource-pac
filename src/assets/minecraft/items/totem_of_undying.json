@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/totem_of_undying"
+        },
+        "entries": [
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/statue/devlose"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/statue/scari"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/statue/vico"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_orange"
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_magenta"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_light_blue"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_lime"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_pink"
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_red"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_yellow"
+                }
+            },
+            {
+                "threshold": 511,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_purple"
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/garde1"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/garde2"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/garde3"
+                }
+            },
+            {
+                "threshold": 604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/garde4"
+                }
+            },
+            {
+                "threshold": 605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/garde5"
+                }
+            },
+            {
+                "threshold": 606,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/grimpeur"
+                }
+            },
+            {
+                "threshold": 607,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/secretaire"
+                }
+            }
+        ]
+    }
+}

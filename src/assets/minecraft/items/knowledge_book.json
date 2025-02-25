@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/knowledge_book"
+        },
+        "entries": [
+            {
+                "threshold": 623,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/musique2023/radio_vert_pause"
+                }
+            },
+            {
+                "threshold": 624,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/musique2023/radio_vert_play"
+                }
+            },
+            {
+                "threshold": 625,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/musique2023/radio_rose_pause"
+                }
+            },
+            {
+                "threshold": 626,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/musique2023/radio_rose_play"
+                }
+            },
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/main/rules"
+                }
+            },
+            {
+                "threshold": 3022,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/claims/permissions"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,610 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_false": {
+                "type": "minecraft:select",
+                "property": "minecraft:charge_type",
+                "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/crossbow"
+                },
+                "cases": [
+                    {
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/crossbow_arrow"
+                        },
+                        "when": "arrow"
+                    },
+                    {
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/crossbow_firework"
+                        },
+                        "when": "rocket"
+                    }
+                ]
+            },
+            "on_true": {
+                "type": "minecraft:range_dispatch",
+                "property": "minecraft:crossbow/pull",
+                "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/crossbow_pulling_0"
+                },
+                "entries": [
+                    {
+                        "threshold": 0.58,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/crossbow_pulling_1"
+                        }
+                    },
+                    {
+                        "threshold": 1.0,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/crossbow_pulling_2"
+                        }
+                    }
+                ]
+            }
+        },
+        "entries": [
+            {
+                "threshold": 204,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette1"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette1"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette1"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette1"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette1"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 205,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette2"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette2"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette2"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette2"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 206,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette3"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette3"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette3"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette3"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette3"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 207,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette4"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette4"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette4"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette4"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette4"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 208,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette5"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette5"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette5"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette5"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette5"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 209,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette6"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette6"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette6"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette6"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette6"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 210,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette7"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette7"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette7"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette7"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette7"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 211,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette8"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette8"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette8"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/harry_covert/baguette8"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/harry_covert/baguette8"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 401,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse2"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse1"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/demeure_castlewoods/arquebuse"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/le_casse/scifi_gun"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/le_casse/scifi_gun"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/le_casse/scifi_gun"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "peaceandcube:donjon/le_casse/scifi_gun"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "peaceandcube:donjon/le_casse/scifi_gun"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                -90,
+                0,
+                -60
+            ],
+            "translation": [
+                2,
+                0.1,
+                -3
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                -90,
+                0,
+                30
+            ],
+            "translation": [
+                2,
+                0.1,
+                -3
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -90,
+                0,
+                -55
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                -90,
+                0,
+                35
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        }
+    }
+}

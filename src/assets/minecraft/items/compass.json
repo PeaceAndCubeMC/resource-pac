@@ -1,0 +1,243 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/compass_16"
+        },
+        "entries": [
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_16"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_17"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_18"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_19"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_20"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_21"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_22"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_23"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_24"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_25"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_26"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_27"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_28"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_29"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_30"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_31"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_00"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_01"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_02"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_03"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_04"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_05"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_06"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_07"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_08"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_09"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_10"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_11"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_12"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_13"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_14"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_15"
+                }
+            },
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/compass_16"
+                }
+            }
+        ]
+    }
+}

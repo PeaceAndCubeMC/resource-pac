@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 221,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/canne_kir"
+                }
+            },
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_base"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_orange"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_magenta"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_light_blue"
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_lime"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_pink"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_red"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_yellow"
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_purple"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/hoe/hoe_rainbow"
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hoe_c"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hoe_s"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hoe_r"
+                }
+            },
+            {
+                "threshold": 604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hoe_k"
+                }
+            },
+            {
+                "threshold": 605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hoe_j"
+                }
+            },
+            {
+                "threshold": 823,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/loterie_ete_2023/rateau"
+                }
+            },
+            {
+                "threshold": 2022104,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/faux"
+                }
+            }
+        ]
+    }
+}

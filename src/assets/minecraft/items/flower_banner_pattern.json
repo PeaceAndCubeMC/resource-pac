@@ -1,0 +1,264 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/flower_banner_pattern"
+        },
+        "entries": [
+            {
+                "threshold": 822,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/loterie_ete_2022/pagaie_texture"
+                }
+            },
+            {
+                "threshold": 823,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/loterie_ete_2023/rateau_texture"
+                }
+            },
+            {
+                "threshold": 21005,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/peche_hivernale/ph_canne_skin"
+                }
+            },
+            {
+                "threshold": 2022101,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/pioche_chauve_souris_texture"
+                }
+            },
+            {
+                "threshold": 2022102,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/hachampignon_texture"
+                }
+            },
+            {
+                "threshold": 2022103,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/epee_glace_texture"
+                }
+            },
+            {
+                "threshold": 2022104,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/faux_texture"
+                }
+            },
+            {
+                "threshold": 2022110,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b1"
+                }
+            },
+            {
+                "threshold": 2022111,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b2"
+                }
+            },
+            {
+                "threshold": 2022112,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b3"
+                }
+            },
+            {
+                "threshold": 2022113,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b4"
+                }
+            },
+            {
+                "threshold": 2022114,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b5"
+                }
+            },
+            {
+                "threshold": 2022115,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b6"
+                }
+            },
+            {
+                "threshold": 2022116,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b7"
+                }
+            },
+            {
+                "threshold": 2022117,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t1b8"
+                }
+            },
+            {
+                "threshold": 2022118,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b1_1"
+                }
+            },
+            {
+                "threshold": 2022119,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b1_2"
+                }
+            },
+            {
+                "threshold": 2022120,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b1"
+                }
+            },
+            {
+                "threshold": 2022121,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b2_1"
+                }
+            },
+            {
+                "threshold": 2022122,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b2_2"
+                }
+            },
+            {
+                "threshold": 2022123,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b2"
+                }
+            },
+            {
+                "threshold": 2022124,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b3_1"
+                }
+            },
+            {
+                "threshold": 2022125,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b3_2"
+                }
+            },
+            {
+                "threshold": 2022126,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b3"
+                }
+            },
+            {
+                "threshold": 2022127,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b4_1"
+                }
+            },
+            {
+                "threshold": 2022128,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b4_2"
+                }
+            },
+            {
+                "threshold": 2022129,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t2b4"
+                }
+            },
+            {
+                "threshold": 2022130,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b1_1"
+                }
+            },
+            {
+                "threshold": 2022131,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b1_2"
+                }
+            },
+            {
+                "threshold": 2022132,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b1"
+                }
+            },
+            {
+                "threshold": 2022133,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b2_1"
+                }
+            },
+            {
+                "threshold": 2022134,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b2_2"
+                }
+            },
+            {
+                "threshold": 2022135,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t3b2"
+                }
+            },
+            {
+                "threshold": 2022136,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t4b1_1"
+                }
+            },
+            {
+                "threshold": 2022137,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t4b1_2"
+                }
+            },
+            {
+                "threshold": 2022138,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/adr/t4b1"
+                }
+            }
+        ]
+    }
+}

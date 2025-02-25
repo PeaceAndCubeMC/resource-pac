@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/rabbit_foot"
+        },
+        "entries": [
+            {
+                "threshold": 224,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/patte_tofu"
+                }
+            }
+        ]
+    }
+}

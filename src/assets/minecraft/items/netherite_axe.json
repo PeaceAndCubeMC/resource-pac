@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_axe"
+        },
+        "entries": [
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_base"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_orange"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_magenta"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_light_blue"
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_lime"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_pink"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_red"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_yellow"
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_purple"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/axe/axe_rainbow"
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/axe_c"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/axe_s"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/axe_r"
+                }
+            },
+            {
+                "threshold": 604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/axe_k"
+                }
+            },
+            {
+                "threshold": 605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/axe_j"
+                }
+            },
+            {
+                "threshold": 606,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/le_casse/hammer"
+                }
+            },
+            {
+                "threshold": 822,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/ete_2022_quete/hache_amethyst2"
+                }
+            },
+            {
+                "threshold": 2022102,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/halloween2022/hachampignon"
+                }
+            }
+        ]
+    }
+}
