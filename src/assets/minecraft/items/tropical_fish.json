@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/tropical_fish"
+        },
+        "entries": [
+            {
+                "threshold": 2103,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/peche_hivernale/nemo_perdu"
+                }
+            },
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/moule"
+                }
+            }
+        ]
+    }
+}

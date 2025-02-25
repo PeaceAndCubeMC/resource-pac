@@ -1,0 +1,201 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_orange"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_magenta"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_light_blue"
+                }
+            },
+            {
+                "threshold": 505,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_lime"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_pink"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_red"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_yellow"
+                }
+            },
+            {
+                "threshold": 509,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/cartes/carte_purple"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/armor"
+                }
+            },
+            {
+                "threshold": 511,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/attackkb"
+                }
+            },
+            {
+                "threshold": 512,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/attackspeed"
+                }
+            },
+            {
+                "threshold": 513,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/damage"
+                }
+            },
+            {
+                "threshold": 514,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/health"
+                }
+            },
+            {
+                "threshold": 515,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/kresistance"
+                }
+            },
+            {
+                "threshold": 516,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/luck"
+                }
+            },
+            {
+                "threshold": 517,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/boost/speed"
+                }
+            },
+            {
+                "threshold": 518,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_orange"
+                }
+            },
+            {
+                "threshold": 519,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_magenta"
+                }
+            },
+            {
+                "threshold": 520,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_light_blue"
+                }
+            },
+            {
+                "threshold": 521,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_lime"
+                }
+            },
+            {
+                "threshold": 522,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_pink"
+                }
+            },
+            {
+                "threshold": 523,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_red"
+                }
+            },
+            {
+                "threshold": 524,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_yellow"
+                }
+            },
+            {
+                "threshold": 525,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_purple"
+                }
+            },
+            {
+                "threshold": 526,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_rainbow"
+                }
+            },
+            {
+                "threshold": 3011,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/homes/notes"
+                }
+            },
+            {
+                "threshold": 3023,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:profile/claims/name"
+                }
+            }
+        ]
+    }
+}

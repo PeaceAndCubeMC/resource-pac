@@ -1,0 +1,110 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/cookie"
+        },
+        "entries": [
+            {
+                "threshold": 7230,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/chocolat_noir"
+                }
+            },
+            {
+                "threshold": 7231,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/chocolat_lait"
+                }
+            },
+            {
+                "threshold": 7232,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/chocolat_blanc"
+                }
+            },
+            {
+                "threshold": 7233,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival/biscuit_chinois"
+                }
+            },
+            {
+                "threshold": 2502001,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_nature"
+                }
+            },
+            {
+                "threshold": 2502002,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_confiture"
+                }
+            },
+            {
+                "threshold": 2502003,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_chocolat"
+                }
+            },
+            {
+                "threshold": 2502004,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_sucre"
+                }
+            },
+            {
+                "threshold": 2502005,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_jambon"
+                }
+            },
+            {
+                "threshold": 2502006,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_saumon"
+                }
+            },
+            {
+                "threshold": 2502007,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_oeuf"
+                }
+            },
+            {
+                "threshold": 2502008,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/crepe_zombie"
+                }
+            },
+            {
+                "threshold": 2502009,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/livre_crepe"
+                }
+            },
+            {
+                "threshold": 2502010,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/chandeleur2025/poele_a_crepe"
+                }
+            }
+        ]
+    }
+}

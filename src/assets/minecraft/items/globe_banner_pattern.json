@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/globe_banner_pattern"
+        },
+        "entries": [
+            {
+                "threshold": 4315,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt15/drapeauwt15"
+                }
+            },
+            {
+                "threshold": 4316,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt16/drapeauwt16"
+                }
+            }
+        ]
+    }
+}

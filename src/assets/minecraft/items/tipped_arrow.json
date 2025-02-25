@@ -1,0 +1,68 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/tipped_arrow_head"
+        },
+        "entries": [
+            {
+                "threshold": 212,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 213,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 214,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 215,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 216,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 217,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 218,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            },
+            {
+                "threshold": 219,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:donjon/harry_covert/sort_parchemin"
+                }
+            }
+        ]
+    }
+}
