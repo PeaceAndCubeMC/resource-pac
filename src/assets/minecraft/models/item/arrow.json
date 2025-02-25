@@ -6,8 +6,6 @@
 
   "overrides": [
     {"predicate": { "custom_model_data": 3002}, "model": "peaceandcube:profile/previous"},
-    {"predicate": { "custom_model_data": 3003}, "model": "peaceandcube:profile/next"},
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/arrow"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/arrow"}
+    {"predicate": { "custom_model_data": 3003}, "model": "peaceandcube:profile/next"}
   ]
 }

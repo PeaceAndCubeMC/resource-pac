@@ -14,8 +14,6 @@
         {"predicate": { "custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/grappin1"},
         {"predicate": {"cast": 1, "custom_model_data": 601}, "model": "peaceandcube:donjon/le_casse/grappin2"},
 
-        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/pull"},
-        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/pull"},
         {"predicate": {"custom_model_data": 21000}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl1_1"},
         {"predicate": {"custom_model_data": 21001}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl2_1"},
         {"predicate": {"custom_model_data": 21002}, "model": "peaceandcube:event/peche_hivernale/ph_canne_lvl3_1"},

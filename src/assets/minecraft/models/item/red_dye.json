@@ -5,8 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/red"},
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/torture"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/torture"}
+    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/red"}
   ]
 }

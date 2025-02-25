@@ -5,10 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/black"},
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/blind"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/blind"},
-    {"predicate": { "custom_model_data": 18003}, "model": "magic:icons/spells/toss"},
-    {"predicate": { "custom_model_data": 18004}, "model": "magic:icons_disabled/spells/toss"}
+    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/black"}
   ]
 }

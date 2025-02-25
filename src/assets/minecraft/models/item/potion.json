@@ -15,9 +15,6 @@
         {"predicate": { "custom_model_data": 7237}, "model": "peaceandcube:event/festin_estival/vin_rouge"},
         {"predicate": { "custom_model_data": 7238}, "model": "peaceandcube:event/festin_estival/rhum"},
         {"predicate": { "custom_model_data": 7239}, "model": "peaceandcube:event/festin_estival/cidre"},
-        {"predicate": { "custom_model_data": 7240}, "model": "peaceandcube:event/festin_estival/get_27"},
-
-        {"predicate": {"custom_model_data": 18001}, "model": "magic:food/coffee"},
-        {"predicate": {"custom_model_data": 18002}, "model": "magic:food/tea"}
+        {"predicate": { "custom_model_data": 7240}, "model": "peaceandcube:event/festin_estival/get_27"}
     ]
 }
