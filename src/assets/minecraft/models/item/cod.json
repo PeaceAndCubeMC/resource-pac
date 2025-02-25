@@ -12,8 +12,6 @@
     },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/cat"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/cat"},
     {"predicate": { "custom_model_data": 2101}, "model": "peaceandcube:event/peche_hivernale/morue_glace"}
   ]
 }

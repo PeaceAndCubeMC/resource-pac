@@ -7,8 +7,6 @@
     {"predicate": {"custom_model_data": 1}, "model": "peaceandcube:buildbattle/series_films/cameraxe1"},
     {"predicate": {"custom_model_data": 2}, "model": "peaceandcube:buildbattle/series_films/cameraxe2"},
     {"predicate": {"custom_model_data": 3}, "model": "peaceandcube:buildbattle/series_films/cameraxe3"},
-    {"predicate": {"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/hachoir"},
-    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/chop"},
-    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/chop"}
+    {"predicate": {"custom_model_data": 401}, "model": "peaceandcube:donjon/demeure_castlewoods/hachoir"}
   ]
 }

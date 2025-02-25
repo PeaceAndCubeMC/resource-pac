@@ -5,8 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "peaceandcube:buildbattle/series_films/clap"},
-    {"predicate": {"custom_model_data": 18001}, "model": "magic:wands/crystalball"}
-    
+    {"predicate": {"custom_model_data": 1}, "model": "peaceandcube:buildbattle/series_films/clap"}
   ]
 }

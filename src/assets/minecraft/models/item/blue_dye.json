@@ -4,8 +4,6 @@
     "layer0": "minecraft:item/blue_dye"
   },
   "overrides": [
-    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/blue"},
-    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/stun"},
-    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/stun"}
+    {"predicate": { "custom_model_data": 3012}, "model": "peaceandcube:profile/homes/colors/blue"}
   ]
 }

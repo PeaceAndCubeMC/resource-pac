@@ -106,26 +106,7 @@
       {"predicate": {"custom_model_data": 2402}, "model": "peaceandcube:event/sv2024/arc_passionnel"},
       {"predicate": {"pulling": 1, "custom_model_data": 2402}, "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_0"},
       {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 2402}, "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_1"},
-      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 2402}, "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_2"},
-
-      {"predicate": {"custom_model_data": 18001}, "model": "magic:bows/egypt/egypt"},
-      {"predicate": {"custom_model_data": 18002}, "model": "magic:bows/skinny/bow"},
-      {"predicate": {"custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_standby"},
-  
-      {"predicate": {"pulling": 1, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_0"},
-      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_1"},
-      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18001}, "model": "magic:bows/egypt/egypt_pulling_2"},
-  
-      {"predicate": {"pulling": 1, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_0"},
-      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_1"},
-      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18002}, "model": "magic:bows/skinny/bow_pulling_2"},
-  
-      {"predicate": {"pulling": 1, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_0"},
-      {"predicate": {"pulling": 1, "pull": 0.65, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_1"},
-      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 18003}, "model": "magic:bows/longbow/longbow_pulling_2"},
-  
-      {"predicate": {"custom_model_data": 18010}, "model": "magic:icons/spells/bow"},
-      {"predicate": {"custom_model_data": 18011}, "model": "magic:icons_disabled/spells/bow"}
+      {"predicate": {"pulling": 1, "pull": 0.9, "custom_model_data": 2402}, "model": "peaceandcube:event/sv2024/arc_passionnel_pulling_2"}
     ]
   }
   

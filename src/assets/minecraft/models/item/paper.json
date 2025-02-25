@@ -35,8 +35,6 @@
     {"predicate": {"custom_model_data": 526}, "model": "peaceandcube:donjon/donjon_devlose/chroma/chroma_rainbow"},
 
     {"predicate": { "custom_model_data": 3011}, "model": "peaceandcube:profile/homes/notes"},
-    {"predicate": { "custom_model_data": 3023}, "model": "peaceandcube:profile/claims/name"},
-    
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/brushes/copy"}
+    {"predicate": { "custom_model_data": 3023}, "model": "peaceandcube:profile/claims/name"}
   ]
 }

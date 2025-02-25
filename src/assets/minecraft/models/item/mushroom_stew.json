@@ -5,9 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/mousse_chocolat"},
-
-    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/superdome"},
-    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/superdome"}
+    {"predicate": { "custom_model_data": 7230}, "model": "peaceandcube:event/festin_estival/mousse_chocolat"}
   ]
 }

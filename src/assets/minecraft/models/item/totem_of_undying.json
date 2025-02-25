@@ -25,9 +25,6 @@
 		{"predicate": { "custom_model_data": 604}, "model": "peaceandcube:donjon/le_casse/garde4"},
 		{"predicate": { "custom_model_data": 605}, "model": "peaceandcube:donjon/le_casse/garde5"},
 		{"predicate": { "custom_model_data": 606}, "model": "peaceandcube:donjon/le_casse/grimpeur"},
-		{"predicate": { "custom_model_data": 607}, "model": "peaceandcube:donjon/le_casse/secretaire"},
-
-        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/testdummy"},
-        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/testdummy"}
+		{"predicate": { "custom_model_data": 607}, "model": "peaceandcube:donjon/le_casse/secretaire"}
   ]
 }
