@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:block/red_stained_glass"
+            "model": "minecraft:item/red_stained_glass_pane"
         },
         "entries": [
             {

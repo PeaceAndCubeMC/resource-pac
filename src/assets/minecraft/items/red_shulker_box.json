@@ -3,8 +3,12 @@
         "type": "range_dispatch",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
-            "model": "minecraft:item/template_shulker_box"
+            "type": "minecraft:special",
+            "base": "minecraft:item/red_shulker_box",
+            "model": {
+                "type": "minecraft:shulker_box",
+                "texture": "minecraft:shulker_red"
+            }
         },
         "entries": [
             {

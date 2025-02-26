@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:block/sunflower_front"
+            "model": "minecraft:item/sunflower"
         },
         "entries": [
             {

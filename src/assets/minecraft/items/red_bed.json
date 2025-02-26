@@ -3,8 +3,12 @@
         "type": "range_dispatch",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
-            "model": "minecraft:item/template_bed"
+            "type": "minecraft:special",
+            "base": "minecraft:item/red_bed",
+            "model": {
+                "type": "minecraft:bed",
+                "texture": "minecraft:red"
+            }
         },
         "entries": [
             {
