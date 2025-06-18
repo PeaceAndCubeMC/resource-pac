@@ -23,6 +23,22 @@ Licensed under Creative Commons: By Attribution 3.0
 http://creativecommons.org/licenses/by/3.0/
 ```
 
+```
+Saxophone sounds from Pixabay used for custom instruments
+
+tenor-sax-phrase-with-ghosted-note-98256 by freesound_community
+sax-phrase-t5-83369 by freesound_community
+down01-94074 by freesound_community
+sax-jazz-77053 by freesound_community
+saxophone-playing-242340
+elecriff3-93140 by freesound_community
+guitar-plug-and-play-106347 by freesound_community
+hammer-on-sample-108197 by freesound_community
+rake-guitar-dry-83757 by freesound_community
+slide_fretboard-103302 by freesound_community
+```
+
+
 ## List of CustomModelData
 
 <details>
@@ -267,6 +283,16 @@ http://creativecommons.org/licenses/by/3.0/
 | 2502008         | cookie 	| peaceandcube:event/chandeleur2025/crepe_zombie    |
 | 2502009         | book 	| peaceandcube:event/chandeleur2025/livre_crepe     |
 | 2502010         | mace 	| peaceandcube:event/chandeleur2025/poele_a_crepe   |
+
+</details>
+
+<details>
+<summary>Fête de la musique 2025</summary>
+
+| CustomModelData | Item 	      | Model path                                      |
+|-----------------|---------------|-------------------------------------------------|
+| 2506001         | goat_horn 	  | peaceandcube:event/musique2025/saxophone        |
+| 2506002         | netherite_axe | peaceandcube:event/musique2025/electric_guitar  |
 
 </details>
 
