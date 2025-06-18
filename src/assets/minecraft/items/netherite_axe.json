@@ -132,6 +132,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/halloween2022/hachampignon"
                 }
+            },
+            {
+                "threshold": 2506002,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/musique2025/electric_guitar"
+                }
             }
         ]
     }
