@@ -34,32 +34,7 @@
     ],
     "category": "player"
   },
-  "saxophone.note.sax0":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax0" ], "category": "player" },
-  "saxophone.note.sax1":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax1" ], "category": "player" },
-  "saxophone.note.sax2":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax2" ], "category": "player" },
-  "saxophone.note.sax3":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax3" ], "category": "player" },
-  "saxophone.note.sax4":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax4" ], "category": "player" },
-  "saxophone.note.sax5":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax5" ], "category": "player" },
-  "saxophone.note.sax6":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax6" ], "category": "player" },
-  "saxophone.note.sax7":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax7" ], "category": "player" },
-  "saxophone.note.sax8":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax8" ], "category": "player" },
-  "saxophone.note.sax9":  { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax9" ], "category": "player" },
-  "saxophone.note.sax10": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax10" ], "category": "player" },
-  "saxophone.note.sax11": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax11" ], "category": "player" },
-  "saxophone.note.sax12": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax12" ], "category": "player" },
-  "saxophone.note.sax13": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax13" ], "category": "player" },
-  "saxophone.note.sax14": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax14" ], "category": "player" }, 
-  "saxophone.note.sax15": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax15" ], "category": "player" },
-  "saxophone.note.sax16": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax16" ], "category": "player" },
-  "saxophone.note.sax17": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax17" ], "category": "player" },
-  "saxophone.note.sax18": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax18" ], "category": "player" },
-  "saxophone.note.sax19": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax19" ], "category": "player" },
-  "saxophone.note.sax20": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax20" ], "category": "player" },
-  "saxophone.note.sax21": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax21" ], "category": "player" },
-  "saxophone.note.sax22": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax22" ], "category": "player" },
-  "saxophone.note.sax23": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax23" ], "category": "player" },
-  "saxophone.note.sax24": { "sounds": [ "peaceandcube:custom_instruments/saxophone/note/sax24" ], "category": "player" },
-
+  
   "saxophone.sounds": {
 	"sounds": [
 		"peaceandcube:custom_instruments/saxophone/chill_jazz",

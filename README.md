@@ -24,7 +24,7 @@ http://creativecommons.org/licenses/by/3.0/
 ```
 
 ```
-Saxophone sounds from Pixabay used for custom instruments
+Sounds from Pixabay used for custom instruments
 
 tenor-sax-phrase-with-ghosted-note-98256 by freesound_community
 sax-phrase-t5-83369 by freesound_community
