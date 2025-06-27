@@ -92,17 +92,17 @@
                 }
             },
             {
-                "threshold": 2502009,
+                "threshold": 2507044,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/chandeleur2025/livre_crepe"
+                    "model": "peaceandcube:event/festin_estival_2/cannele"
                 }
             },
             {
-                "threshold": 2502010,
+                "threshold": 2507049,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/chandeleur2025/poele_a_crepe"
+                    "model": "peaceandcube:event/festin_estival_2/galette_sarrasin"
                 }
             }
         ]

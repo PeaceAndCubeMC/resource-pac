@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "peaceandcube:profile/homes/colors/light_gray"
                 }
+            },
+            {
+                "threshold": 2507029,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/farine_de_ble_noir"
+                }
             }
         ]
     }

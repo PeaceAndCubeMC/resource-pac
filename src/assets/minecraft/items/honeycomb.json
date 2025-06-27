@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/honeycomb"
+        },
+        "entries": [
+            {
+                "threshold": 2507017,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/ananas"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/ananas0"
+                }
+            },
+	    {
+                "threshold": 2507901,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/ananas1"
+                }
+            },
+	    {
+                "threshold": 2507902,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/ananas2"
+                }
+            }
+        ]
+    }
+}

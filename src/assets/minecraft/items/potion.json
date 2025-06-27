@@ -89,6 +89,125 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/get_27"
                 }
+            },
+            {
+                "threshold": 2507032,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/bouteille_de_lait"
+                }
+            },
+            {
+                "threshold": 2507036,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/pastis"
+                }
+            },
+            {
+                "threshold": 2507039,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/sirop_orange"
+                }
+            },
+            {
+                "threshold": 2507040,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/sirop_fraise"
+                }
+            },
+            {
+                "threshold": 2507041,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/sirop_citron"
+                }
+            },
+            {
+                "threshold": 2507042,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/sirop_menthe"
+                }
+            },
+            {
+                "threshold": 2507045,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/vin_rouge"
+                }
+            },
+            {
+                "threshold": 2507048,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/eau_petillante"
+                }
+            },
+            {
+                "threshold": 2507051,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/cidre"
+                }
+            },
+            {
+                "threshold": 2507054,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/calvados"
+                }
+            },
+            {
+                "threshold": 2507057,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/biere"
+                }
+            },
+            {
+                "threshold": 2507060,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/champagne"
+                }
+            },
+            {
+                "threshold": 2507066,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/limonade"
+                }
+            },
+            {
+                "threshold": 2507069,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/jus_mangue"
+                }
+            },
+            {
+                "threshold": 2507070,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/jus_ananas"
+                }
+            },
+            {
+                "threshold": 2507071,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/jus_grenade"
+                }
+            },
+            {
+                "threshold": 2507072,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/jus_banane"
+                }
             }
         ]
     }

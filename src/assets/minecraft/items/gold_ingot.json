@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/beurre"
                 }
+            },
+            {
+                "threshold": 2507033,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/beurre"
+                }
             }
         ]
     }

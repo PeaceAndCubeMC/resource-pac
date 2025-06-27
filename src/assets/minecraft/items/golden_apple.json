@@ -55,6 +55,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/glace_menthe_chocolat"
                 }
+            },
+            {
+                "threshold": 2507015,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/citron"
+                }
             }
         ]
     }

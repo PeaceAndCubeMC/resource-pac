@@ -27,6 +27,20 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/bonbon_fraise"
                 }
+            },
+            {
+                "threshold": 2507013,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/raisin"
+                }
+            },
+            {
+                "threshold": 2507014,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/orange"
+                }
             }
         ]
     }

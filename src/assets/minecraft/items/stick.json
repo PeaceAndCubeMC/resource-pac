@@ -20,6 +20,20 @@
                     "type": "model",
                     "model": "magic:other/ocarina"
                 }
+            },
+            {
+                "threshold": 2507025,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/cannelle"
+                }
+            },
+            {
+                "threshold": 2507026,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/vanille"
+                }
             }
         ]
     }

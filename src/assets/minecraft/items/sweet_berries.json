@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/fraise"
                 }
+            },
+            {
+                "threshold": 2507012,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/fraise"
+                }
             }
         ]
     }

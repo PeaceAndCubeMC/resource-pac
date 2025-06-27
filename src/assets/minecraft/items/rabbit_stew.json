@@ -27,6 +27,48 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/ratatouille"
                 }
+            },
+            {
+                "threshold": 2507034,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/bouillabaisse"
+                }
+            },
+            {
+                "threshold": 2507037,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/cassoulet"
+                }
+            },
+            {
+                "threshold": 2507055,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/moules_frites"
+                }
+            },
+            {
+                "threshold": 2507058,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/choucroute"
+                }
+            },
+            {
+                "threshold": 2507061,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/boeuf_bourguignon"
+                }
+            },
+            {
+                "threshold": 2507067,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/rougail_saucisses"
+                }
             }
         ]
     }
