@@ -18,7 +18,7 @@
                 "threshold": 2507002,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/riz"
+                    "model": "peaceandcube:event/festin_estival_2/food/riz"
                 }
             }
         ]

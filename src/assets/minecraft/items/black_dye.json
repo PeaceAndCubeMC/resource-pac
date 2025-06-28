@@ -13,34 +13,6 @@
                     "type": "model",
                     "model": "peaceandcube:profile/homes/colors/black"
                 }
-            },
-	    {
-                "threshold": 2507900,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/crops/test0"
-                }
-            },
-	    {
-                "threshold": 2507901,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/crops/test1"
-                }
-            },
-	    {
-                "threshold": 2507902,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/crops/test2"
-                }
-		},
-	    {
-                "threshold": 2507910,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/mouche0"
-                }
             }
         ]
     }

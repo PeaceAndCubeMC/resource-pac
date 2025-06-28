@@ -18,7 +18,7 @@
                 "threshold": 2507021,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/menthe"
+                    "model": "peaceandcube:event/festin_estival_2/food/menthe"
                 }
             }
         ]

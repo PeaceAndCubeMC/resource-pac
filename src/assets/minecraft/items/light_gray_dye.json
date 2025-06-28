@@ -18,7 +18,7 @@
                 "threshold": 2507029,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/farine_de_ble_noir"
+                    "model": "peaceandcube:event/festin_estival_2/food/farine_de_ble_noir"
                 }
             }
         ]

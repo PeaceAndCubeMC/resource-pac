@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "peaceandcube:event/festin_estival_2/riz_au_lait_cannelle"
-    }
-}

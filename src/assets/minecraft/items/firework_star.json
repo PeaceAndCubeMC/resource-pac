@@ -11,7 +11,7 @@
                 "threshold": 2507016,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/noix_de_coco"
+                    "model": "peaceandcube:event/festin_estival_2/food/noix_de_coco"
                 }
             }
         ]

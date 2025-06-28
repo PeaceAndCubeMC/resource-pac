@@ -11,7 +11,7 @@
                 "threshold": 2507018,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/banane"
+                    "model": "peaceandcube:event/festin_estival_2/food/banane"
                 }
             }
         ]

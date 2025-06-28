@@ -32,7 +32,7 @@
                 "threshold": 2507045,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/tartiflette"
+                    "model": "peaceandcube:event/festin_estival_2/food/tartiflette"
                 }
             }
         ]

@@ -18,7 +18,7 @@
                 "threshold": 2507007,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/haricot"
+                    "model": "peaceandcube:event/festin_estival_2/food/haricot"
                 }
             },
 	    {

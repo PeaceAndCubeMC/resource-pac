@@ -67,7 +67,7 @@
                 "threshold": 2507024,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/amande"
+                    "model": "peaceandcube:event/festin_estival_2/food/amande"
                 }
             }
         ]

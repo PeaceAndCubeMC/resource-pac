@@ -95,14 +95,14 @@
                 "threshold": 2507044,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/cannele"
+                    "model": "peaceandcube:event/festin_estival_2/food/cannele"
                 }
             },
             {
                 "threshold": 2507049,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/galette_sarrasin"
+                    "model": "peaceandcube:event/festin_estival_2/food/galette_sarrasin"
                 }
             }
         ]

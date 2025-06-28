@@ -25,14 +25,14 @@
                 "threshold": 2507025,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/cannelle"
+                    "model": "peaceandcube:event/festin_estival_2/food/cannelle"
                 }
             },
             {
                 "threshold": 2507026,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/vanille"
+                    "model": "peaceandcube:event/festin_estival_2/food/vanille"
                 }
             }
         ]

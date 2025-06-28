@@ -11,7 +11,14 @@
                 "threshold": 2507027,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/mouche"
+                    "model": "peaceandcube:event/festin_estival_2/food/mouche"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/mouche0"
                 }
             }
         ]

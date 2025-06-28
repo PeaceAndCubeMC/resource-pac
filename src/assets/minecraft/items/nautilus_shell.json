@@ -11,14 +11,14 @@
                 "threshold": 2507006,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/escargot"
+                    "model": "peaceandcube:event/festin_estival_2/food/escargot"
                 }
             },
             {
                 "threshold": 2507061,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/escargot_bourgogne"
+                    "model": "peaceandcube:event/festin_estival_2/food/escargot_bourgogne"
                 }
             }
         ]

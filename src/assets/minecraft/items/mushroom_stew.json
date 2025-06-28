@@ -18,14 +18,14 @@
                 "threshold": 2507038,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/creme_catalane"
+                    "model": "peaceandcube:event/festin_estival_2/food/creme_catalane"
                 }
             },
             {
                 "threshold": 2507063,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/croute_forestiere"
+                    "model": "peaceandcube:event/festin_estival_2/food/croute_forestiere"
                 }
             }
         ]

@@ -18,14 +18,14 @@
                 "threshold": 2507005,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/coquille_st_jacques_fermee"
+                    "model": "peaceandcube:event/festin_estival_2/food/coquille_st_jacques_fermee"
                 }
             },
 			{
                 "threshold": 2507052,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/coquille_st_jacques"
+                    "model": "peaceandcube:event/festin_estival_2/food/coquille_st_jacques"
                 }
             }
         ]

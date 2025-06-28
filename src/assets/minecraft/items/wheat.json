@@ -25,7 +25,7 @@
                 "threshold": 2507001,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/houblon"
+                    "model": "peaceandcube:event/festin_estival_2/food/houblon"
                 }
             }
         ]

@@ -25,14 +25,14 @@
                 "threshold": 2507059,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/pain_epices"
+                    "model": "peaceandcube:event/festin_estival_2/food/pain_epices"
                 }
             },
             {
                 "threshold": 2507064,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/croque_monsieur"
+                    "model": "peaceandcube:event/festin_estival_2/food/croque_monsieur"
                 }
             }
         ]

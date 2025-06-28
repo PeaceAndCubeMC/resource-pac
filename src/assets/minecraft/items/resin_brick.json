@@ -11,7 +11,7 @@
                 "threshold": 2507068,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/flan_coco"
+                    "model": "peaceandcube:event/festin_estival_2/food/flan_coco"
                 }
             }
         ]

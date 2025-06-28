@@ -32,14 +32,14 @@
                 "threshold": 2507013,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/raisin"
+                    "model": "peaceandcube:event/festin_estival_2/food/raisin"
                 }
             },
             {
                 "threshold": 2507014,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/orange"
+                    "model": "peaceandcube:event/festin_estival_2/food/orange"
                 }
             }
         ]

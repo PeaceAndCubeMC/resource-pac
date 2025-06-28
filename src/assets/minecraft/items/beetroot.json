@@ -18,14 +18,14 @@
                 "threshold": 2507008,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/tomate"
+                    "model": "peaceandcube:event/festin_estival_2/food/tomate"
                 }
             },
 	    {
                 "threshold": 2507010,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/poivron"
+                    "model": "peaceandcube:event/festin_estival_2/food/poivron"
                 }
             },
 	    {

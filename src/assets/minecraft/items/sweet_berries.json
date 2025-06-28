@@ -25,7 +25,7 @@
                 "threshold": 2507012,
                 "model": {
                     "type": "model",
-                    "model": "peaceandcube:event/festin_estival_2/fraise"
+                    "model": "peaceandcube:event/festin_estival_2/food/fraise"
                 }
             }
         ]
