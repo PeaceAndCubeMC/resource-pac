@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "peaceandcube:worldtour/wt16/drapeauwt16"
                 }
+            },
+            {
+                "threshold": 4317,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt17/drapeauwt17"
+                }
             }
         ]
     }
