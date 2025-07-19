@@ -4,6 +4,7 @@
 
 - AstralCube
 - Devlose
+- Luffyglac
 - Scari
 - ShadoMaso
 - Vico08lv
@@ -70,11 +71,12 @@ slide_fretboard-103302 by freesound_community
 <details>
 <summary>WorldTour</summary>
 
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00                                    |
-| 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15                                   |
-| 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16                                   |
+| CustomModelData | Item                      | Model path                               |
+|-----------------|---------------------------|------------------------------------------|
+| 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00   |
+| 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15  |
+| 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16  |
+| 2507001         | shulker_shell             | peaceandcube:worldtour/wt18/casquette    |
 
 </details>
 
