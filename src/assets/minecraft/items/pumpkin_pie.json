@@ -27,6 +27,41 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/omelette"
                 }
+            },
+            {
+                "threshold": 2507035,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/casu_marzu"
+                }
+            },
+            {
+                "threshold": 2507047,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/tarte_praline"
+                }
+            },
+            {
+                "threshold": 2507050,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/kouign_amann"
+                }
+            },
+            {
+                "threshold": 2507056,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/tarte_au_sucre"
+                }
+            },
+            {
+                "threshold": 2507065,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/tarte_tatin"
+                }
             }
         ]
     }

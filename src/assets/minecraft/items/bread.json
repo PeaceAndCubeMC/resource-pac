@@ -20,6 +20,20 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/pain_chocolat"
                 }
+            },
+            {
+                "threshold": 2507059,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/pain_epices"
+                }
+            },
+            {
+                "threshold": 2507064,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/croque_monsieur"
+                }
             }
         ]
     }

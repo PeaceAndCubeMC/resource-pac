@@ -34,6 +34,20 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/couteau"
                 }
+            },
+            {
+                "threshold": 2507101,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/couteau_viande"
+                }
+            },
+            {
+                "threshold": 2507102,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/couteau_coquille"
+                }
             }
         ]
     }

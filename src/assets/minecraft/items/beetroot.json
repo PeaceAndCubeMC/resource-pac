@@ -13,6 +13,62 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/oignon"
                 }
+            },
+	    {
+                "threshold": 2507008,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/tomate"
+                }
+            },
+	    {
+                "threshold": 2507010,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/poivron"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/tomate0"
+                }
+            },
+	    {
+                "threshold": 2507901,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/tomate1"
+                }
+            },
+	    {
+                "threshold": 2507902,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/tomate2"
+                }
+            },
+	    {
+                "threshold": 2507903,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/poivron0"
+                }
+            },
+	    {
+                "threshold": 2507904,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/poivron1"
+                }
+            },
+	    {
+                "threshold": 2507905,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/poivron2"
+                }
             }
         ]
     }

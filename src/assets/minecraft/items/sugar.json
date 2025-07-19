@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/farine"
                 }
+            },
+            {
+                "threshold": 2507004,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/sel"
+                }
             }
         ]
     }

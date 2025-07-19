@@ -13,6 +13,34 @@
                     "type": "model",
                     "model": "peaceandcube:donjon/harry_covert/patte_tofu"
                 }
+            },
+	    {
+                "threshold": 2507007,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/haricot"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/haricot0"
+                }
+            },
+	    {
+                "threshold": 2507901,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/haricot1"
+                }
+            },
+	    {
+                "threshold": 2507902,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/haricot2"
+                }
             }
         ]
     }

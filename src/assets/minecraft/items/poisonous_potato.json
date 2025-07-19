@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/poisonous_potato"
+        },
+        "entries": [
+            {
+                "threshold": 2507009,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/oignon"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/oignon0"
+                }
+            },
+	    {
+                "threshold": 2507901,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/oignon1"
+                }
+            },
+	    {
+                "threshold": 2507902,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/crops/oignon2"
+                }
+            }
+        ]
+    }
+}

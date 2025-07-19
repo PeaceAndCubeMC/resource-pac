@@ -13,7 +13,22 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/mousse_chocolat"
                 }
+            },
+            {
+                "threshold": 2507038,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/creme_catalane"
+                }
+            },
+            {
+                "threshold": 2507063,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/croute_forestiere"
+                }
             }
         ]
     }
 }
+

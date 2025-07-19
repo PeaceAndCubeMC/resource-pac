@@ -89,6 +89,125 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/get_27"
                 }
+            },
+            {
+                "threshold": 2507032,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/bouteille_de_lait"
+                }
+            },
+            {
+                "threshold": 2507036,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/pastis"
+                }
+            },
+            {
+                "threshold": 2507039,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/sirop_orange"
+                }
+            },
+            {
+                "threshold": 2507040,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/sirop_fraise"
+                }
+            },
+            {
+                "threshold": 2507041,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/sirop_citron"
+                }
+            },
+            {
+                "threshold": 2507042,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/sirop_menthe"
+                }
+            },
+            {
+                "threshold": 2507045,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/vin_rouge"
+                }
+            },
+            {
+                "threshold": 2507048,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/eau_petillante"
+                }
+            },
+            {
+                "threshold": 2507051,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/cidre"
+                }
+            },
+            {
+                "threshold": 2507054,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/calvados"
+                }
+            },
+            {
+                "threshold": 2507057,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/biere"
+                }
+            },
+            {
+                "threshold": 2507060,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/champagne"
+                }
+            },
+            {
+                "threshold": 2507066,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/limonade"
+                }
+            },
+            {
+                "threshold": 2507069,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/jus_mangue"
+                }
+            },
+            {
+                "threshold": 2507070,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/jus_ananas"
+                }
+            },
+            {
+                "threshold": 2507071,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/jus_grenade"
+                }
+            },
+            {
+                "threshold": 2507072,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/jus_banane"
+                }
             }
         ]
     }

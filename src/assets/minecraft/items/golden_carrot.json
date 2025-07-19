@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_carrot"
+        },
+        "entries": [
+            {
+                "threshold": 2507018,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/banane"
+                }
+            }
+        ]
+    }
+}

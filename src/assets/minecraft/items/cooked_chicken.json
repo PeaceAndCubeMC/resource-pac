@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival/hot_dog"
                 }
+            },
+            {
+                "threshold": 2507043,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/poulet_basquaise"
+                }
             }
         ]
     }

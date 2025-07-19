@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "peaceandcube:profile/homes/colors/white"
                 }
+            },
+            {
+                "threshold": 2507028,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/farine"
+                }
             }
         ]
     }

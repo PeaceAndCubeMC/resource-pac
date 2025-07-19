@@ -62,6 +62,13 @@
                     "type": "model",
                     "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_purple"
                 }
+            },
+            {
+                "threshold": 2507024,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/amande"
+                }
             }
         ]
     }

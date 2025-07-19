@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/melon_seeds"
+        },
+        "entries": [
+	    {
+                "threshold": 2507027,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/food/mouche"
+                }
+            },
+	    {
+                "threshold": 2507900,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trees/mouche0"
+                }
+            }
+        ]
+    }
+}
