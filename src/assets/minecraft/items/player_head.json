@@ -6,8 +6,7 @@
             "type": "minecraft:special",
             "base": "minecraft:item/template_skull",
             "model": {
-                "type": "minecraft:head",
-                "kind": "player"
+                "type": "minecraft:player_head"
             }
         },
         "entries": [
@@ -17,8 +16,7 @@
                     "type": "minecraft:special",
                     "base": "peaceandcube:profile/main/profile",
                     "model": {
-                        "type": "minecraft:head",
-                        "kind": "player"
+                        "type": "minecraft:player_head"
                     }
                 }
             }

@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/pufferfish"
+            "model": "minecraft:item/phantom_membrane"
         },
         "entries": [
             {
