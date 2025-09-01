@@ -298,6 +298,109 @@ slide_fretboard-103302 by freesound_community
 
 </details>
 
+<details>
+<summary>Été 2026 - Festin Estival 2</summary>
+
+| CustomModelData | Item             | Model path                                                          |
+|-----------------|------------------|---------------------------------------------------------------------|
+| 2507001         | wheat            | peaceandcube:event/festin_estival_2/food/houblon                    |
+| 2507002         | pumpkin_seeds    | peaceandcube:event/festin_estival_2/food/riz                        |
+| 2507003         | ink_sac          | peaceandcube:event/festin_estival_2/food/moule                      |
+| 2507004         | sugar            | peaceandcube:event/festin_estival_2/food/sel                        |
+| 2507005         | ink_sac          | peaceandcube:event/festin_estival_2/food/coquille_st_jacques_fermee |
+| 2507006         | nautilus_shell   | peaceandcube:event/festin_estival_2/food/escargot                   |
+| 2507007         | rabbit_foot      | peaceandcube:event/festin_estival_2/food/haricot                    |
+| 2507008         | beetroot         | peaceandcube:event/festin_estival_2/food/tomate                     |
+| 2507009         | poisonous_potato | peaceandcube:event/festin_estival_2/food/oignon                     |
+| 2507010         | beetroot         | peaceandcube:event/festin_estival_2/food/poivron                    |
+| 2507011         | green_dye        | peaceandcube:event/festin_estival_2/food/chou                       |
+| 2507012         | sweet_berries    | peaceandcube:event/festin_estival_2/food/fraise                     |
+| 2507013         | glow_berries     | peaceandcube:event/festin_estival_2/food/raisin                     |
+| 2507014         | glow_berries     | peaceandcube:event/festin_estival_2/food/orange                     |
+| 2507015         | golden_apple     | peaceandcube:event/festin_estival_2/food/citron                     |
+| 2507016         | firework_star    | peaceandcube:event/festin_estival_2/food/noix_de_coco               |
+| 2507017         | honeycomb        | peaceandcube:event/festin_estival_2/food/ananas                     |
+| 2507018         | golden_carrot    | peaceandcube:event/festin_estival_2/food/banane                     |
+| 2507019         | apple            | peaceandcube:event/festin_estival_2/food/mangue                     |
+| 2507020         | apple            | peaceandcube:event/festin_estival_2/food/grenade                    |
+| 2507021         | kelp             | peaceandcube:event/festin_estival_2/food/menthe                     |
+| 2507022         | brown_dye        | peaceandcube:event/festin_estival_2/food/anis                       |
+| 2507023         | wheat_seeds      | peaceandcube:event/festin_estival_2/food/herbes_aromatiques         |
+| 2507024         | iron_nugget      | peaceandcube:event/festin_estival_2/food/amande                     |
+| 2507025         | stick            | peaceandcube:event/festin_estival_2/food/cannelle                   |
+| 2507026         | stick            | peaceandcube:event/festin_estival_2/food/vanille                    |
+| 2507027         | melon_seeds      | peaceandcube:event/festin_estival_2/food/mouche                     |
+| 2507028         | white_dye        | peaceandcube:event/festin_estival_2/food/farine                     |
+| 2507029         | light_gray_dye   | peaceandcube:event/festin_estival_2/food/farine_ble_noir            |
+| 2507030         | mutton           | peaceandcube:event/festin_estival_2/food/saucisse                   |
+| 2507031         | porkchop         | peaceandcube:event/festin_estival_2/food/jambon                     |
+| 2507032         | potion           | peaceandcube:event/festin_estival_2/food/bouteille_de_lait          |
+| 2507033         | gold_ingot       | peaceandcube:event/festin_estival_2/food/beurre                     |
+| 2507034         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/bouillabaisse              |
+| 2507035         | pumpkin_pie      | peaceandcube:event/festin_estival_2/food/casu_marzu                 |
+| 2507036         | potion           | peaceandcube:event/festin_estival_2/food/pastis                     |
+| 2507037         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/cassoulet                  |
+| 2507038         | mushroom_stew    | peaceandcube:event/festin_estival_2/food/creme_catalane             |
+| 2507039         | potion           | peaceandcube:event/festin_estival_2/food/sirop_orange               |
+| 2507040         | potion           | peaceandcube:event/festin_estival_2/food/sirop_fraise               |
+| 2507041         | potion           | peaceandcube:event/festin_estival_2/food/sirop_citron               |
+| 2507042         | potion           | peaceandcube:event/festin_estival_2/food/sirop_menthe               |
+| 2507043         | cooked_chicken   | peaceandcube:event/festin_estival_2/food/poulet_basquaise           |
+| 2507044         | cookie           | peaceandcube:event/festin_estival_2/food/cannele                    |
+| 2507045         | potion           | peaceandcube:event/festin_estival_2/food/vin_rouge                  |
+| 2507046         | baked_potato     | peaceandcube:event/festin_estival_2/food/tartiflette                |
+| 2507047         | pumpkin_pie      | peaceandcube:event/festin_estival_2/food/tarte_praline              |
+| 2507048         | potion           | peaceandcube:event/festin_estival_2/food/eau_petillante             |
+| 2507049         | cookie           | peaceandcube:event/festin_estival_2/food/galette_sarrasin           |
+| 2507050         | pumpkin_pie      | peaceandcube:event/festin_estival_2/food/kouign_amann               |
+| 2507051         | potion           | peaceandcube:event/festin_estival_2/food/cidre                      |
+| 2507052         | ink_sac          | peaceandcube:event/festin_estival_2/food/coquille_st_jacques        |
+| 2507053         | phantom_membrane | peaceandcube:event/festin_estival_2/food/riz_au_lait_cannelle       |
+| 2507054         | potion           | peaceandcube:event/festin_estival_2/food/calvados                   |
+| 2507055         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/moules_frites              |
+| 2507056         | pumpkin_pie      | peaceandcube:event/festin_estival_2/food/tarte_au_sucre             |
+| 2507057         | potion           | peaceandcube:event/festin_estival_2/food/biere                      |
+| 2507058         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/choucroute                 |
+| 2507059         | bread            | peaceandcube:event/festin_estival_2/food/pain_epices                |
+| 2507060         | potion           | peaceandcube:event/festin_estival_2/food/champagne                  |
+| 2507061         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/boeuf_bourguignon          |
+| 2507062         | nautilus_shell   | peaceandcube:event/festin_estival_2/food/escargot_bourgogne         |
+| 2507063         | mushroom_stew    | peaceandcube:event/festin_estival_2/food/croute_forestiere          |
+| 2507064         | bread            | peaceandcube:event/festin_estival_2/food/croque_monsieur            |
+| 2507065         | pumpkin_pie      | peaceandcube:event/festin_estival_2/food/tarte_tatin                |
+| 2507066         | potion           | peaceandcube:event/festin_estival_2/food/limonade                   |
+| 2507067         | rabbit_stew      | peaceandcube:event/festin_estival_2/food/rougail_saucisses          |
+| 2507068         | resin_brick      | peaceandcube:event/festin_estival_2/food/flan_coco                  |
+| 2507069         | potion           | peaceandcube:event/festin_estival_2/food/jus_mangue                 |
+| 2507070         | potion           | peaceandcube:event/festin_estival_2/food/jus_ananas                 |
+| 2507071         | potion           | peaceandcube:event/festin_estival_2/food/jus_grenade                |
+| 2507072         | potion           | peaceandcube:event/festin_estival_2/food/jus_banane                 |
+| 2507101         | iron_sword       | peaceandcube:event/festin_estival_2/couteau_viande                  |
+| 2507102         | iron_sword       | peaceandcube:event/festin_estival_2/couteau_coquille                |
+| 2507103         | shears           | peaceandcube:event/festin_estival_2/faucille                        |
+| 2507201         | written_book     | peaceandcube:event/festin_estival_2/guide_culinaire                 |
+| 2507900         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate0                   |
+| 2507901         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate1                   |
+| 2507902         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate2                   |
+| 2507903         | beetroot         | peaceandcube:event/festin_estival_2/crops/poivron0                  |
+| 2507904         | beetroot         | peaceandcube:event/festin_estival_2/crops/poivron1                  |
+| 2507905         | beetroot         | peaceandcube:event/festin_estival_2/crops/poivron2                  |
+| 2507900         | green_dye        | peaceandcube:event/festin_estival_2/crops/chou0                     |
+| 2507901         | green_dye        | peaceandcube:event/festin_estival_2/crops/chou1                     |
+| 2507902         | green_dye        | peaceandcube:event/festin_estival_2/crops/chou2                     |
+| 2507900         | honeycomb        | peaceandcube:event/festin_estival_2/crops/ananas0                   |
+| 2507901         | honeycomb        | peaceandcube:event/festin_estival_2/crops/ananas1                   |
+| 2507902         | honeycomb        | peaceandcube:event/festin_estival_2/crops/ananas2                   |
+| 2507900         | poisonous_potato | peaceandcube:event/festin_estival_2/crops/oignon0                   |
+| 2507901         | poisonous_potato | peaceandcube:event/festin_estival_2/crops/oignon1                   |
+| 2507902         | poisonous_potato | peaceandcube:event/festin_estival_2/crops/oignon2                   |
+| 2507900         | rabbit_foot      | peaceandcube:event/festin_estival_2/crops/haricot0                  |
+| 2507901         | rabbit_foot      | peaceandcube:event/festin_estival_2/crops/haricot1                  |
+| 2507902         | rabbit_foot      | peaceandcube:event/festin_estival_2/crops/haricot2                  |
+| 2507900         | melon_seeds      | peaceandcube:event/festin_estival_2/trees/mouche0                   |
+
+</details>
+
 ### Donjons
 
 <details>
