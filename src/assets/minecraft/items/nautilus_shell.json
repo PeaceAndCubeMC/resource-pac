@@ -15,7 +15,7 @@
                 }
             },
             {
-                "threshold": 2507061,
+                "threshold": 2507062,
                 "model": {
                     "type": "model",
                     "model": "peaceandcube:event/festin_estival_2/food/escargot_bourgogne"
