@@ -55,6 +55,17 @@ slide_fretboard-103302 by freesound_community
 </details>
 
 <details>
+<summary>Build Thématique</summary>
+
+| CustomModelData | Item                      | Model path                                                                |
+|-----------------|---------------------------|---------------------------------------------------------------------------|
+| 102510          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2510                       |
+| 102511          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2511                       |
+| 102512          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2512                       |
+
+</details>
+
+<details>
 <summary>Loterie du Hippie</summary>
 
 | CustomModelData | Item                      | Model path                                                                |

@@ -12,6 +12,27 @@
                 "model": {
                     "type": "model",
                     "model": "peaceandcube:buildbattle/series_films/clap"
+                },
+
+            {
+                "threshold": 102510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2510"
+                },
+
+            {
+                "threshold": 102511,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2511"
+                },
+
+            {
+                "threshold": 102512,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2512"
                 }
             }
         ]
