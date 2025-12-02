@@ -39,6 +39,12 @@ rake-guitar-dry-83757 by freesound_community
 slide_fretboard-103302 by freesound_community
 ```
 
+```
+Carol of the Bells (Christmas Music Box) - music_for_video
+Licensed under Pixabay Content License
+https://pixabay.com/service/license-summary/
+```
+
 
 ## List of CustomModelData
 
