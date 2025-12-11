@@ -71,6 +71,19 @@ https://pixabay.com/service/license-summary/
 
 </details>
 
+</details>
+
+<details>
+<summary>Calendrier de l'avent</summary>
+
+| CustomModelData | Item | Model path                                  |
+|-----------------|------|---------------------------------------------|
+| 202412          | mace | peaceandcube:adventcalendar/maillet_de_noel |
+| 2512000         | mace | peaceandcube:adventcalendar/fleur_epee      |
+| 2512000         | mace | peaceandcube:adventcalendar/fleur_bouclier  |
+
+</details>
+
 <details>
 <summary>Loterie du Hippie</summary>
 
@@ -275,17 +288,6 @@ https://pixabay.com/service/license-summary/
 | CustomModelData | Item                      | Model path                               |
 |-----------------|---------------------------|------------------------------------------|
 | 2402            | bow                       | peaceandcube:event/sv2024/arc_passionnel |
-
-</details>
-
-<details>
-<summary>Calendrier de l'avent 2024</summary>
-
-| CustomModelData | Item | Model path                                  |
-|-----------------|------|---------------------------------------------|
-| 202412          | mace | peaceandcube:adventcalendar/maillet_de_noel |
-
-</details>
 
 <details>
 <summary>Chandeleur 2025</summary>
