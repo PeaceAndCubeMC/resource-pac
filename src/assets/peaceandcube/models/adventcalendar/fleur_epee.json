@@ -254,7 +254,7 @@
 				"south": {"uv": [5.5, 0.5, 6, 6.5], "texture": "#7"},
 				"west": {"uv": [4.5, 0.5, 5, 6.5], "texture": "#7"},
 				"up": {"uv": [0.5, 0, 1, 0.5], "texture": "#7"},
-				"down": {"uv": [2.25, 0.5, 2.75, 1], "texture": "#missing"}
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#7"}
 			}
 		},
 		{
@@ -270,6 +270,48 @@
 				"up": {"uv": [0, 2, 0.5, 2.5], "texture": "#7"},
 				"down": {"uv": [0, 4.5, 0.5, 5], "texture": "#7"}
 			}
+		},
+		{
+			"name": "pistil_center",
+			"from": [7.5, 4, 7.5],
+			"to": [8.5, 4.5, 8.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 4.5, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 13, 7, 13.5], "texture": "#7"},
+				"east": {"uv": [6.5, 13.5, 7, 14], "texture": "#7"},
+				"south": {"uv": [7, 13, 7.5, 13.5], "texture": "#7"},
+				"west": {"uv": [7, 13.5, 7.5, 14], "texture": "#7"},
+				"up": {"uv": [7, 14.5, 6.5, 14], "texture": "#7"},
+				"down": {"uv": [8, 13, 7.5, 13.5], "texture": "#7"}
+			}
+		},
+		{
+			"name": "pistil_1",
+			"from": [7, 4, 8],
+			"to": [9, 5.5, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 4.75, 8]},
+			"faces": {
+				"north": {"uv": [8.5, 13, 10, 14.5], "texture": "#7"},
+				"east": {"uv": [0, 0, 0, 1.5], "texture": "#7"},
+				"south": {"uv": [8.5, 13, 10, 14.5], "texture": "#7"},
+				"west": {"uv": [0, 0, 0, 1.5], "texture": "#7"},
+				"up": {"uv": [0, 0, 0, 2], "rotation": 270, "texture": "#7"},
+				"down": {"uv": [0, 0, 0, 2], "rotation": 90, "texture": "#7"}
+			}
+		},
+		{
+			"name": "pistil_2",
+			"from": [7, 4, 8],
+			"to": [9, 5.5, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 4.75, 8]},
+			"faces": {
+				"north": {"uv": [8.5, 13, 10, 14.5], "texture": "#7"},
+				"east": {"uv": [0, 0, 0, 1.5], "texture": "#7"},
+				"south": {"uv": [8.5, 13, 10, 14.5], "texture": "#7"},
+				"west": {"uv": [0, 0, 0, 1.5], "texture": "#7"},
+				"up": {"uv": [0, 0, 0, 2], "rotation": 90, "texture": "#7"},
+				"down": {"uv": [0, 0, 0, 2], "rotation": 270, "texture": "#7"}
+			}
 		}
 	],
 	"display": {
@@ -282,11 +324,11 @@
 			"scale": [1.4, 1.4, 1.4]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 0, 0],
+			"rotation": [-38, 0, 0],
 			"translation": [1.25, 4.75, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 0, 0],
+			"rotation": [-38, 0, 0],
 			"translation": [1.25, 4.5, 0]
 		},
 		"ground": {
@@ -336,6 +378,12 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [13, 14, 15, 16, 17, 18]
+		},
+		{
+			"name": "pistils",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [19, 20, 21]
 		}
 	]
 }
