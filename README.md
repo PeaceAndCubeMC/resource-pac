@@ -76,11 +76,11 @@ https://pixabay.com/service/license-summary/
 <details>
 <summary>Calendrier de l'avent</summary>
 
-| CustomModelData | Item | Model path                                  |
-|-----------------|------|---------------------------------------------|
-| 202412          | mace | peaceandcube:adventcalendar/maillet_de_noel |
-| 2512000         | mace | peaceandcube:adventcalendar/fleur_epee      |
-| 2512000         | mace | peaceandcube:adventcalendar/fleur_bouclier  |
+| CustomModelData | Item   | Model path                                  |
+|-----------------|--------|---------------------------------------------|
+| 202412          | mace   | peaceandcube:adventcalendar/maillet_de_noel |
+| 2512000         | shears | peaceandcube:adventcalendar/fleur_epee      |
+| 2512000         | shears | peaceandcube:adventcalendar/fleur_bouclier  |
 
 </details>
 
