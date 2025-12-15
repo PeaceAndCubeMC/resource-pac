@@ -289,6 +289,8 @@ https://pixabay.com/service/license-summary/
 |-----------------|---------------------------|------------------------------------------|
 | 2402            | bow                       | peaceandcube:event/sv2024/arc_passionnel |
 
+</details>
+
 <details>
 <summary>Chandeleur 2025</summary>
 
