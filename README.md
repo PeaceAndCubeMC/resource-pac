@@ -68,6 +68,11 @@ https://pixabay.com/service/license-summary/
 | 102510          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2510                       |
 | 102511          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2511                       |
 | 102512          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2512                       |
+| 102601          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2601                       |
+| 102602          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2602                       |
+| 102603          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2603                       |
+| 102604          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2604                       |
+| 102605          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2605                       |
 
 </details>
 
