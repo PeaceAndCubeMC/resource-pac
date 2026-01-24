@@ -34,6 +34,41 @@
                     "type": "model",
                     "model": "peaceandcube:buildbattle/build_thematique/item_2512"
                 }
+            },
+            {
+                "threshold": 102601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2601"
+                }
+            },
+            {
+                "threshold": 102602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2602"
+                }
+            },
+            {
+                "threshold": 102603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2603"
+                }
+            },
+            {
+                "threshold": 102604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2604"
+                }
+            },
+            {
+                "threshold": 102605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2605"
+                }
             }
         ]
     }
