@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_hoe",
-    "textures": {
-      "layer0": "peaceandcube:donjon/donjon_devlose/hoe/netherite_hoe_lime"
-    }
-  }
-
-  
