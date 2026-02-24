@@ -572,7 +572,7 @@ https://pixabay.com/service/license-summary/
 | 3002            | arrow                     | peaceandcube:profile/previous                                             |
 | 3002            | barrier                   | peaceandcube:profile/exit                                                 |
 | 3003            | arrow                     | peaceandcube:profile/next                                                 |
-| 3004            | chain                     | peaceandcube:profile/main/links                                           |
+| 3004            | iron_chain                | peaceandcube:profile/main/links                                           |
 | 3004            | golden_shovel             | peaceandcube:profile/main/claims                                          |
 | 3004            | knowledge_book            | peaceandcube:profile/main/rules                                           |
 | 3004            | map                       | peaceandcube:profile/main/dynmap                                          |
