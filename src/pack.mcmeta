@@ -1,13 +1,13 @@
 {
   "pack": {
     "min_format": 69,
-    "max_format": 78,
+    "max_format": 82,
     "description": ["",
       {"text": "Peace", "color": "red", "bold":true},
       {"text": "And", "color": "gold", "bold":true},
       {"text": "Cube", "color": "green", "bold":true},
       {"text": "\nVersion : "},
-      {"text": "31 janvier 2026", "color": "gray"}
+      {"text": "02 mars 2026", "color": "gray"}
     ]
   }
 }
