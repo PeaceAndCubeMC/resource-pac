@@ -1,6 +1,6 @@
 {
   "pack": {
-    "min_format": 69,
+    "min_format": 84,
     "max_format": 84,
     "description": ["",
       {"text": "Peace", "color": "red", "bold":true},
