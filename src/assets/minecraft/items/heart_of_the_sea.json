@@ -69,6 +69,20 @@
                     "type": "model",
                     "model": "peaceandcube:buildbattle/build_thematique/item_2605"
                 }
+            },
+            {
+                "threshold": 102606,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2606"
+                }
+            },
+            {
+                "threshold": 102607,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2607"
+                }
             }
         ]
     }
