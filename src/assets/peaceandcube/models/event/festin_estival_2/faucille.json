@@ -1,6 +1,46 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "peaceandcube:event/festin_estival_2/faucille"
-    }
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "peaceandcube:event/festin_estival_2/faucille"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 3, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 3, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [18, -84, 90],
+			"translation": [2.5, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 94, -90],
+			"translation": [2.5, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [-180, 0, -90]
+		},
+		"gui": {
+			"rotation": [0, -180, 90]
+		},
+		"head": {
+			"rotation": [0, 90, -82],
+			"translation": [0, 7.25, -3.75]
+		},
+		"fixed": {
+			"rotation": [-180, -180, -90]
+		},
+		"on_shelf": {
+			"rotation": [-180, 0, -90]
+		}
+	}
 }
