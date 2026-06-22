@@ -1,6 +1,49 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "peaceandcube:event/festin_estival_2/couteau_viande"
-    }
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "peaceandcube:event/festin_estival_2/couteau_viande"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 3, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 3, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [18, -84, 90],
+			"translation": [2.5, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 94, -90],
+			"translation": [2.5, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [-180, 0, -90],
+			"translation": [0, 0.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [0, -180, 90]
+		},
+		"head": {
+			"rotation": [6.21, -22.79, -166.17],
+			"translation": [1, 9.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [-180, -180, -90]
+		},
+		"on_shelf": {
+			"rotation": [-180, 0, -90]
+		}
+	}
 }
