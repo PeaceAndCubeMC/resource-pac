@@ -8,62 +8,6 @@
         },
         "entries": [
             {
-                "threshold": 502,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_orange"
-                }
-            },
-            {
-                "threshold": 503,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_magenta"
-                }
-            },
-            {
-                "threshold": 504,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_light_blue"
-                }
-            },
-            {
-                "threshold": 505,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_lime"
-                }
-            },
-            {
-                "threshold": 506,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_pink"
-                }
-            },
-            {
-                "threshold": 507,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_red"
-                }
-            },
-            {
-                "threshold": 508,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_yellow"
-                }
-            },
-            {
-                "threshold": 509,
-                "model": {
-                    "type": "model",
-                    "model": "peaceandcube:donjon/donjon_devlose/jetons/jeton_purple"
-                }
-            },
-            {
                 "threshold": 2507024,
                 "model": {
                     "type": "model",

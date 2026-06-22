@@ -1,16 +1,13 @@
 {
   "pack": {
-    "pack_format": 46,
-    "supported_formats": {
-      "min_inclusive": 46,
-      "max_inclusive": 63
-    },
+    "min_format": 84,
+    "max_format": 84,
     "description": ["",
       {"text": "Peace", "color": "red", "bold":true},
       {"text": "And", "color": "gold", "bold":true},
       {"text": "Cube", "color": "green", "bold":true},
       {"text": "\nVersion : "},
-      {"text": "20 juin 2025", "color": "gray"}
+      {"text": "07 juin 2026", "color": "gray"}
     ]
   }
 }

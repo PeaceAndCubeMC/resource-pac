@@ -34,16 +34,22 @@
     ],
     "category": "player"
   },
-  
+
+  "carol_of_the_bells": {
+    "sounds": [
+      "peaceandcube:adventcalendar/carol_of_the_bells"
+    ]
+  },
+
   "saxophone.sounds": {
-	"sounds": [
-		"peaceandcube:custom_instruments/saxophone/chill_jazz",
-		"peaceandcube:custom_instruments/saxophone/jazz",
-		"peaceandcube:custom_instruments/saxophone/sax_phrase",
-		"peaceandcube:custom_instruments/saxophone/down",
-		"peaceandcube:custom_instruments/saxophone/sax_playing"
-	], "category": "player"
-},
+    "sounds": [
+      "peaceandcube:custom_instruments/saxophone/chill_jazz",
+      "peaceandcube:custom_instruments/saxophone/jazz",
+      "peaceandcube:custom_instruments/saxophone/sax_phrase",
+      "peaceandcube:custom_instruments/saxophone/down",
+      "peaceandcube:custom_instruments/saxophone/sax_playing"
+    ], "category": "player"
+  },
 
   "guitar.sounds": {
     "sounds": [
