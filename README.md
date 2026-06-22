@@ -4,6 +4,7 @@
 
 - AstralCube
 - Devlose
+- Luffyglac
 - Scari
 - ShadoMaso
 - Vico08lv
@@ -38,6 +39,12 @@ rake-guitar-dry-83757 by freesound_community
 slide_fretboard-103302 by freesound_community
 ```
 
+```
+Carol of the Bells (Christmas Music Box) - music_for_video
+Licensed under Pixabay Content License
+https://pixabay.com/service/license-summary/
+```
+
 
 ## List of CustomModelData
 
@@ -50,6 +57,37 @@ slide_fretboard-103302 by freesound_community
 | 1               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe1                           |
 | 2               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe2                           |
 | 3               | iron_axe                  | peaceandcube:buildbattle/series_films/cameraxe3                           |
+
+</details>
+
+<details>
+<summary>Build Thématique</summary>
+
+| CustomModelData | Item                      | Model path                                                                |
+|-----------------|---------------------------|---------------------------------------------------------------------------|
+| 102510          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2510                       |
+| 102511          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2511                       |
+| 102512          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2512                       |
+| 102601          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2601                       |
+| 102602          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2602                       |
+| 102603          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2603                       |
+| 102604          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2604                       |
+| 102605          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2605                       |
+| 102606          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2606                       |
+| 102607          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2607                       |
+
+</details>
+
+</details>
+
+<details>
+<summary>Calendrier de l'avent</summary>
+
+| CustomModelData | Item   | Model path                                  |
+|-----------------|--------|---------------------------------------------|
+| 202412          | mace   | peaceandcube:adventcalendar/maillet_de_noel |
+| 2512000         | shears | peaceandcube:adventcalendar/fleur_epee      |
+| 2512000         | shears | peaceandcube:adventcalendar/fleur_bouclier  |
 
 </details>
 
@@ -70,11 +108,12 @@ slide_fretboard-103302 by freesound_community
 <details>
 <summary>WorldTour</summary>
 
-| CustomModelData | Item                      | Model path                                                                |
-|-----------------|---------------------------|---------------------------------------------------------------------------|
-| 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00                                    |
-| 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15                                   |
-| 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16                                   |
+| CustomModelData | Item                      | Model path                               |
+|-----------------|---------------------------|------------------------------------------|
+| 4315            | compass                   | peaceandcube:worldtour/wt15/compass_00   |
+| 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15  |
+| 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16  |
+| 2507001         | shulker_shell             | peaceandcube:worldtour/wt18/casquette    |
 
 </details>
 
@@ -256,15 +295,6 @@ slide_fretboard-103302 by freesound_community
 | CustomModelData | Item                      | Model path                               |
 |-----------------|---------------------------|------------------------------------------|
 | 2402            | bow                       | peaceandcube:event/sv2024/arc_passionnel |
-
-</details>
-
-<details>
-<summary>Calendrier de l'avent 2024</summary>
-
-| CustomModelData | Item | Model path                                  |
-|-----------------|------|---------------------------------------------|
-| 202412          | mace | peaceandcube:adventcalendar/maillet_de_noel |
 
 </details>
 
@@ -461,128 +491,6 @@ slide_fretboard-103302 by freesound_community
 </details>
 
 <details>
-<summary>Donjon Devlose</summary>
-
-| CustomModelData | Item                      | Model path                                                      |
-|-----------------|---------------------------|-----------------------------------------------------------------|
-| 501             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_base                 |
-| 501             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model            |
-| 501             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_base                 |
-| 501             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_base                 |
-| 501             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_base         |
-| 501             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_base           |
-| 501             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_base             |
-| 501             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/statue/devlose               |
-| 502             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_orange               |
-| 502             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_orange     |
-| 502             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_orange          |
-| 502             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_orange               |
-| 502             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_orange               |
-| 502             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_orange       |
-| 502             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_orange         |
-| 502             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_orange           |
-| 502             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_orange          |
-| 502             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/statue/scari                 |
-| 503             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_magenta              |
-| 503             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_magenta    |
-| 503             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_magenta         |
-| 503             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_magenta              |
-| 503             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_magenta              |
-| 503             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_magenta      |
-| 503             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_magenta        |
-| 503             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_magenta          |
-| 503             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_magenta         |
-| 503             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/statue/vico                  |
-| 504             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_light_blue           |
-| 504             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_light_blue |
-| 504             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_light_blue      |
-| 504             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_light_blue           |
-| 504             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_light_blue           |
-| 504             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_light_blue   |
-| 504             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_light_blue     |
-| 504             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_light_blue       |
-| 504             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_light_blue      |
-| 504             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_orange      |
-| 505             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_lime                 |
-| 505             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_lime       |
-| 505             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_lime            |
-| 505             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_lime                 |
-| 505             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_lime                 |
-| 505             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_lime         |
-| 505             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_lime           |
-| 505             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_lime             |
-| 505             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_lime            |
-| 505             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_magenta     |
-| 506             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_pink                 |
-| 506             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_pink       |
-| 506             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_pink            |
-| 506             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_pink                 |
-| 506             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_pink                 |
-| 506             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_pink         |
-| 506             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_pink           |
-| 506             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_pink             |
-| 506             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_pink            |
-| 506             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_light_blue  |
-| 507             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_red                  |
-| 507             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_red        |
-| 507             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_red             |
-| 507             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_red                  |
-| 507             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_red                  |
-| 507             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_red          |
-| 507             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_red            |
-| 507             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_red              |
-| 507             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_red             |
-| 507             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_lime        |
-| 508             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_yellow               |
-| 508             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_yellow     |
-| 508             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_yellow          |
-| 508             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_yellow               |
-| 508             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_yellow               |
-| 508             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_yellow       |
-| 508             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_yellow         |
-| 508             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_yellow           |
-| 508             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_yellow          |
-| 508             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_pink        |
-| 509             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_purple               |
-| 509             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_purple     |
-| 509             | iron_nugget               | peaceandcube:donjon/donjon_devlose/jetons/jeton_purple          |
-| 509             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_purple               |
-| 509             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_purple               |
-| 509             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_purple       |
-| 509             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_purple         |
-| 509             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_purple           |
-| 509             | paper                     | peaceandcube:donjon/donjon_devlose/cartes/carte_purple          |
-| 509             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_red         |
-| 510             | bow                       | peaceandcube:donjon/donjon_devlose/bow/bow_rainbow              |
-| 510             | clock                     | peaceandcube:donjon/donjon_devlose/clock/clock_model_rainbow    |
-| 510             | netherite_axe             | peaceandcube:donjon/donjon_devlose/axe/axe_rainbow              |
-| 510             | netherite_hoe             | peaceandcube:donjon/donjon_devlose/hoe/hoe_rainbow              |
-| 510             | netherite_pickaxe         | peaceandcube:donjon/donjon_devlose/pickaxe/pickaxe_rainbow      |
-| 510             | netherite_shovel          | peaceandcube:donjon/donjon_devlose/shovel/shovel_rainbow        |
-| 510             | netherite_sword           | peaceandcube:donjon/donjon_devlose/sword/sword_rainbow          |
-| 510             | paper                     | peaceandcube:donjon/donjon_devlose/boost/armor                  |
-| 510             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_yellow      |
-| 511             | paper                     | peaceandcube:donjon/donjon_devlose/boost/attackkb               |
-| 511             | totem_of_undying          | peaceandcube:donjon/donjon_devlose/vendeurs/vendeur_purple      |
-| 512             | paper                     | peaceandcube:donjon/donjon_devlose/boost/attackspeed            |
-| 513             | paper                     | peaceandcube:donjon/donjon_devlose/boost/damage                 |
-| 514             | paper                     | peaceandcube:donjon/donjon_devlose/boost/health                 |
-| 515             | paper                     | peaceandcube:donjon/donjon_devlose/boost/kresistance            |
-| 516             | paper                     | peaceandcube:donjon/donjon_devlose/boost/luck                   |
-| 517             | paper                     | peaceandcube:donjon/donjon_devlose/boost/speed                  |
-| 518             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_orange         |
-| 519             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_magenta        |
-| 520             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_light_blue     |
-| 521             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_lime           |
-| 522             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_pink           |
-| 523             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_red            |
-| 524             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_yellow         |
-| 525             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_purple         |
-| 526             | paper                     | peaceandcube:donjon/donjon_devlose/chroma/chroma_rainbow        |
-
-</details>
-
-<details>
 <summary>Donjon Le Casse du Siècle</summary>
 
 | CustomModelData | Item              | Model path                                   |
@@ -675,7 +583,7 @@ slide_fretboard-103302 by freesound_community
 | 3002            | arrow                     | peaceandcube:profile/previous                                             |
 | 3002            | barrier                   | peaceandcube:profile/exit                                                 |
 | 3003            | arrow                     | peaceandcube:profile/next                                                 |
-| 3004            | chain                     | peaceandcube:profile/main/links                                           |
+| 3004            | iron_chain                | peaceandcube:profile/main/links                                           |
 | 3004            | golden_shovel             | peaceandcube:profile/main/claims                                          |
 | 3004            | knowledge_book            | peaceandcube:profile/main/rules                                           |
 | 3004            | map                       | peaceandcube:profile/main/dynmap                                          |

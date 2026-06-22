@@ -13,6 +13,76 @@
                     "type": "model",
                     "model": "peaceandcube:buildbattle/series_films/clap"
                 }
+            },
+            {
+                "threshold": 102510,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2510"
+                }
+            },
+            {
+                "threshold": 102511,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2511"
+                }
+            },
+            {
+                "threshold": 102512,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2512"
+                }
+            },
+            {
+                "threshold": 102601,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2601"
+                }
+            },
+            {
+                "threshold": 102602,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2602"
+                }
+            },
+            {
+                "threshold": 102603,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2603"
+                }
+            },
+            {
+                "threshold": 102604,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2604"
+                }
+            },
+            {
+                "threshold": 102605,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2605"
+                }
+            },
+            {
+                "threshold": 102606,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2606"
+                }
+            },
+            {
+                "threshold": 102607,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2607"
+                }
             }
         ]
     }

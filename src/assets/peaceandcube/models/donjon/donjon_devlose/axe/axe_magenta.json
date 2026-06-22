@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_axe",
-    "textures": {
-      "layer0": "peaceandcube:donjon/donjon_devlose/axe/netherite_axe_magenta"
-    }
-  }
-
-  

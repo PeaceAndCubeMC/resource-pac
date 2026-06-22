@@ -3,22 +3,37 @@
         "type": "range_dispatch",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
+            "type": "minecraft:model",
             "model": "minecraft:item/shears"
         },
         "entries": [
             {
                 "threshold": 601,
                 "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "peaceandcube:donjon/le_casse/butterfly_knife"
                 }
             },
             {
                 "threshold": 2507103,
                 "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "peaceandcube:event/festin_estival_2/faucille"
+                }
+            },
+            {
+                "threshold": 2512000,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:adventcalendar/fleur_epee"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "peaceandcube:adventcalendar/fleur_bouclier"
+                    }
                 }
             }
         ]
