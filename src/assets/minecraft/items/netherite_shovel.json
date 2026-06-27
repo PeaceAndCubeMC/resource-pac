@@ -41,6 +41,13 @@
                     "type": "model",
                     "model": "peaceandcube:donjon/le_casse/shovel_j"
                 }
+            },
+            {
+                "threshold": 2507203,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/spatule"
+                }
             }
         ]
     }
