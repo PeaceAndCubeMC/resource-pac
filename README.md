@@ -115,6 +115,7 @@ https://pixabay.com/service/license-summary/
 | 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15  |
 | 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16  |
 | 2507001         | shulker_shell             | peaceandcube:worldtour/wt18/casquette    |
+| 2607001         | heart_of_the_sea          | peaceandcube:worldtour/wt19/chapeau      |
 
 </details>
 
