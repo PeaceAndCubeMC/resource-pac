@@ -1,5 +1,4 @@
 {
-	"format_version": "26.1.2",
 	"credit": "Made By Luffyglac",
 	"texture_size": [128, 128],
 	"textures": {
@@ -317,7 +316,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"fixed": {
-			"translation": [0, 0, 5],
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -8],
 			"scale": [0.4, 0.4, 0.4]
 		}
 	},
@@ -362,5 +362,6 @@
 			]
 		},
 		20
-	]
+	],
+	"format_version": "26.1.2"
 }
