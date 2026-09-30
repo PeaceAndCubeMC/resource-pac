@@ -116,6 +116,7 @@ https://pixabay.com/service/license-summary/
 | 4315            | globe_banner_pattern      | peaceandcube:worldtour/wt15/drapeauwt15  |
 | 4316            | globe_banner_pattern      | peaceandcube:worldtour/wt16/drapeauwt16  |
 | 2507001         | shulker_shell             | peaceandcube:worldtour/wt18/casquette    |
+| 2607001         | heart_of_the_sea          | peaceandcube:worldtour/wt19/chapeau      |
 
 </details>
 
@@ -409,6 +410,15 @@ https://pixabay.com/service/license-summary/
 | 2507102         | iron_sword       | peaceandcube:event/festin_estival_2/couteau_coquille                |
 | 2507103         | shears           | peaceandcube:event/festin_estival_2/faucille                        |
 | 2507201         | written_book     | peaceandcube:event/festin_estival_2/guide_culinaire                 |
+| 2507202         | bundle           | peaceandcube:event/festin_estival_2/toque                           |
+| 2507203         | netherite_shovel | peaceandcube:event/festin_estival_2/spatule                         |
+| 2507204         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/npc                    |
+| 2507205         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/volcan                 |
+| 2507206         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/station                |
+| 2507207         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/manger                 |
+| 2507208         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/craft                  |
+| 2507209         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/vendre                 |
+| 2507210         | turtle_scute     | peaceandcube:event/festin_estival_2/trophies/recolter               |
 | 2507900         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate0                   |
 | 2507901         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate1                   |
 | 2507902         | beetroot         | peaceandcube:event/festin_estival_2/crops/tomate2                   |

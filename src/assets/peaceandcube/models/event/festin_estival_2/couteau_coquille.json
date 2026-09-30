@@ -26,6 +26,10 @@
 			"translation": [2.5, 2, 0],
 			"scale": [0.6, 0.6, 0.6]
 		},
+		"ground": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
 		"head": {
 			"rotation": [0, 90, -9],
 			"translation": [-7, 2.75, 0],

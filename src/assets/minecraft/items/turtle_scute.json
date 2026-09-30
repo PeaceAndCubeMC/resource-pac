@@ -1,0 +1,61 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/turtle_scute"
+        },
+        "entries": [
+            {
+                "threshold": 2507204,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/npc"
+                }
+            },
+            {
+                "threshold": 2507205,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/volcan"
+                }
+            },
+            {
+                "threshold": 2507206,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/station"
+                }
+            },
+            {
+                "threshold": 2507207,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/manger"
+                }
+            },
+            {
+                "threshold": 2507208,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/craft"
+                }
+            },
+            {
+                "threshold": 2507209,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/vendre"
+                }
+            },
+            {
+                "threshold": 2507210,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:event/festin_estival_2/trophies/recolter"
+                }
+            }            
+        ]
+    }
+}
