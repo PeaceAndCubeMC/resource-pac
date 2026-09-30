@@ -90,6 +90,20 @@
                     "type": "model",
                     "model": "peaceandcube:buildbattle/build_thematique/item_2608"
                 }
+            },
+            {
+                "threshold": 102609,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2609"
+                }
+            },
+            {
+                "threshold": 2507001,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:worldtour/wt19/chapeau"
+                }
             }
         ]
     }
