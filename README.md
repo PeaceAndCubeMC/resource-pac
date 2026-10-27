@@ -65,6 +65,8 @@ https://pixabay.com/service/license-summary/
 
 | CustomModelData | Item                      | Model path                                                                |
 |-----------------|---------------------------|---------------------------------------------------------------------------|
+| 102411          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/trophy_framed_empty             |
+| 102412          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/trophy_empty                    |
 | 102510          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2510                       |
 | 102511          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2511                       |
 | 102512          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2512                       |

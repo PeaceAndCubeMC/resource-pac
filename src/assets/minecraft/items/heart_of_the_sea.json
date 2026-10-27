@@ -15,6 +15,20 @@
                 }
             },
             {
+                "threshold": 102411,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/trophy_framed_empty"
+                }
+            },
+            {
+                "threshold": 102412,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/trophy_empty"
+                }
+            },
+            {
                 "threshold": 102510,
                 "model": {
                     "type": "model",
@@ -99,7 +113,7 @@
                 }
             },
             {
-                "threshold": 102609,
+                "threshold": 102610,
                 "model": {
                     "type": "model",
                     "model": "peaceandcube:buildbattle/build_thematique/item_2610"
