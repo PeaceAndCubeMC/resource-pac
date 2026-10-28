@@ -77,6 +77,11 @@
     },
     {
       "type": "directory",
+      "source": "common",
+      "prefix": "common/"
+    },
+    {
+      "type": "directory",
       "source": "donjon",
       "prefix": "donjon/"
     },
