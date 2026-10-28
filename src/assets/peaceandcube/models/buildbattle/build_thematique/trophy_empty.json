@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
+		"particle": "peaceandcube:buildbattle/build_thematique/trophy_base",
 		"trophy_base": "peaceandcube:buildbattle/build_thematique/trophy_base",
-		"item": "peaceandcube:common/empty",
-		"particle": "#trophy_base"
+		"item": "peaceandcube:common/empty"
 	},
 	"elements": [
 		{
@@ -51,10 +51,9 @@
 		},
 		{
 			"name": "item",
-			"from": [0, 4, 8],
-			"to": [16, 20, 8],
+			"from": [2, 4, 8],
+			"to": [14, 16, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 5, 6]},
-			"color": 1,
 			"faces": {
 				"north": {"uv": [16, 0, 0, 16], "texture": "#item"},
 				"east": {"uv": [0, 6, 0, 16], "texture": "#item"},
