@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"trophy_base": "peaceandcube:buildbattle/build_thematique/trophy_base",
-		"item": "peaceandcube:buildbattle/build_thematique/item_empty",
+		"item": "peaceandcube:common/empty",
 		"particle": "#trophy_base"
 	},
 	"elements": [
