@@ -127,6 +127,13 @@
                 }
             },
             {
+                "threshold": 102612,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2612"
+                }
+            },
+            {
                 "threshold": 2507001,
                 "model": {
                     "type": "model",
