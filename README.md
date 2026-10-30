@@ -80,6 +80,8 @@ https://pixabay.com/service/license-summary/
 | 102608          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2608                       |
 | 102609          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2609                       |
 | 102610          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2610                       |
+| 102611          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2611                       |
+| 102612          | heart_of_the_sea          | peaceandcube:buildbattle/build_thematique/item_2612                       |
 
 </details>
 
