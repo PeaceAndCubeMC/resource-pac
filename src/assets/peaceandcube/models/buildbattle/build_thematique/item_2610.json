@@ -1,0 +1,6 @@
+{
+	"parent": "peaceandcube:buildbattle/build_thematique/trophy_empty",
+	"textures": {
+		"item": "peaceandcube:buildbattle/build_thematique/item_2610"
+	}
+}

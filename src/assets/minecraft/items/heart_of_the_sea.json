@@ -15,6 +15,20 @@
                 }
             },
             {
+                "threshold": 102411,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/trophy_framed_empty"
+                }
+            },
+            {
+                "threshold": 102412,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/trophy_empty"
+                }
+            },
+            {
                 "threshold": 102510,
                 "model": {
                     "type": "model",
@@ -96,6 +110,27 @@
                 "model": {
                     "type": "model",
                     "model": "peaceandcube:buildbattle/build_thematique/item_2609"
+                }
+            },
+            {
+                "threshold": 102610,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2610"
+                }
+            },
+            {
+                "threshold": 102611,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2611"
+                }
+            },
+            {
+                "threshold": 102612,
+                "model": {
+                    "type": "model",
+                    "model": "peaceandcube:buildbattle/build_thematique/item_2612"
                 }
             },
             {
